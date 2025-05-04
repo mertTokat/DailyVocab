@@ -1,0 +1,2257 @@
+[
+  {
+    "chinese": "的",
+    "pinyin": "de",
+    "example_sentence": "indicates possession, like adding 's to a noun"
+  },
+  {
+    "chinese": "我的妈妈很漂亮。",
+    "pinyin": "Wǒ de māmā hěn piàoliang.",
+    "example_sentence": "My mother is very beautiful."
+  },
+  {
+    "chinese": "我的狗在喝水。",
+    "pinyin": "Wǒ de gǒu zài hē shuǐ.",
+    "example_sentence": "My dog is drinking water."
+  },
+  {
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "example_sentence": "I; me"
+  },
+  {
+    "chinese": "我喜欢中国。",
+    "pinyin": "Wǒ xǐhuān zhōngguó.",
+    "example_sentence": "I like China."
+  },
+  {
+    "chinese": "我在看书。",
+    "pinyin": "Wǒ zài kànshū.",
+    "example_sentence": "I am reading."
+  },
+  {
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "example_sentence": "you (singular)"
+  },
+  {
+    "chinese": "你是医生吗？",
+    "pinyin": "Nǐ shì yīshēng ma?",
+    "example_sentence": "Are you a doctor?"
+  },
+  {
+    "chinese": "你在说什么？",
+    "pinyin": "Nǐ zài shuō shénme?",
+    "example_sentence": "What are you saying?"
+  },
+  {
+    "chinese": "是",
+    "pinyin": "shì",
+    "example_sentence": "be; is; are; am"
+  },
+  {
+    "chinese": "这是一只狗。",
+    "pinyin": "Zhè shì yī zhī gǒu.",
+    "example_sentence": "This is a dog."
+  },
+  {
+    "chinese": "这是我们的爸爸。",
+    "pinyin": "Zhè shì wǒmen de bàba.",
+    "example_sentence": "This is our dad."
+  },
+  {
+    "chinese": "了",
+    "pinyin": "le",
+    "example_sentence": "indicates a completed or finished action"
+  },
+  {
+    "chinese": "这里开了家医院。",
+    "pinyin": "Zhèlǐ kāile jiā yīyuàn.",
+    "example_sentence": "There is a hospital here."
+  },
+  {
+    "chinese": "她说了什么？",
+    "pinyin": "Tā shuōle shénme?",
+    "example_sentence": "What did she say?"
+  },
+  {
+    "chinese": "不",
+    "pinyin": "bù",
+    "example_sentence": "no; not"
+  },
+  {
+    "chinese": "她女儿不在家。",
+    "pinyin": "Tā nǚ'ér bù zàijiā.",
+    "example_sentence": "Her daughter is not at home."
+  },
+  {
+    "chinese": "我不认识他朋友。",
+    "pinyin": "Wǒ bù rènshí tā péngyǒu.",
+    "example_sentence": "I don't know his friend."
+  },
+  {
+    "chinese": "在",
+    "pinyin": "zài",
+    "example_sentence": "at; on; in; indicates an action in progress"
+  },
+  {
+    "chinese": "他在那家医院工作。",
+    "pinyin": "Tā zài nà jiā yīyuàn gōngzuò.",
+    "example_sentence": "He works at that hospital."
+  },
+  {
+    "chinese": "我在看电影。",
+    "pinyin": "Wǒ zài kàn diànyǐng.",
+    "example_sentence": "I am watching a movie."
+  },
+  {
+    "chinese": "他",
+    "pinyin": "tā",
+    "example_sentence": "he; him"
+  },
+  {
+    "chinese": "他喜欢他的工作。",
+    "pinyin": "Tā xǐhuān tā de gōngzuò.",
+    "example_sentence": "He likes his job."
+  },
+  {
+    "chinese": "他是我爸爸。",
+    "pinyin": "Tā shì wǒ bàba.",
+    "example_sentence": "He's my dad."
+  },
+  {
+    "chinese": "我们",
+    "pinyin": "wǒmen",
+    "example_sentence": "we; us"
+  },
+  {
+    "chinese": "她是我们的好朋友。",
+    "pinyin": "Tā shì wǒmen de hǎo péngyǒu.",
+    "example_sentence": "She is our good friend."
+  },
+  {
+    "chinese": "她是他女儿。",
+    "pinyin": "Tā shì tā nǚ'ér.",
+    "example_sentence": "She's his daughter."
+  },
+  {
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "example_sentence": "good"
+  },
+  {
+    "chinese": "我好想看电影。",
+    "pinyin": "Wǒ hǎo xiǎng kàn diànyǐng.",
+    "example_sentence": "I really want to watch a movie."
+  },
+  {
+    "chinese": "她女儿是我的好朋友。",
+    "pinyin": "Tā nǚ'ér shì wǒ de hǎo péngyǒu.",
+    "example_sentence": "Her daughter is my good friend."
+  },
+  {
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "example_sentence": "have"
+  },
+  {
+    "chinese": "我家有一只猫。",
+    "pinyin": "Wǒjiā yǒuyī zhī māo.",
+    "example_sentence": "My family has a cat."
+  },
+  {
+    "chinese": "我有一个苹果。",
+    "pinyin": "Wǒ yǒuyīgè píngguǒ.",
+    "example_sentence": "I have an apple."
+  },
+  {
+    "chinese": "这",
+    "pinyin": "zhè",
+    "example_sentence": "this"
+  },
+  {
+    "chinese": "这个人很爱看书。",
+    "pinyin": "Zhège rén hěn ài kànshū.",
+    "example_sentence": "This person really loves to read"
+  },
+  {
+    "chinese": "这里有一只狗。",
+    "pinyin": "Zhè li yǒuyī zhī gǒu",
+    "example_sentence": "There is a dog here."
+  },
+  {
+    "chinese": "会",
+    "pinyin": "huì",
+    "example_sentence": "know how to"
+  },
+  {
+    "chinese": "我的妈妈会做菜。",
+    "pinyin": "Wǒ de māmā huì zuò cài.",
+    "example_sentence": "My mother can cook"
+  },
+  {
+    "chinese": "我会打电话给他。",
+    "pinyin": "Wǒ huì dǎ diànhuà gěi tā.",
+    "example_sentence": "I'll call him."
+  },
+  {
+    "chinese": "吗",
+    "pinyin": "ma",
+    "example_sentence": "indicates a yes/no question (added to a statement)"
+  },
+  {
+    "chinese": "你会喜欢我吗？",
+    "pinyin": "Nǐ huì xǐhuān wǒ ma?",
+    "example_sentence": "Will you like me?"
+  },
+  {
+    "chinese": "你会写汉语吗？",
+    "pinyin": "Nǐ huì xiě hànyǔ ma?",
+    "example_sentence": "Can you write Chinese?"
+  },
+  {
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "example_sentence": "what? (replaces the noun to turn a statement into a question)"
+  },
+  {
+    "chinese": "这是什么菜？",
+    "pinyin": "Zhè shì shénme cài?",
+    "example_sentence": "What dish is it?"
+  },
+  {
+    "chinese": "他在说什么？",
+    "pinyin": "Tā zài shuō shénme?",
+    "example_sentence": "What is he talking about?"
+  },
+  {
+    "chinese": "说",
+    "pinyin": "shuō",
+    "example_sentence": "speak"
+  },
+  {
+    "chinese": "他说他想看电影。",
+    "pinyin": "Tā shuō tā xiǎng kàn diànyǐng.",
+    "example_sentence": "He says he would like to watch a movie."
+  },
+  {
+    "chinese": "你说他是你的朋友。",
+    "pinyin": "Nǐ shuō tā shì nǐ de péngyǒu.",
+    "example_sentence": "You said he was your friend."
+  },
+  {
+    "chinese": "她",
+    "pinyin": "tā",
+    "example_sentence": "she"
+  },
+  {
+    "chinese": "她女儿在睡觉。",
+    "pinyin": "Tā nǚ'ér zài shuìjiào.",
+    "example_sentence": "Her daughter is sleeping."
+  },
+  {
+    "chinese": "她喜欢她的工作。",
+    "pinyin": "Tā xǐhuān tā de gōngzuò.",
+    "example_sentence": "She likes her job."
+  },
+  {
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "example_sentence": "think; believe; suppose; would like to"
+  },
+  {
+    "chinese": "我想吃水果。",
+    "pinyin": "Wǒ xiǎng chī shuǐguǒ.",
+    "example_sentence": "I want to eat fruit."
+  },
+  {
+    "chinese": "我想她和他是好朋友。",
+    "pinyin": "Wǒ xiǎng tā hé tā shì hǎo péngyǒu.",
+    "example_sentence": "I think she's a good friend of his."
+  },
+  {
+    "chinese": "一",
+    "pinyin": "yī",
+    "example_sentence": "one; once; a"
+  },
+  {
+    "chinese": "这是一只猫。",
+    "pinyin": "Zhè shì yī zhǐ māo.",
+    "example_sentence": "This is a cat."
+  },
+  {
+    "chinese": "我有一个医生朋友。",
+    "pinyin": "Wǒ yǒuyīgè yīshēng péngyǒu.",
+    "example_sentence": "I have a doctor friend."
+  },
+  {
+    "chinese": "很",
+    "pinyin": "hěn",
+    "example_sentence": "very; quite"
+  },
+  {
+    "chinese": "我很喜欢他的书。",
+    "pinyin": "Wǒ hěn xǐhuān tā de shū.",
+    "example_sentence": "I really like his book."
+  },
+  {
+    "chinese": "你的衣服很漂亮。",
+    "pinyin": "Nǐ de yīfú hěn piào liàng",
+    "example_sentence": "Your clothes are pretty."
+  },
+  {
+    "chinese": "人",
+    "pinyin": "rén",
+    "example_sentence": "person; man; people"
+  },
+  {
+    "chinese": "人人都喜欢他。",
+    "pinyin": "Rén rén dōu xǐhuān tā.",
+    "example_sentence": "Everyone likes him."
+  },
+  {
+    "chinese": "这是一个中国人。",
+    "pinyin": "Zhè shì yīgè zhōngguó rén.",
+    "example_sentence": "This is a Chinese person."
+  },
+  {
+    "chinese": "那",
+    "pinyin": "nà",
+    "example_sentence": "that; then"
+  },
+  {
+    "chinese": "那里有一家医院。",
+    "pinyin": "Nà lǐ yǒu yī jiā yīyuàn",
+    "example_sentence": "A hospital is over there."
+  },
+  {
+    "chinese": "我坐在那边。",
+    "pinyin": "Wǒ zuò zài nà biān.",
+    "example_sentence": "I sit over there."
+  },
+  {
+    "chinese": "来",
+    "pinyin": "lái",
+    "example_sentence": "come; arrive; ever since; next"
+  },
+  {
+    "chinese": "他来我家了。",
+    "pinyin": "Tā lái wǒjiāle.",
+    "example_sentence": "He came to my house."
+  },
+  {
+    "chinese": "来年我们会去中国。",
+    "pinyin": "Láinián wǒmen huì qù zhōngguó.",
+    "example_sentence": "We'll go to China next year."
+  },
+  {
+    "chinese": "都",
+    "pinyin": "dōu",
+    "example_sentence": "all; both"
+  },
+  {
+    "chinese": "我们都认识他。",
+    "pinyin": "Wǒmen dōu rènshí tā.",
+    "example_sentence": "We all know him."
+  },
+  {
+    "chinese": "他们都看见你了。",
+    "pinyin": "Tāmen dōu kànjiàn nǐle.",
+    "example_sentence": "They all saw you."
+  },
+  {
+    "chinese": "个",
+    "pinyin": "ge",
+    "example_sentence": "general measure word"
+  },
+  {
+    "chinese": "这个人喜欢狗。",
+    "pinyin": "Zhègè rén xǐhuān gǒu.",
+    "example_sentence": "This person likes dogs."
+  },
+  {
+    "chinese": "他有一个儿子。",
+    "pinyin": "Tā yǒu yīgè ér zi",
+    "example_sentence": "They have a son."
+  },
+  {
+    "chinese": "能",
+    "pinyin": "néng",
+    "example_sentence": "can; be able"
+  },
+  {
+    "chinese": "我能去你家玩吗？",
+    "pinyin": "Wǒ néng qù nǐ jiā wán ma?",
+    "example_sentence": "Can I visit your home?"
+  },
+  {
+    "chinese": "我能和你住在一起吗？",
+    "pinyin": "Wǒ néng hé nǐ zhù zài yīqǐ ma?",
+    "example_sentence": "Can I live with you?"
+  },
+  {
+    "chinese": "去",
+    "pinyin": "qù",
+    "example_sentence": "go; to leave"
+  },
+  {
+    "chinese": "我去看书了。",
+    "pinyin": "Wǒ qù kànshūle.",
+    "example_sentence": "I am going to read a book."
+  },
+  {
+    "chinese": "她去医院了。",
+    "pinyin": "Tā qù yīyuànle.",
+    "example_sentence": "She's gone to the hospital."
+  },
+  {
+    "chinese": "和",
+    "pinyin": "hé",
+    "example_sentence": "and; with"
+  },
+  {
+    "chinese": "你和他是怎么认识的？",
+    "pinyin": "Nǐ hé tā shì zěnme rènshí de?",
+    "example_sentence": "How do you know him?"
+  },
+  {
+    "chinese": "猫和狗是好朋友。",
+    "pinyin": "Māo hé gǒu shì hǎo péngyǒu.",
+    "example_sentence": "Cats are good friends with dogs."
+  },
+  {
+    "chinese": "做",
+    "pinyin": "zuò",
+    "example_sentence": "do; make"
+  },
+  {
+    "chinese": "你在做什么？",
+    "pinyin": "Nǐ zài zuò shénme?",
+    "example_sentence": "What are you doing?"
+  },
+  {
+    "chinese": "她做的饭很好吃。",
+    "pinyin": "Tā zuò de fàn hěn hǎo chī",
+    "example_sentence": "The food she cooks tastes good."
+  },
+  {
+    "chinese": "上",
+    "pinyin": "shàng",
+    "example_sentence": "above; up"
+  },
+  {
+    "chinese": "我在飞机上了。",
+    "pinyin": "Wǒ zài fēijī shàngle.",
+    "example_sentence": "I am on the plane."
+  },
+  {
+    "chinese": "椅子上有一只猫。",
+    "pinyin": "Yǐzi shàng yǒu yì zhī māo",
+    "example_sentence": "There's a cat on the chair."
+  },
+  {
+    "chinese": "没有",
+    "pinyin": "méiyǒu",
+    "example_sentence": "not have; there is not"
+  },
+  {
+    "chinese": "我没有她的电话。",
+    "pinyin": "Wǒ méiyǒu tā de diànhuà.",
+    "example_sentence": "I do not have her phone number."
+  },
+  {
+    "chinese": "我没有看见她的狗。",
+    "pinyin": "Wǒ méiyǒu kànjiàn tā de gǒu.",
+    "example_sentence": "I didn't see her dog."
+  },
+  {
+    "chinese": "看",
+    "pinyin": "kàn",
+    "example_sentence": "see; look at; to watch"
+  },
+  {
+    "chinese": "她女儿在看书。",
+    "pinyin": "Tā nǚ'ér zài kànshū.",
+    "example_sentence": "Her daughter is reading a book."
+  },
+  {
+    "chinese": "我在看电影。",
+    "pinyin": "Wǒ zài kàn diànyǐng.",
+    "example_sentence": "I am watching a movie."
+  },
+  {
+    "chinese": "怎么",
+    "pinyin": "zěnme",
+    "example_sentence": "how?"
+  },
+  {
+    "chinese": "我怎么去你的学校？",
+    "pinyin": "Wǒ zěnme qù nǐ de xuéxiào?",
+    "example_sentence": "How can I go to your school?"
+  },
+  {
+    "chinese": "这个汉语怎么读？",
+    "pinyin": "Zhège hànyǔ zěnme dú?",
+    "example_sentence": "How does this Chinese read?"
+  },
+  {
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "example_sentence": "now"
+  },
+  {
+    "chinese": "现在会写汉语的人很多。",
+    "pinyin": "Xiànzài huì xiě hànyǔ de rén hěnduō.",
+    "example_sentence": "Nowadays, many people can write Chinese."
+  },
+  {
+    "chinese": "我现在在家。",
+    "pinyin": "Wǒ xiànzài zàijiā.",
+    "example_sentence": "I am at home now."
+  },
+  {
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "example_sentence": "a dot; a little; o'clock"
+  },
+  {
+    "chinese": "他中午一点的时候回家了。",
+    "pinyin": "Tā zhōngwǔ yīdiǎn de shíhòu huí jiāle.",
+    "example_sentence": "He went home at 1 pm."
+  },
+  {
+    "chinese": "她吃了一点米饭。",
+    "pinyin": "Tā chīle yīdiǎn mǐfàn.",
+    "example_sentence": "She ate a bit rice."
+  },
+  {
+    "chinese": "呢",
+    "pinyin": "ne",
+    "example_sentence": "indicates a question; how about...?;"
+  },
+  {
+    "chinese": "这本书是谁的呢？",
+    "pinyin": "Zhè běn shū shì shuí de ne?",
+    "example_sentence": "Who owns this book?"
+  },
+  {
+    "chinese": "他的工作是什么呢？",
+    "pinyin": "Tā de gōngzuò shì shénme ne?",
+    "example_sentence": "What's his job?"
+  },
+  {
+    "chinese": "太",
+    "pinyin": "tài",
+    "example_sentence": "too (much)"
+  },
+  {
+    "chinese": "我太喜欢和他做朋友了。",
+    "pinyin": "Wǒ tài xǐhuān hé tā zuò péngyǒule.",
+    "example_sentence": "I like being his friend so much."
+  },
+  {
+    "chinese": "她女儿太漂亮了。",
+    "pinyin": "Tā nǚ'ér tài piào liàng le.",
+    "example_sentence": "Her daughter is so pretty."
+  },
+  {
+    "chinese": "里",
+    "pinyin": "lǐ",
+    "example_sentence": "inside; Chinese mile (~.5 km)"
+  },
+  {
+    "chinese": "他妈妈在家里看电视。",
+    "pinyin": "Tā māmā zàijiālǐ kàn diànshì.",
+    "example_sentence": "His mom is watching tv at home."
+  },
+  {
+    "chinese": "这里是中国。",
+    "pinyin": "Zhèlǐ shì zhōngguó.",
+    "example_sentence": "Here is China."
+  },
+  {
+    "chinese": "听",
+    "pinyin": "tīng",
+    "example_sentence": "listen; hear"
+  },
+  {
+    "chinese": "我听说那家学校很好。",
+    "pinyin": "Wǒ tīng shuō nà jiā xuéxiào hěn hǎo.",
+    "example_sentence": "I heard that school is very good."
+  },
+  {
+    "chinese": "我听见你说话了。",
+    "pinyin": "Wǒ tīngjiàn nǐ shuōhuàle.",
+    "example_sentence": "I heard you talking."
+  },
+  {
+    "chinese": "谁",
+    "pinyin": "shéi",
+    "example_sentence": "who"
+  },
+  {
+    "chinese": "这是谁的书？",
+    "pinyin": "Zhè shì shuí de shū?",
+    "example_sentence": "Whose book it is?"
+  },
+  {
+    "chinese": "你是谁？",
+    "pinyin": "Nǐ shì shuí?",
+    "example_sentence": "Who are you?"
+  },
+  {
+    "chinese": "多",
+    "pinyin": "duō",
+    "example_sentence": "many"
+  },
+  {
+    "chinese": "她有很多衣服。",
+    "pinyin": "Tā yǒu hěnduō yīfú.",
+    "example_sentence": "She has a lot of clothes"
+  },
+  {
+    "chinese": "我有很多书。",
+    "pinyin": "Wǒ yǒu hěnduō shū.",
+    "example_sentence": "I have many books."
+  },
+  {
+    "chinese": "时候",
+    "pinyin": "shíhou",
+    "example_sentence": "time"
+  },
+  {
+    "chinese": "下雨天的时候不要去商店。",
+    "pinyin": "Xià yǔtiān de shí hòu bùyào qù shāngdiàn.",
+    "example_sentence": "Don't go to stores when it rains."
+  },
+  {
+    "chinese": "一点的时候他在睡觉。",
+    "pinyin": "Yīdiǎn de shíhòu tā zài shuìjiào.",
+    "example_sentence": "He was sleeping at one o'clock."
+  },
+  {
+    "chinese": "下",
+    "pinyin": "xià",
+    "example_sentence": "fall; below"
+  },
+  {
+    "chinese": "衣服下面有一本书。",
+    "pinyin": "Yīfú xiàmiàn yǒuyī běn shū.",
+    "example_sentence": "There's a book under the clothes."
+  },
+  {
+    "chinese": "今天下雨了。",
+    "pinyin": "Jīntiān xià yǔle.",
+    "example_sentence": "It rained today."
+  },
+  {
+    "chinese": "谢谢",
+    "pinyin": "xiè xiè",
+    "example_sentence": "thank you"
+  },
+  {
+    "chinese": "谢谢你为我工作。",
+    "pinyin": "Xièxiè nǐ wèi wǒ gōngzuò.",
+    "example_sentence": "Thanks for working for me."
+  },
+  {
+    "chinese": "我很谢谢她喜欢我的女儿。",
+    "pinyin": "Wǒ hěn xièxiè tā xǐhuān wǒ de nǚ'ér.",
+    "example_sentence": "I'm very thankful she likes my daughter"
+  },
+  {
+    "chinese": "先生",
+    "pinyin": "xiān shēng",
+    "example_sentence": "Mr.; Sir"
+  },
+  {
+    "chinese": "格林先生（Mr. Green）在家看电视。",
+    "pinyin": "Gélín xiān shēng (Mr. Green) zàijiā kàn diànshì.",
+    "example_sentence": "Mr. Green is watching TV at home."
+  },
+  {
+    "chinese": "他是我先生（husband）。",
+    "pinyin": "Tā shì wǒ xiān shēng (husband).",
+    "example_sentence": "He's my husband."
+  },
+  {
+    "chinese": "喜欢",
+    "pinyin": "xǐhuan",
+    "example_sentence": "to like"
+  },
+  {
+    "chinese": "我喜欢在下雨天的时候看电影。",
+    "pinyin": "Wǒ xǐ huān zàixià yǔtiān de shíhòu kàn diànyǐng.",
+    "example_sentence": "I like watching movies in rainny days."
+  },
+  {
+    "chinese": "我喜欢中国的米饭。",
+    "pinyin": "Wǒ xǐhuān zhōngguó de mǐfàn.",
+    "example_sentence": "I like Chinese rice."
+  },
+  {
+    "chinese": "大",
+    "pinyin": "dà",
+    "example_sentence": "big; large"
+  },
+  {
+    "chinese": "这是一个大饭店。",
+    "pinyin": "Zhè shì yīgè dà fàndiàn.",
+    "example_sentence": "This is a great restaraunt"
+  },
+  {
+    "chinese": "他女儿喜欢吃大苹果。",
+    "pinyin": "Tā nǚ'ér xǐhuān chī dà píngguǒ.",
+    "example_sentence": "His daughter likes to eat big apples."
+  },
+  {
+    "chinese": "东西",
+    "pinyin": "dōngxi",
+    "example_sentence": "things; stuff"
+  },
+  {
+    "chinese": "这些东西都是我们学校的。",
+    "pinyin": "Zhèxiē dōng xī dū shì wǒmen xuéxiào de.",
+    "example_sentence": "These things belong to our school."
+  },
+  {
+    "chinese": "他认识的东西很多。",
+    "pinyin": "Tā rènshí de dōngxī hěnduō.",
+    "example_sentence": "He knows a lot of things."
+  },
+  {
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "example_sentence": "small; young"
+  },
+  {
+    "chinese": "她是我的小女儿。",
+    "pinyin": "Tā shì wǒ de xiǎo nǚ'ér.",
+    "example_sentence": "She is my little daughter"
+  },
+  {
+    "chinese": "我女儿比他儿子小。",
+    "pinyin": "Wǒ nǚ'ér bǐ tā érzi xiǎo.",
+    "example_sentence": "My daughter is younger than his son."
+  },
+  {
+    "chinese": "叫",
+    "pinyin": "jiào",
+    "example_sentence": "to be called"
+  },
+  {
+    "chinese": "这只狗叫什么？",
+    "pinyin": "Zhè zhī gǒu jiào shénme?",
+    "example_sentence": "What's the name of this dog?"
+  },
+  {
+    "chinese": "他叫我一起去看电影。",
+    "pinyin": "Tā jiào wǒ yīqǐ qù kàn diànyǐng.",
+    "example_sentence": "He asked me to go to watch a movie with him."
+  },
+  {
+    "chinese": "爱",
+    "pinyin": "ài",
+    "example_sentence": "love"
+  },
+  {
+    "chinese": "我爱中国的电影。",
+    "pinyin": "Wǒ ài zhōngguó de diànyǐng.",
+    "example_sentence": "I love Chinese films"
+  },
+  {
+    "chinese": "我爱我家的猫。",
+    "pinyin": "Wǒ ài wǒjiā de māo.",
+    "example_sentence": "I love my family's cat."
+  },
+  {
+    "chinese": "年",
+    "pinyin": "nián",
+    "example_sentence": "year"
+  },
+  {
+    "chinese": "这一年的北京天气很好。",
+    "pinyin": "Zhè yī nián de běijīng tiānqì hěn hǎo.",
+    "example_sentence": "The weather of Beijing has been good this year."
+  },
+  {
+    "chinese": "我去年和他一起工作。",
+    "pinyin": "Wǒ qù'nián hé tā yīqǐ gōngzuò.",
+    "example_sentence": "I worked with him last year."
+  },
+  {
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "example_sentence": "please; invite; to treat someone to something"
+  },
+  {
+    "chinese": "我请你吃饭。",
+    "pinyin": "Wǒ qǐng nǐ chīfàn.",
+    "example_sentence": "I am buying you dinner."
+  },
+  {
+    "chinese": "我请他给我写一本书。",
+    "pinyin": "Wǒ qǐng tā gěi wǒ xiě yī běn shū.",
+    "example_sentence": "I ask him to write a book for me."
+  },
+  {
+    "chinese": "回",
+    "pinyin": "huí",
+    "example_sentence": "to return; to reply; to go back"
+  },
+  {
+    "chinese": "我回家就给你打电话。",
+    "pinyin": "Wǒ huí jiā jiù gěi nǐ dǎ diànhuà.",
+    "example_sentence": "I'll give you a call as soon as I return home"
+  },
+  {
+    "chinese": "你什么时候给我回电话？",
+    "pinyin": "Nǐ shénme shíhòu gěi wǒ huí diànhuà?",
+    "example_sentence": "When would you call me back?"
+  },
+  {
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "example_sentence": "work; a job"
+  },
+  {
+    "chinese": "他在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "example_sentence": "He works in a hospital"
+  },
+  {
+    "chinese": "我喜欢在中国工作。",
+    "pinyin": "Wǒ xǐhuān zài zhōngguó gōngzuò.",
+    "example_sentence": "I like working in China"
+  },
+  {
+    "chinese": "钱",
+    "pinyin": "qián",
+    "example_sentence": "money; coin"
+  },
+  {
+    "chinese": "他给了女儿一点钱。",
+    "pinyin": "Tā gěile nǚ'ér yì diǎn qián.",
+    "example_sentence": "He gave his daughter a little money"
+  },
+  {
+    "chinese": "这个菜多少钱？",
+    "pinyin": "Zhège cài duōshǎo qián?",
+    "example_sentence": "How much does this dish/vegetable cost?"
+  },
+  {
+    "chinese": "吃",
+    "pinyin": "chī",
+    "example_sentence": "eat"
+  },
+  {
+    "chinese": "她女儿喜欢吃苹果。",
+    "pinyin": "Tā nǚ'ér xǐhuān chī píngguǒ.",
+    "example_sentence": "Her daughter likes to eat apples."
+  },
+  {
+    "chinese": "我们今天去哪里吃饭呢？",
+    "pinyin": "Wǒmen jīntiān qù nǎlǐ chīfàn ne?",
+    "example_sentence": "Where are we having meal today?"
+  },
+  {
+    "chinese": "开",
+    "pinyin": "kāi",
+    "example_sentence": "to open; to start; to operate (a vehicle)"
+  },
+  {
+    "chinese": "他开车去学校。",
+    "pinyin": "Tā kāichē qù xuéxiào.",
+    "example_sentence": "He drove to school"
+  },
+  {
+    "chinese": "他想开一家饭店。",
+    "pinyin": "Tā xiǎng kāi yījiā fàndiàn.",
+    "example_sentence": "He wants to open a restaurant."
+  },
+  {
+    "chinese": "家",
+    "pinyin": "jiā",
+    "example_sentence": "I am at my home"
+  },
+  {
+    "chinese": "我妈妈去他家了。",
+    "pinyin": "Wǒ māmā qù tā jiāle.",
+    "example_sentence": "My mother went to his home"
+  },
+  {
+    "chinese": "我女儿住在她家。",
+    "pinyin": "Wǒ nǚ'ér zhù zài tā jiā.",
+    "example_sentence": "My daughter lives at her house."
+  },
+  {
+    "chinese": "哪",
+    "pinyin": "nǎ",
+    "example_sentence": "which; how"
+  },
+  {
+    "chinese": "你去哪里了呢？",
+    "pinyin": "Nǐ qù nǎlǐle ne?",
+    "example_sentence": "Where did you go?"
+  },
+  {
+    "chinese": "你家在哪里呢？",
+    "pinyin": "Nǐ jiā zài nǎlǐ ne?",
+    "example_sentence": "Where's your home?"
+  },
+  {
+    "chinese": "朋友",
+    "pinyin": "péng yǒu",
+    "example_sentence": "friend"
+  },
+  {
+    "chinese": "我妈妈的朋友来我家了。",
+    "pinyin": "Wǒ māmā de péngyǒu lái wǒjiāle.",
+    "example_sentence": "My mother's friend came to my house"
+  },
+  {
+    "chinese": "我们是好朋友。",
+    "pinyin": "Wǒmen shì hǎo péngyǒu.",
+    "example_sentence": "We are good friends."
+  },
+  {
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "example_sentence": "mom; mum"
+  },
+  {
+    "chinese": "我妈妈和爸爸都在家。",
+    "pinyin": "Wǒ māmā hé bàba dōu zàijiā.",
+    "example_sentence": "My mother and father are both at home"
+  },
+  {
+    "chinese": "我妈妈在医院工作。",
+    "pinyin": "Wǒ māmā zài yīyuàn gōngzuò.",
+    "example_sentence": "My mom works at the hospital."
+  },
+  {
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "example_sentence": "today"
+  },
+  {
+    "chinese": "今天星期几呢？",
+    "pinyin": "Jīntiān xīngqí jǐ ne?",
+    "example_sentence": "What day is it today?"
+  },
+  {
+    "chinese": "我喜欢今天的天气。",
+    "pinyin": "Wǒ xǐhuān jīntiān de tiānqì.",
+    "example_sentence": "I like the weather of today."
+  },
+  {
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "example_sentence": "how many; several; a few"
+  },
+  {
+    "chinese": "你家有几个人？",
+    "pinyin": "Nǐ jiā yǒu jǐ gèrén?",
+    "example_sentence": "How many people are there in your family?"
+  },
+  {
+    "chinese": "你有几个女儿？",
+    "pinyin": "Nǐ yǒu jǐ gè nǚ'ér?",
+    "example_sentence": "How many daughters do you have?"
+  },
+  {
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "example_sentence": "Dad"
+  },
+  {
+    "chinese": "我爸爸是医生。",
+    "pinyin": "Wǒ bàba shì yīshēng.",
+    "example_sentence": "My father is a doctor"
+  },
+  {
+    "chinese": "我爸爸喜欢看书。",
+    "pinyin": "Wǒ bàba xǐhuān kànshū.",
+    "example_sentence": "My dad likes reading."
+  },
+  {
+    "chinese": "些",
+    "pinyin": "xiē",
+    "example_sentence": "some; few; several"
+  },
+  {
+    "chinese": "这些人在做什么？",
+    "pinyin": "Zhèxiē rén zài zuò shénme?",
+    "example_sentence": "What are these people doing?"
+  },
+  {
+    "chinese": "这是我喜欢看的一些电影。",
+    "pinyin": "Zhè shì wǒ xǐhuān kàn de yīxiē diànyǐng.",
+    "example_sentence": "These are some movies that I like."
+  },
+  {
+    "chinese": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "example_sentence": "how about?; how is/was it?"
+  },
+  {
+    "chinese": "这家商店怎么样？",
+    "pinyin": "Zhè jiā shāngdiàn zěnme yàng?",
+    "example_sentence": "How is this store?"
+  },
+  {
+    "chinese": "这件衣服怎么样？",
+    "pinyin": "Zhè jiàn yīfú zěnme yàng?",
+    "example_sentence": "How is this piece of clothing?"
+  },
+  {
+    "chinese": "对不起",
+    "pinyin": "Duì bù qǐ",
+    "example_sentence": "sorry"
+  },
+  {
+    "chinese": "对不起，我不认识她。",
+    "pinyin": "Duì bù qǐ, wǒ bù rènshí tā.",
+    "example_sentence": "I'm sorry. I don't know her"
+  },
+  {
+    "chinese": "对不起，她不是我的朋友。",
+    "pinyin": "Duì bù qǐ, tā bùshì wǒ de péngyǒu.",
+    "example_sentence": "Sorry but she's not my friend."
+  },
+  {
+    "chinese": "住",
+    "pinyin": "zhù",
+    "example_sentence": "to live; reside; to stop"
+  },
+  {
+    "chinese": "他女儿住在我家。",
+    "pinyin": "Tā nǚ'ér zhù zài wǒjiā.",
+    "example_sentence": "His daughter lives in my house"
+  },
+  {
+    "chinese": "我们住在北京。",
+    "pinyin": "Wǒmen zhù zài běijīng.",
+    "example_sentence": "We live in Beijing."
+  },
+  {
+    "chinese": "三",
+    "pinyin": "sān",
+    "example_sentence": "three"
+  },
+  {
+    "chinese": "他三分钟后回家。",
+    "pinyin": "Tā sān fēnzhōng hòu huí jiā.",
+    "example_sentence": "He'll come home after three minutes."
+  },
+  {
+    "chinese": "他在北京三年了。",
+    "pinyin": "Tā zài běijīng sān niánle.",
+    "example_sentence": "He's lived in Beijing for three years."
+  },
+  {
+    "chinese": "高兴",
+    "pinyin": "gāoxìng",
+    "example_sentence": "happy; glad"
+  },
+  {
+    "chinese": "我很高兴认识你。",
+    "pinyin": "Wǒ hěn gāoxìng rènshí nǐ.",
+    "example_sentence": "I'm very pleased to meet you."
+  },
+  {
+    "chinese": "我很高兴和你一起吃饭。",
+    "pinyin": "Wǒ hěn gāoxìng hé nǐ yīqǐ chīfàn.",
+    "example_sentence": "I am happy to eat with you."
+  },
+  {
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "example_sentence": "to buy"
+  },
+  {
+    "chinese": "她去买菜了。",
+    "pinyin": "Tā qù mǎi càile.",
+    "example_sentence": "She went to buy food"
+  },
+  {
+    "chinese": "我在商店买衣服了。",
+    "pinyin": "Wǒ zài shāngdiàn mǎi yīfúle.",
+    "example_sentence": "I bought clothes at the store."
+  },
+  {
+    "chinese": "医生",
+    "pinyin": "yīshēng",
+    "example_sentence": "doctor"
+  },
+  {
+    "chinese": "这个医生是北京人。",
+    "pinyin": "Zhègè yīshēng shì běijīng rén.",
+    "example_sentence": "This doctor is from Beijing"
+  },
+  {
+    "chinese": "他女儿是医生。",
+    "pinyin": "Tā nǚ'ér shì yīshēng.",
+    "example_sentence": "His daughter is a doctor."
+  },
+  {
+    "chinese": "哪儿",
+    "pinyin": "nǎ ér",
+    "example_sentence": "where? (Beijing accent)"
+  },
+  {
+    "chinese": "他去哪儿了？",
+    "pinyin": "Tā qù nǎ ér le?",
+    "example_sentence": "Where did he go?"
+  },
+  {
+    "chinese": "他在哪儿工作？",
+    "pinyin": "Tā zài nǎ ér gōngzuò?",
+    "example_sentence": "Where does he work?"
+  },
+  {
+    "chinese": "字",
+    "pinyin": "zì",
+    "example_sentence": "letter; character"
+  },
+  {
+    "chinese": "这个字怎么写？",
+    "pinyin": "Zhège zì zěnme xiě?",
+    "example_sentence": "How do you write this word?"
+  },
+  {
+    "chinese": "你认识这个字吗？",
+    "pinyin": "Nǐ rènshí zhègè zì ma?",
+    "example_sentence": "Do you know this word?"
+  },
+  {
+    "chinese": "名字",
+    "pinyin": "míngzì",
+    "example_sentence": "name"
+  },
+  {
+    "chinese": "你的名字叫什么？",
+    "pinyin": "Nǐ de míngzì jiào shénme?",
+    "example_sentence": "What's your name?"
+  },
+  {
+    "chinese": "这本书的名字是什么？",
+    "pinyin": "Zhè běn shū de míngzì shì shénme?",
+    "example_sentence": "What's the title of this book?"
+  },
+  {
+    "chinese": "认识",
+    "pinyin": "rènshí",
+    "example_sentence": "recognize; know (a person)"
+  },
+  {
+    "chinese": "他认识我女儿。",
+    "pinyin": "Tā rènshí wǒ nǚ'ér.",
+    "example_sentence": "He knows my daughter"
+  },
+  {
+    "chinese": "我认识这个医生。",
+    "pinyin": "Wǒ rènshí zhègè yīshēng.",
+    "example_sentence": "I know this doctor."
+  },
+  {
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "example_sentence": "sit"
+  },
+  {
+    "chinese": "我坐在飞机上了。",
+    "pinyin": "Wǒ zuò zài fēijī shàngle.",
+    "example_sentence": "I sat on the plane."
+  },
+  {
+    "chinese": "他坐在我前面。",
+    "pinyin": "Tā zuò zài wǒ qiánmiàn.",
+    "example_sentence": "He sits in front of me."
+  },
+  {
+    "chinese": "喝",
+    "pinyin": "hē",
+    "example_sentence": "to drink"
+  },
+  {
+    "chinese": "这只狗在喝水。",
+    "pinyin": "Zhè zhī gǒu zài hē shuǐ.",
+    "example_sentence": "This dog is drinking water."
+  },
+  {
+    "chinese": "我爸爸在喝茶。",
+    "pinyin": "Wǒ bàba zài hē chá.",
+    "example_sentence": "My dad is drinking tea."
+  },
+  {
+    "chinese": "写",
+    "pinyin": "xiě",
+    "example_sentence": "to write; to compose"
+  },
+  {
+    "chinese": "请写下你的名字。",
+    "pinyin": "Qǐng xiě xià nǐ de míngzì.",
+    "example_sentence": "Please write down your name"
+  },
+  {
+    "chinese": "他儿子喜欢写字。",
+    "pinyin": "Tā érzi xǐhuān xiězì.",
+    "example_sentence": "His son like to write."
+  },
+  {
+    "chinese": "月",
+    "pinyin": "yuè",
+    "example_sentence": "moon; month; flesh (radical)"
+  },
+  {
+    "chinese": "一年有十二个月。",
+    "pinyin": "Yī nián yǒu shí'èr gè yuè.",
+    "example_sentence": "One year has twelve months"
+  },
+  {
+    "chinese": "这个月他去中国了。",
+    "pinyin": "Zhège yuè tā qù zhōngguóle.",
+    "example_sentence": "He went to China this month."
+  },
+  {
+    "chinese": "号",
+    "pinyin": "hào",
+    "example_sentence": "number; day of a month"
+  },
+  {
+    "chinese": "今天是几号？",
+    "pinyin": "Jīntiān shì jǐ hào?",
+    "example_sentence": "What's the date today?"
+  },
+  {
+    "chinese": "今天是三号。",
+    "pinyin": "Jīntiān shì sān hào.",
+    "example_sentence": "It's the third day of the month."
+  },
+  {
+    "chinese": "狗",
+    "pinyin": "gǒu",
+    "example_sentence": "dog"
+  },
+  {
+    "chinese": "这是他家的狗。",
+    "pinyin": "Zhè shì tā jiā de gǒu.",
+    "example_sentence": "This is his family's dog"
+  },
+  {
+    "chinese": "这只狗很漂亮。",
+    "pinyin": "Zhè zhǐ gǒu hěn piào liàng.",
+    "example_sentence": "This dog is pretty."
+  },
+  {
+    "chinese": "岁",
+    "pinyin": "suì",
+    "example_sentence": "years old; age"
+  },
+  {
+    "chinese": "他女儿三岁了。",
+    "pinyin": "Tā nǚ'ér sān suìle.",
+    "example_sentence": "His daughter is three years old"
+  },
+  {
+    "chinese": "你今年几岁呢？",
+    "pinyin": "Nǐ jīnnián jǐ suì ne?",
+    "example_sentence": "How old are you this year?"
+  },
+  {
+    "chinese": "看见",
+    "pinyin": "kànjiàn",
+    "example_sentence": "see; catch sight of"
+  },
+  {
+    "chinese": "我在学校看见她了。",
+    "pinyin": "Wǒ zài xuéxiào kànjiàn tāle.",
+    "example_sentence": "I saw her at school."
+  },
+  {
+    "chinese": "他看见我爸爸在医院。",
+    "pinyin": "Tā kànjiàn wǒ bàba zài yīyuàn.",
+    "example_sentence": "He saw that my dad was in hospital."
+  },
+  {
+    "chinese": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "example_sentence": "make a phone call"
+  },
+  {
+    "chinese": "我今天打电话给你。",
+    "pinyin": "Wǒ jīntiān dǎ diànhuà gěi nǐ.",
+    "example_sentence": "Today, I gave you a call"
+  },
+  {
+    "chinese": "我妈妈打电话给我了。",
+    "pinyin": "Wǒ māmā dǎ diànhuà gěi wǒle.",
+    "example_sentence": "My mom called me."
+  },
+  {
+    "chinese": "喂",
+    "pinyin": "wèi",
+    "example_sentence": "hello (on the phone)"
+  },
+  {
+    "chinese": "喂，你爸爸在家吗？（on the phone）",
+    "pinyin": "Wèi, nǐ bàba zàijiā ma?(On the phone)",
+    "example_sentence": "Hey, is your dad home? (On the phone)"
+  },
+  {
+    "chinese": "他妈妈在喂他吃饭。",
+    "pinyin": "Tā māmā zài wèi tā chīfàn.",
+    "example_sentence": "His mother is feeding him food."
+  },
+  {
+    "chinese": "儿子",
+    "pinyin": "érzi",
+    "example_sentence": "son"
+  },
+  {
+    "chinese": "我儿子在学校。",
+    "pinyin": "wǒ érzi zài xuéxiào.",
+    "example_sentence": "My son is at school"
+  },
+  {
+    "chinese": "我儿子喜欢看电影。",
+    "pinyin": "Wǒ érzi xǐhuān kàn diànyǐng.",
+    "example_sentence": "My son likes watching movies."
+  },
+  {
+    "chinese": "漂亮",
+    "pinyin": "piào liàng",
+    "example_sentence": "pretty; beautiful"
+  },
+  {
+    "chinese": "你们家很漂亮。",
+    "pinyin": "Nǐmen jiā hěn piào liàng.",
+    "example_sentence": "Your home is beautiful."
+  },
+  {
+    "chinese": "你女儿很漂亮。",
+    "pinyin": "Nǐ nǚ'ér hěn piào liàng.",
+    "example_sentence": "Your daughter is very pretty."
+  },
+  {
+    "chinese": "分钟",
+    "pinyin": "fēnzhōng",
+    "example_sentence": "minute; (measure word for time)"
+  },
+  {
+    "chinese": "我五分钟后到家。",
+    "pinyin": "Wǒ wǔ fēnzhōng hòu dàojiā.",
+    "example_sentence": "I'll be home after five minutes"
+  },
+  {
+    "chinese": "等我三分钟。",
+    "pinyin": "Děng wǒ sān fēnzhōng.",
+    "example_sentence": "Wait for me for three minutes."
+  },
+  {
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "example_sentence": "goodbye; see you later"
+  },
+  {
+    "chinese": "我回家了，再见。",
+    "pinyin": "Wǒ huí jiāle, zàijiàn.",
+    "example_sentence": "I am going home, bye."
+  },
+  {
+    "chinese": "再见，我要去学校了。",
+    "pinyin": "Zàijiàn, wǒ yào qù xuéxiàole.",
+    "example_sentence": "Bye. I am leaving for school."
+  },
+  {
+    "chinese": "本",
+    "pinyin": "běn",
+    "example_sentence": "measure word for books"
+  },
+  {
+    "chinese": "这里有多少本书？",
+    "pinyin": "Zhè li yǒu duōshǎo běn shū?",
+    "example_sentence": "How many books are there?"
+  },
+  {
+    "chinese": "这本书很好看。",
+    "pinyin": "Zhè běn shū hěn hǎokàn.",
+    "example_sentence": "This book is very good."
+  },
+  {
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "example_sentence": "tomorrow"
+  },
+  {
+    "chinese": "我明天要去看电影。",
+    "pinyin": "Wǒ míngtiān yào qù kàn diànyǐng.",
+    "example_sentence": "Tomorrow I will go to the movies."
+  },
+  {
+    "chinese": "我明天要去买衣服。",
+    "pinyin": "Wǒ míngtiān yào qù mǎi yīfú.",
+    "example_sentence": "I will go shopping for clothes tomorrow."
+  },
+  {
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "example_sentence": "few; little"
+  },
+  {
+    "chinese": "这个学校的书很少。",
+    "pinyin": "Zhège xuéxiào de shū hěn shǎo.",
+    "example_sentence": "There are very few books in this school."
+  },
+  {
+    "chinese": "他一年很少见到他女儿。",
+    "pinyin": "Tā yī nián hěn shǎo jiàn dào tā nǚ'ér.",
+    "example_sentence": "He sees his daughter only a few times a year."
+  },
+  {
+    "chinese": "多少",
+    "pinyin": "duōshao",
+    "example_sentence": "how much?; how many?"
+  },
+  {
+    "chinese": "这个苹果多少钱？",
+    "pinyin": "Zhège píngguǒ duōshǎo qián?",
+    "example_sentence": "How much is this apple?"
+  },
+  {
+    "chinese": "你们学校有多少人？",
+    "pinyin": "Nǐmen xuéxiào yǒu duōshǎo rén?",
+    "example_sentence": "How many people are there at your school?"
+  },
+  {
+    "chinese": "块",
+    "pinyin": "kuài",
+    "example_sentence": "lump; piece; sum of money"
+  },
+  {
+    "chinese": "这个苹果一块钱。",
+    "pinyin": "Zhège píngguǒ yīkuài qián.",
+    "example_sentence": "This apple costs one yuan."
+  },
+  {
+    "chinese": "这块蛋糕（cake）很好吃。",
+    "pinyin": "Zhè kuài dàngāo hěn hào chī.",
+    "example_sentence": "This piece of cake is delicious."
+  },
+  {
+    "chinese": "女儿",
+    "pinyin": "nǚ'ér",
+    "example_sentence": "daughter"
+  },
+  {
+    "chinese": "我女儿今年一岁。",
+    "pinyin": "Wǒ nǚ'ér jīnnián yī suì.",
+    "example_sentence": "This year my daughter is 1 years old"
+  },
+  {
+    "chinese": "我女儿是他儿子的朋友。",
+    "pinyin": "Wǒ nǚ'ér shì tā érzi de péngyǒu.",
+    "example_sentence": "My daughter is a friend of his son."
+  },
+  {
+    "chinese": "小姐",
+    "pinyin": "xiǎojie",
+    "example_sentence": "young lady; miss; Ms."
+  },
+  {
+    "chinese": "学校里有个漂亮小姐。",
+    "pinyin": "Xuéxiào li yǒu gè piào liàng xiǎojiě.",
+    "example_sentence": "There's a beautiful lady at school."
+  },
+  {
+    "chinese": "那个小姐的衣服很漂亮。",
+    "pinyin": "Nàgè xiǎojiě de yīfú hěn piào liàng.",
+    "example_sentence": "That lady's clothes are really beautiful."
+  },
+  {
+    "chinese": "衣服",
+    "pinyin": "yīfu",
+    "example_sentence": "clothes"
+  },
+  {
+    "chinese": "我去商店买衣服。",
+    "pinyin": "Wǒ qù shāngdiàn mǎi yīfú.",
+    "example_sentence": "I go to the store to buy clothes."
+  },
+  {
+    "chinese": "我的衣服上有一只狗。",
+    "pinyin": "Wǒ de yīfú shàng yǒu yī zhǐ gǒu.",
+    "example_sentence": "There's a dog on my clothes."
+  },
+  {
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "example_sentence": "water"
+  },
+  {
+    "chinese": "我早上喝了一杯水。",
+    "pinyin": "Wǒ zǎoshang hēle yībēi shuǐ.",
+    "example_sentence": "I drank a glass of water this morning."
+  },
+  {
+    "chinese": "桌子上有两杯水。",
+    "pinyin": "Zhuōzi shàng yǒu liǎng bēi shuǐ.",
+    "example_sentence": "There are two glasses of water on the table."
+  },
+  {
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "example_sentence": "school"
+  },
+  {
+    "chinese": "他去学校了。",
+    "pinyin": "Tā qù xuéxiàole.",
+    "example_sentence": "He went to school."
+  },
+  {
+    "chinese": "我们学校的女生很漂亮。",
+    "pinyin": "Wǒmen xuéxiào de nǚshēng hěn piào liàng.",
+    "example_sentence": "Girls of our school are very pretty."
+  },
+  {
+    "chinese": "电影",
+    "pinyin": "diànyǐng",
+    "example_sentence": "movie; film"
+  },
+  {
+    "chinese": "我喜欢在家看电影。",
+    "pinyin": "Wǒ xǐhuān zàijiā kàn diànyǐng.",
+    "example_sentence": "I like watching movies at home."
+  },
+  {
+    "chinese": "他看了很多电影。",
+    "pinyin": "Tā kànle hěnduō diànyǐng.",
+    "example_sentence": "He's watched many movies."
+  },
+  {
+    "chinese": "书",
+    "pinyin": "shū",
+    "example_sentence": "book; letter"
+  },
+  {
+    "chinese": "桌子上有一本书。",
+    "pinyin": "Zhuōzi shàng yǒuyī běn shū.",
+    "example_sentence": "There is a book on the table."
+  },
+  {
+    "chinese": "我把书放在椅子上了。",
+    "pinyin": "Wǒ bǎ shū fàng zài yǐzi shàngle.",
+    "example_sentence": "I put the book on the chair."
+  },
+  {
+    "chinese": "四",
+    "pinyin": "sì",
+    "example_sentence": "four"
+  },
+  {
+    "chinese": "我家里有四个人。",
+    "pinyin": "Wǒjiā li yǒu sì gèrén.",
+    "example_sentence": "There are four people in my family."
+  },
+  {
+    "chinese": "这个星期四来我家吧。",
+    "pinyin": "Zhège xīngqísì lái wǒjiā ba.",
+    "example_sentence": "Come to my home this Thursday."
+  },
+  {
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "example_sentence": "five"
+  },
+  {
+    "chinese": "我一个星期有五天要工作。",
+    "pinyin": "Wǒ yīgè xīngqí yǒu wǔ tiān yào gōngzuò.",
+    "example_sentence": "I work five days a week."
+  },
+  {
+    "chinese": "我五分钟后到家",
+    "pinyin": "Wǒ wǔ fēnzhōng hòu dàojiā",
+    "example_sentence": "I'll be home after five minutes."
+  },
+  {
+    "chinese": "医院",
+    "pinyin": "yīyuàn",
+    "example_sentence": "hospital"
+  },
+  {
+    "chinese": "他去医院了。",
+    "pinyin": "Tā qù yīyuànle.",
+    "example_sentence": "He went to the hospital."
+  },
+  {
+    "chinese": "这家医院很好。",
+    "pinyin": "zhè jiā yīyuàn hěn hǎo.",
+    "example_sentence": "This hospital is very good."
+  },
+  {
+    "chinese": "没关系",
+    "pinyin": "méi guān xì",
+    "example_sentence": "it doesn't matter; never mind"
+  },
+  {
+    "chinese": "- 对不起。 - 没关系。",
+    "pinyin": "- Duìbùqǐ. - Méiguānxì.",
+    "example_sentence": "- Sorry. - It's okay."
+  },
+  {
+    "chinese": "- 这个字我不会。 - 没关系。",
+    "pinyin": "- Zhège zì wǒ bù huì. - Méiguānxì.",
+    "example_sentence": "-I don't know this word/ character. -It's ok."
+  },
+  {
+    "chinese": "飞机",
+    "pinyin": "fēijī",
+    "example_sentence": "airplane"
+  },
+  {
+    "chinese": "他上飞机了。",
+    "pinyin": "Tā shàng fēijīle.",
+    "example_sentence": "He's on the plane."
+  },
+  {
+    "chinese": "我坐飞机去北京。",
+    "pinyin": "Wǒ zuò fēijī qù běijīng.",
+    "example_sentence": "I go to Beijing by plane."
+  },
+  {
+    "chinese": "二",
+    "pinyin": "èr",
+    "example_sentence": "two"
+  },
+  {
+    "chinese": "今天是星期二。",
+    "pinyin": "Jīntiān shì xīngqí'èr.",
+    "example_sentence": "Today is Tuesday."
+  },
+  {
+    "chinese": "一加（plus）一是二。",
+    "pinyin": "Yī jiā (plus) yī shì èr.",
+    "example_sentence": "One plus one equals two."
+  },
+  {
+    "chinese": "电视",
+    "pinyin": "diànshì",
+    "example_sentence": "television; TV"
+  },
+  {
+    "chinese": "我家有个大电视。",
+    "pinyin": "Wǒjiā yǒu gè dà diànshì.",
+    "example_sentence": "My family has a big TV."
+  },
+  {
+    "chinese": "他妈妈喜欢看电视。",
+    "pinyin": "Tā māmā xǐhuān kàn diànshì.",
+    "example_sentence": "His mother likes watching tv."
+  },
+  {
+    "chinese": "读",
+    "pinyin": "dú",
+    "example_sentence": "to read; to study"
+  },
+  {
+    "chinese": "这个字我不会读。",
+    "pinyin": "Zhège zì wǒ bù huì dú.",
+    "example_sentence": "I can't read this word"
+  },
+  {
+    "chinese": "我不会读中文",
+    "pinyin": "Wǒ bù huì dú zhōngwén",
+    "example_sentence": "I can't read Chinese"
+  },
+  {
+    "chinese": "后面",
+    "pinyin": "hòumiàn",
+    "example_sentence": "back; behind"
+  },
+  {
+    "chinese": "我女儿坐在他儿子后面。",
+    "pinyin": "Wǒ nǚ'ér zuò zài tā érzi hòumiàn.",
+    "example_sentence": "My daughter sits behind his son."
+  },
+  {
+    "chinese": "在我家后面有家医院。",
+    "pinyin": "Zài wǒjiā hòumiàn yǒu jiā yīyuàn.",
+    "example_sentence": "There's a hospital behind my home."
+  },
+  {
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "example_sentence": "yesterday"
+  },
+  {
+    "chinese": "我昨天在工作。",
+    "pinyin": "Wǒ zuótiān zài gōngzuò.",
+    "example_sentence": "I was at work yesterday."
+  },
+  {
+    "chinese": "他昨天和她吃饭了。",
+    "pinyin": "Tā zuótiān hé tā chīfànle.",
+    "example_sentence": "He ate with her yesterday."
+  },
+  {
+    "chinese": "睡觉",
+    "pinyin": "shuì jiào",
+    "example_sentence": "to sleep; go to bed"
+  },
+  {
+    "chinese": "你什么时候睡觉？",
+    "pinyin": "Nǐ shénme shíhòu shuìjiào?",
+    "example_sentence": "When do you sleep?"
+  },
+  {
+    "chinese": "他女儿在睡觉了。",
+    "pinyin": "Tā nǚ'ér zài shuìjiàole.",
+    "example_sentence": "His daughter is sleeping."
+  },
+  {
+    "chinese": "六",
+    "pinyin": "liù",
+    "example_sentence": "six"
+  },
+  {
+    "chinese": "我有六本书。",
+    "pinyin": "Wǒ yǒu liù běn shū.",
+    "example_sentence": "I have six books."
+  },
+  {
+    "chinese": "那里有六只狗。",
+    "pinyin": "Nà lǐ yǒu liù zhǐ gǒu.",
+    "example_sentence": "There are six dogs."
+  },
+  {
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "example_sentence": "teacher"
+  },
+  {
+    "chinese": "他是一名老师。",
+    "pinyin": "Tā shì yī míng lǎoshī.",
+    "example_sentence": "He's a teacher."
+  },
+  {
+    "chinese": "他做老师六年了。",
+    "pinyin": "Tā zuò lǎoshī liù niánle.",
+    "example_sentence": "He's been a teacher for six years."
+  },
+  {
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "example_sentence": "week"
+  },
+  {
+    "chinese": "一个星期有七天。",
+    "pinyin": "Yīgè xīngqí yǒu qītiān.",
+    "example_sentence": "One week has seven days."
+  },
+  {
+    "chinese": "今天星期几？",
+    "pinyin": "Jīntiān xīngqī jǐ?",
+    "example_sentence": "What day is today?"
+  },
+  {
+    "chinese": "十",
+    "pinyin": "shí",
+    "example_sentence": "ten"
+  },
+  {
+    "chinese": "这件衣服十块。",
+    "pinyin": "Zhè jiàn yīfú shí kuài.",
+    "example_sentence": "The piece of clothing costs ten yuan."
+  },
+  {
+    "chinese": "他有十个苹果。",
+    "pinyin": "Tā yǒu shí gè píngguǒ.",
+    "example_sentence": "He has ten apples."
+  },
+  {
+    "chinese": "猫",
+    "pinyin": "māo",
+    "example_sentence": "cat"
+  },
+  {
+    "chinese": "这只猫喜欢喝水。",
+    "pinyin": "Zhè zhǐ māo xǐhuān hē shuǐ.",
+    "example_sentence": "This cat likes to drink water"
+  },
+  {
+    "chinese": "我家的猫和狗是好朋友。",
+    "pinyin": "Wǒjiā de māo hé gǒu shì hǎo péngyǒu.",
+    "example_sentence": "The cat and dog at my home are good friends."
+  },
+  {
+    "chinese": "电脑",
+    "pinyin": "diànnǎo",
+    "example_sentence": "computer"
+  },
+  {
+    "chinese": "我家没有电脑",
+    "pinyin": "Wǒjiā méiyǒu diànnǎo",
+    "example_sentence": "I don't have a computer at home."
+  },
+  {
+    "chinese": "我用电脑学习汉语。",
+    "pinyin": "Wǒ yòng diànnǎo xuéxí hànyǔ.",
+    "example_sentence": "I use the computer to learn Chinese."
+  },
+  {
+    "chinese": "热",
+    "pinyin": "rè",
+    "example_sentence": "heat; hot"
+  },
+  {
+    "chinese": "今天天气很热。",
+    "pinyin": "jīntiān tiānqì hěn rè.",
+    "example_sentence": "Today the weather is hot."
+  },
+  {
+    "chinese": "我把菜热一热。",
+    "pinyin": "Wǒ bǎ cài rè yī rè.",
+    "example_sentence": "I'll heat the dishes."
+  },
+  {
+    "chinese": "学生",
+    "pinyin": "xué shēng",
+    "example_sentence": "student"
+  },
+  {
+    "chinese": "我是他的学生。",
+    "pinyin": "Wǒ shì tā de xuéshēng.",
+    "example_sentence": "I am his student"
+  },
+  {
+    "chinese": "我现在是学生。",
+    "pinyin": "Wǒ xiànzài shì xuéshēng.",
+    "example_sentence": "I am a student now."
+  },
+  {
+    "chinese": "下午",
+    "pinyin": "xiàwǔ",
+    "example_sentence": "afternoon"
+  },
+  {
+    "chinese": "我下午在工作。",
+    "pinyin": "Wǒ xiàwǔ zài gōngzuò.",
+    "example_sentence": "I was working in the afternoon."
+  },
+  {
+    "chinese": "我下午去看电影了。",
+    "pinyin": "Wǒ xiàwǔ qù kàn diànyǐngle.",
+    "example_sentence": "I'll go watch movie this afternoon."
+  },
+  {
+    "chinese": "学习",
+    "pinyin": "xuéxí",
+    "example_sentence": "learn; to study"
+  },
+  {
+    "chinese": "很多人都在学习汉语。",
+    "pinyin": "Hěnduō rén dōu zài xuéxí hànyǔ.",
+    "example_sentence": "Many people are learning Chinese."
+  },
+  {
+    "chinese": "你要好好学习。",
+    "pinyin": "Nǐ yào hǎo hào xuéxí.",
+    "example_sentence": "You should study hard."
+  },
+  {
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "example_sentence": "cold"
+  },
+  {
+    "chinese": "今天的天气很冷。",
+    "pinyin": "Jīntiān de tiānqì hěn lěng.",
+    "example_sentence": "Today's weather is very cold."
+  },
+  {
+    "chinese": "这是一杯冷水。",
+    "pinyin": "Zhè shì yībēi lěngshuǐ.",
+    "example_sentence": "This is a glass of cold water."
+  },
+  {
+    "chinese": "不客气",
+    "pinyin": "bú kèqi",
+    "example_sentence": "you're welcome; don't be polite"
+  },
+  {
+    "chinese": "我会对你不客气的!",
+    "pinyin": "Wǒ huì duì nǐ bù kèqì de!",
+    "example_sentence": "I won't go easy on you."
+  },
+  {
+    "chinese": "- 谢谢你。 - 不客气。",
+    "pinyin": "- Xièxiè nǐ. - Bù kèqì.",
+    "example_sentence": "-Thank you. -You're welcome."
+  },
+  {
+    "chinese": "前面",
+    "pinyin": "qiánmiàn",
+    "example_sentence": "in front"
+  },
+  {
+    "chinese": "我坐在她女儿前面。",
+    "pinyin": "Wǒ zuò zài tā nǚ'ér qiánmiàn.",
+    "example_sentence": "I sit in front of her daughter."
+  },
+  {
+    "chinese": "我前面有五个人。",
+    "pinyin": "Wǒ qiánmiàn yǒu wǔ gèrén.",
+    "example_sentence": "There are five people in front of me."
+  },
+  {
+    "chinese": "八",
+    "pinyin": "bā",
+    "example_sentence": "eight"
+  },
+  {
+    "chinese": "我八号要去医院。",
+    "pinyin": "Wǒ bā hào yào qù yīyuàn.",
+    "example_sentence": "I will go to the hospital on the 8th."
+  },
+  {
+    "chinese": "我工作八天了。",
+    "pinyin": "Wǒ gōngzuò bā tiānle.",
+    "example_sentence": "I've been worked for eight days."
+  },
+  {
+    "chinese": "中国",
+    "pinyin": "Zhōngguó",
+    "example_sentence": "China"
+  },
+  {
+    "chinese": "中国人很友好。",
+    "pinyin": "Zhōngguó rén hěn yǒuhǎo.",
+    "example_sentence": "Chinese people are very friendly."
+  },
+  {
+    "chinese": "我想去中国玩。",
+    "pinyin": "Wǒ xiǎng qù zhōngguó wán.",
+    "example_sentence": "I want to travel to China."
+  },
+  {
+    "chinese": "七",
+    "pinyin": "qī",
+    "example_sentence": "seven"
+  },
+  {
+    "chinese": "这个学校有七个老师。",
+    "pinyin": "Zhège xuéxiào yǒu qī gè lǎoshī.",
+    "example_sentence": "The school has seven teachers."
+  },
+  {
+    "chinese": "我买了七个苹果。",
+    "pinyin": "Wǒ mǎile qī gè píngguǒ.",
+    "example_sentence": "I've bought seven apples."
+  },
+  {
+    "chinese": "菜",
+    "pinyin": "cài",
+    "example_sentence": "dish (type of food); vegetables"
+  },
+  {
+    "chinese": "这家饭店的菜很好吃。",
+    "pinyin": "Zhè jiā fàndiàn de cài hěn hào chī.",
+    "example_sentence": "The food of this restaurant tastes good."
+  },
+  {
+    "chinese": "我妈妈去买菜了。",
+    "pinyin": "Wǒ māmā qù mǎi càile.",
+    "example_sentence": "My mother has gone shopping for food."
+  },
+  {
+    "chinese": "桌子",
+    "pinyin": "zhuōzi",
+    "example_sentence": "table; desk"
+  },
+  {
+    "chinese": "桌子上有一只猫。",
+    "pinyin": "Zhuōzi shàng yǒu  yì zhī māo.",
+    "example_sentence": "There's a cat on the table."
+  },
+  {
+    "chinese": "我把书放在桌子上了。",
+    "pinyin": "Wǒ bǎ shū fàng zài zhuōzi shàngle.",
+    "example_sentence": "I put the book on the table."
+  },
+  {
+    "chinese": "出租车",
+    "pinyin": "chūzūchē",
+    "example_sentence": "taxi; cab"
+  },
+  {
+    "chinese": "我坐出租车回家了。",
+    "pinyin": "Wǒ zuò chūzū chē huí jiāle.",
+    "example_sentence": "I took a taxi home."
+  },
+  {
+    "chinese": "你坐出租车来学校的吗？",
+    "pinyin": "Nǐ zuò chūzū chē lái xuéxiào de ma?",
+    "example_sentence": "Did you take a taxi to school?"
+  },
+  {
+    "chinese": "天气",
+    "pinyin": "tiānqì",
+    "example_sentence": "weather"
+  },
+  {
+    "chinese": "我喜欢在天气热的时候去工作。",
+    "pinyin": "Wǒ xǐhuān zài tiānqì rè de shíhòu qù gōngzuò.",
+    "example_sentence": "I like going to work in hot weather."
+  },
+  {
+    "chinese": "我天气热的时候喜欢喝茶。",
+    "pinyin": "Wǒ tiānqì rè de shíhòu xǐhuān hē chá.",
+    "example_sentence": "I like drinking tea in hot weather."
+  },
+  {
+    "chinese": "茶",
+    "pinyin": "chá",
+    "example_sentence": "tea"
+  },
+  {
+    "chinese": "中国人喜欢喝茶。",
+    "pinyin": "Zhōngguó rén xǐhuān hē chá.",
+    "example_sentence": "Chinese people like to drink tea."
+  },
+  {
+    "chinese": "我爸爸喜欢在吃饭的时候喝茶。",
+    "pinyin": "Wǒ bàba xǐhuān zài chīfàn de shíhòu hē chá.",
+    "example_sentence": "My father likes to drink tea during meals."
+  },
+  {
+    "chinese": "九",
+    "pinyin": "jiǔ",
+    "example_sentence": "nine"
+  },
+  {
+    "chinese": "这个苹果九块钱。",
+    "pinyin": "Zhège píngguǒ jiǔ kuài qián.",
+    "example_sentence": "The Apple is nine dollars."
+  },
+  {
+    "chinese": "今天有九个老师去学校了。",
+    "pinyin": "Jīntiān yǒu jiǔ gè lǎoshī qù xuéxiàole.",
+    "example_sentence": "Nine teachers went to school today."
+  },
+  {
+    "chinese": "商店",
+    "pinyin": "shāngdiàn",
+    "example_sentence": "shop; store"
+  },
+  {
+    "chinese": "这家商店的东西很漂亮。",
+    "pinyin": "Zhè jiā shāngdiàn de dōngxī hěn piào liàng.",
+    "example_sentence": "Things in this store are pretty."
+  },
+  {
+    "chinese": "我喜欢在这家商店买衣服。",
+    "pinyin": "Wǒ xǐhuān zài zhè jiā shāngdiàn mǎi yīfú.",
+    "example_sentence": "I like buying clothes at this store."
+  },
+  {
+    "chinese": "椅子",
+    "pinyin": "yǐzi",
+    "example_sentence": "chair"
+  },
+  {
+    "chinese": "我家有六把椅子。",
+    "pinyin": "Wǒ jiā yǒu liù bǎ yǐzi.",
+    "example_sentence": "My family has six chairs."
+  },
+  {
+    "chinese": "那只狗在椅子上。",
+    "pinyin": "Nà zhǐ gǒu zài yǐzi shàng.",
+    "example_sentence": "That dog is on the chair."
+  },
+  {
+    "chinese": "同学",
+    "pinyin": "tóngxué",
+    "example_sentence": "fellow student; schoolmate"
+  },
+  {
+    "chinese": "我同学喜欢看电影。",
+    "pinyin": "Wǒ tóngxué xǐhuān kàn diànyǐng.",
+    "example_sentence": "My classmates like to watch movies."
+  },
+  {
+    "chinese": "我儿子和他女儿是同学。",
+    "pinyin": "Wǒ érzi hé tā nǚ'ér shì tóngxué.",
+    "example_sentence": "My son and her daughter are classmates."
+  },
+  {
+    "chinese": "一点儿",
+    "pinyin": "yìdiǎn er",
+    "example_sentence": "a bit; a few"
+  },
+  {
+    "chinese": "我一点儿也不喜欢这件衣服。",
+    "pinyin": "Wǒ yìdiǎn er yě bù xǐhuān zhè jiàn yīfú.",
+    "example_sentence": "I don't like this piece of clothing at all."
+  },
+  {
+    "chinese": "他饭后喜欢喝一点儿茶。",
+    "pinyin": "Tā fàn hòu xǐhuān hè yìdiǎn er chá.",
+    "example_sentence": "He likes to drink some tea after meals."
+  },
+  {
+    "chinese": "苹果",
+    "pinyin": "píngguǒ",
+    "example_sentence": "apple"
+  },
+  {
+    "chinese": "我吃苹果。",
+    "pinyin": "Wǒ chī píngguǒ.",
+    "example_sentence": "I eat apples"
+  },
+  {
+    "chinese": "我妈妈喜欢吃苹果。",
+    "pinyin": "Wǒ māmā xǐhuān chī píngguǒ.",
+    "example_sentence": "My mother likes to eat apple."
+  },
+  {
+    "chinese": "饭店",
+    "pinyin": "fàndiàn",
+    "example_sentence": "restaurant; hotel"
+  },
+  {
+    "chinese": "他昨天去饭店吃饭了。",
+    "pinyin": "Tā zuótiān qù fàndiàn chīfànle.",
+    "example_sentence": "He went to the hotel for dinner yesterday."
+  },
+  {
+    "chinese": "我在饭店工作。",
+    "pinyin": "Wǒ zài fàndiàn gōngzuò.",
+    "example_sentence": "I work at a hotel."
+  },
+  {
+    "chinese": "中午",
+    "pinyin": "zhōngwǔ",
+    "example_sentence": "noon; midday"
+  },
+  {
+    "chinese": "他中午做的菜很好吃。",
+    "pinyin": "Tā zhōngwǔ zuò de cài hěn hǎo chī.",
+    "example_sentence": "The dishes he cooked in the noon was good."
+  },
+  {
+    "chinese": "我中午在学校吃饭。",
+    "pinyin": "Wǒ zhōngwǔ zài xuéxiào chīfàn.",
+    "example_sentence": "I eat lunch at school."
+  },
+  {
+    "chinese": "上午",
+    "pinyin": "shàngwǔ",
+    "example_sentence": "late morning (before noon)"
+  },
+  {
+    "chinese": "我上午没在家。",
+    "pinyin": "Wǒ shàngwǔ méi zài jiā.",
+    "example_sentence": "I wasn't home this morning."
+  },
+  {
+    "chinese": "我上午看电影了。",
+    "pinyin": "Wǒ shàngwǔ kàn diànyǐngle.",
+    "example_sentence": "I watched a movie in the morning."
+  },
+  {
+    "chinese": "水果",
+    "pinyin": "shuǐguǒ",
+    "example_sentence": "fruit"
+  },
+  {
+    "chinese": "他喜欢吃水果。",
+    "pinyin": "Tā xǐhuān chī shuǐguǒ.",
+    "example_sentence": "He likes to eat fruit."
+  },
+  {
+    "chinese": "今天的水果很好吃。",
+    "pinyin": "Jīntiān de shuǐguǒ hěn hào chī.",
+    "example_sentence": "Today's fruits are delicious."
+  },
+  {
+    "chinese": "杯子",
+    "pinyin": "bēizi",
+    "example_sentence": "cup; glass"
+  },
+  {
+    "chinese": "桌子上有一个杯子。",
+    "pinyin": "Zhuōzi shàng yǒu yīgè bēizi.",
+    "example_sentence": "There is a cup on the table."
+  },
+  {
+    "chinese": "他今天给（give）了我一个杯子。",
+    "pinyin": "Tā jīntiān gěi le wǒ yīgè bēizi.",
+    "example_sentence": "He gave me a cup today."
+  },
+  {
+    "chinese": "下雨",
+    "pinyin": "xiàyǔ",
+    "example_sentence": "to rain"
+  },
+  {
+    "chinese": "今天下雨了。",
+    "pinyin": "Jīntiān xià yǔle.",
+    "example_sentence": "Today it rained"
+  },
+  {
+    "chinese": "明天会不会下雨呢？",
+    "pinyin": "Míngtiān huì bù huì xià yǔ ne?",
+    "example_sentence": "Will it rain tomorrow?"
+  },
+  {
+    "chinese": "米饭",
+    "pinyin": "mǐfàn",
+    "example_sentence": "(cooked) rice"
+  },
+  {
+    "chinese": "我在中国喜欢吃米饭。",
+    "pinyin": "Wǒ zài zhōngguó xǐhuān chī mǐfàn.",
+    "example_sentence": "I like to eat rice in China."
+  },
+  {
+    "chinese": "中国人喜欢吃米饭。",
+    "pinyin": "Zhōngguó rén xǐhuān chī mǐfàn.",
+    "example_sentence": "Chinese people like to eat rice."
+  },
+  {
+    "chinese": "北京",
+    "pinyin": "Běijīng",
+    "example_sentence": "Beijing"
+  },
+  {
+    "chinese": "我昨天去北京了。",
+    "pinyin": "Wǒ zuótiān qù běijīngle.",
+    "example_sentence": "Yesterday, I went to Beijing."
+  },
+  {
+    "chinese": "他女儿在北京工作。",
+    "pinyin": "Tā nǚ'ér zài běijīng gōngzuò.",
+    "example_sentence": "His daughter works in Beijing."
+  },
+  {
+    "chinese": "汉语",
+    "pinyin": "Hànyǔ",
+    "example_sentence": "Chinese language"
+  },
+  {
+    "chinese": "我今年学了汉语。",
+    "pinyin": "Wǒ jīnnián xuéle hànyǔ.",
+    "example_sentence": "I've learnt Chinese this year."
+  },
+  {
+    "chinese": "很多人喜欢汉语。",
+    "pinyin": "Hěnduō rén xǐhuān hànyǔ.",
+    "example_sentence": "Many people like Chinese."
+  },
+  {
+    "chinese": "Congratulations!",
+    "pinyin": ":)",
+    "example_sentence": "Congratulations on finishing HSK 1! Visti ChineseAudioFlashcards.com and use the coupon \"finisher\" to get over 5000 more flashcards for $4.95"
+  }
+]

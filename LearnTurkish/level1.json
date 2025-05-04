@@ -1,0 +1,3052 @@
+[
+  {
+    "popularity": "1",
+    "turkish_word": "bir",
+    "part_of_speech": "det",
+    "english_meaning": "a, an",
+    "turkish_sentence": "Ekoloji, doğanın yapısını ve işlevini inceleyen bir bilim dalıdır.",
+    "english_translation": "Ecology is a science that studies the structure and function of nature.",
+    "word_audio": "[sound:googletts-403b8bb0-b080f9aa-bdad22f7-9b7f783c-44fd9a42.mp3]",
+    "sentence_audio": "[sound:googletts-77ab265e-75fb0957-4cbff512-f6e18e84-e168afe4.mp3]"
+  },
+  {
+    "popularity": "2",
+    "turkish_word": "ol",
+    "part_of_speech": "v",
+    "english_meaning": "to be; to become",
+    "turkish_sentence": "Kelebek gibi ol!",
+    "english_translation": "Be like a butterfly!",
+    "word_audio": "[sound:googletts-ec5babf9-60e7bff2-fefec25e-88599455-2f06ae7c.mp3]",
+    "sentence_audio": "[sound:googletts-f8bf72d0-d0df8ef1-94649d8d-03f4e5f7-d7a35edc.mp3]"
+  },
+  {
+    "popularity": "3",
+    "turkish_word": "ve",
+    "part_of_speech": "conj",
+    "english_meaning": "and",
+    "turkish_sentence": "Nem içerikleri düşüktür ve yüzeydeki tabaka gevşektir.",
+    "english_translation": "Their moisture content is low and the surface layer is loose.",
+    "word_audio": "[sound:googletts-f523e8ef-1dfacf35-cbc2d7fc-c0002b4c-e96480b8.mp3]",
+    "sentence_audio": "[sound:googletts-7154ce9e-1bbe3675-7fb8dc66-0572aaed-3c858950.mp3]"
+  },
+  {
+    "popularity": "4",
+    "turkish_word": "bu",
+    "part_of_speech": "pron",
+    "english_meaning": "this",
+    "turkish_sentence": "Bu konuda çeşitli araştırmalar mevcuttur.",
+    "english_translation": "There are various studies on this topic.",
+    "word_audio": "[sound:googletts-c828e361-6367ed70-b1370dbe-4674efa3-2be99775.mp3]",
+    "sentence_audio": "[sound:googletts-9e0e9d1f-ce34b467-439d092a-8c112648-418a171c.mp3]"
+  },
+  {
+    "popularity": "5",
+    "turkish_word": "de, da",
+    "part_of_speech": "adv",
+    "english_meaning": "too, also",
+    "turkish_sentence": "Ayrıca, tanen ve uçucu yağ da içerir.",
+    "english_translation": "Additionally, it contains tannic acid and also evaporating oil.",
+    "word_audio": "[sound:googletts-21d9d8e0-b0277209-af8f0881-e5042b3f-005c4bf8.mp3]",
+    "sentence_audio": "[sound:googletts-13837d6a-578f840f-0a9dbbca-6e4f11e8-eec431c5.mp3]"
+  },
+  {
+    "popularity": "6",
+    "turkish_word": "et",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to do, to make (n) meat; flesh",
+    "turkish_sentence": "Sizi neler motive etti?",
+    "english_translation": "What made you motivated?",
+    "word_audio": "[sound:googletts-cd8eda60-50af356c-275ecb6c-7cc70cb7-243503d2.mp3]",
+    "sentence_audio": "[sound:googletts-7e3262bc-ed13c2b9-8e9bc86c-81d93ea6-3a1d76e1.mp3]"
+  },
+  {
+    "popularity": "7",
+    "turkish_word": "o",
+    "part_of_speech": "pron",
+    "english_meaning": "she/he/it",
+    "turkish_sentence": "O her iki alanda da çığır açmıştır.",
+    "english_translation": "He had opened up new eras in both fields.",
+    "word_audio": "[sound:googletts-670297fd-b9825abc-1ee16a84-d4ed6f79-0a025a13.mp3]",
+    "sentence_audio": "[sound:googletts-ee6a62e0-da46dccf-7460e0db-a2c3b3ac-04673d3c.mp3]"
+  },
+  {
+    "popularity": "8",
+    "turkish_word": "yap",
+    "part_of_speech": "v",
+    "english_meaning": "to do, to make",
+    "turkish_sentence": "Nerede olursan ol, ne yaparsan yap, o çıkıverir ortaya.",
+    "english_translation": "Wherever you are, whatever you do, it pops up.",
+    "word_audio": "[sound:googletts-7dc6b18c-fa0066bb-3eb34cf3-c7d3ccf8-e224c3a6.mp3]",
+    "sentence_audio": "[sound:googletts-81ac952c-e3bbfd88-3fd49a90-758cde35-8fb5406c.mp3]"
+  },
+  {
+    "popularity": "9",
+    "turkish_word": "al",
+    "part_of_speech": "v",
+    "english_meaning": "to take, to get",
+    "turkish_sentence": "O makbuzları al ve postaneden sor.",
+    "english_translation": "Take those receipts and ask at the post office.",
+    "word_audio": "[sound:googletts-de5b1176-98d442f7-b1380b63-fbc7dcd4-4ea3fff2.mp3]",
+    "sentence_audio": "[sound:googletts-79773301-effb914b-8d9acef8-e7fe90f4-092ae434.mp3]"
+  },
+  {
+    "popularity": "10",
+    "turkish_word": "de",
+    "part_of_speech": "v",
+    "english_meaning": "to say",
+    "turkish_sentence": "SODEV Başkanı Ercan Karakaş ise “Sol, lider sorununu aşmak zorunda” dedi.",
+    "english_translation": "Ercan Karakaş who is the president of SODEV said, “The Left should get over the problem of the leader.”",
+    "word_audio": "[sound:googletts-014a5d9e-91422259-f00ff275-665e3d20-4d994f54.mp3]",
+    "sentence_audio": "[sound:googletts-6b00187f-dae407b2-85cf530a-77aad217-35a7b8fa.mp3]"
+  },
+  {
+    "popularity": "11",
+    "turkish_word": "ben",
+    "part_of_speech": "pron",
+    "english_meaning": "I, me",
+    "turkish_sentence": "Ben bahçelerde büyüdüm.",
+    "english_translation": "I grew up in gardens.",
+    "word_audio": "[sound:googletts-4fc77d2b-87a9c339-d013bd0e-28448096-1baa6b4e.mp3]",
+    "sentence_audio": "[sound:googletts-a0c612b1-7494e8c8-a5542231-4cfe76c5-84568018.mp3]"
+  },
+  {
+    "popularity": "12",
+    "turkish_word": "gel",
+    "part_of_speech": "v",
+    "english_meaning": "to come",
+    "turkish_sentence": "“Gel yakından bak istersen” demiş.",
+    "english_translation": "He said, “Come have a closer look.”",
+    "word_audio": "[sound:googletts-12e68d40-7d221a0d-5f4af42b-b1fe6f64-f64eaa96.mp3]",
+    "sentence_audio": "[sound:googletts-57a60a9a-4fb9c964-0070b9ab-81608818-56b1a5c6.mp3]"
+  },
+  {
+    "popularity": "13",
+    "turkish_word": "için",
+    "part_of_speech": "posp",
+    "english_meaning": "for",
+    "turkish_sentence": "Beni dinlediğiniz için teşekkür ederim.",
+    "english_translation": "Thank you for listening to me.",
+    "word_audio": "[sound:googletts-37d6c0cd-42778f20-61e6c001-722a2d79-bc0bf0e6.mp3]",
+    "sentence_audio": "[sound:googletts-fd511a8a-77cf4b9b-f287ae77-4ac0024f-fbc0b248.mp3]"
+  },
+  {
+    "popularity": "14",
+    "turkish_word": "çok",
+    "part_of_speech": "det",
+    "english_meaning": "very; much, many, a lot of",
+    "turkish_sentence": "Şansını bu kadar çok zorlamamalı.",
+    "english_translation": "You should not push your luck this much.",
+    "word_audio": "[sound:googletts-d2aef395-58c266fc-f4f82205-7ae17848-f25fc99d.mp3]",
+    "sentence_audio": "[sound:googletts-fdfc23a2-7dc3c3b0-080aee95-020bcff4-47f24408.mp3]"
+  },
+  {
+    "popularity": "15",
+    "turkish_word": "ver",
+    "part_of_speech": "v",
+    "english_meaning": "to give",
+    "turkish_sentence": "Haydi, yiyeceklerimizi ver!",
+    "english_translation": "Come on, give us our food!",
+    "word_audio": "[sound:googletts-5f9560a7-08bb6df1-5ae749b0-aa37489f-96382eb4.mp3]",
+    "sentence_audio": "[sound:googletts-a25dc452-cf9386bf-0bb88bcd-85b0f2df-1f3dff54.mp3]"
+  },
+  {
+    "popularity": "16",
+    "turkish_word": "ne",
+    "part_of_speech": "n",
+    "english_meaning": "what",
+    "turkish_sentence": "Soru ne?",
+    "english_translation": "What is the question?",
+    "word_audio": "[sound:googletts-12670bb8-583614fb-2d0f1c5d-f979aae4-49f91141.mp3]",
+    "sentence_audio": "[sound:googletts-b75b4ae3-a318a411-83f42f4a-b89c14e0-beb9fead.mp3]"
+  },
+  {
+    "popularity": "17",
+    "turkish_word": "daha",
+    "part_of_speech": "adv",
+    "english_meaning": "more",
+    "turkish_sentence": "Fakat daha da önemlisi bu kuralların yaşama geçirilebilmesidir.",
+    "english_translation": "However, even more important is to put these principles into practice.",
+    "word_audio": "[sound:googletts-e8407080-26ba792c-e6592146-e93955cd-293226e0.mp3]",
+    "sentence_audio": "[sound:googletts-5f93e190-4248694b-1c13fdd7-9ae1f9f8-8caba3fe.mp3]"
+  },
+  {
+    "popularity": "18",
+    "turkish_word": "gibi",
+    "part_of_speech": "posp",
+    "english_meaning": "like",
+    "turkish_sentence": "Bilgi sınırsızdır, sonsuz gibi bir şey.",
+    "english_translation": "Knowledge is limitless, something like infinity.",
+    "word_audio": "[sound:googletts-ad06c757-a9638237-51cb5224-9e78a3de-ff9a9f32.mp3]",
+    "sentence_audio": "[sound:googletts-1cc6cb99-90d5a59e-ea6c0da6-937dfa0a-a23ec388.mp3]"
+  },
+  {
+    "popularity": "19",
+    "turkish_word": "gör",
+    "part_of_speech": "v",
+    "english_meaning": "to see",
+    "turkish_sentence": "Sanki tuhaf bir kuş gördüm.",
+    "english_translation": "I thought I saw a strange bird.",
+    "word_audio": "[sound:googletts-739b844a-d11cf578-7223902c-a07795c4-9b370b16.mp3]",
+    "sentence_audio": "[sound:googletts-855fd2dd-884e11c9-2a049db7-5bb2e1c4-d4b3f381.mp3]"
+  },
+  {
+    "popularity": "20",
+    "turkish_word": "kendi",
+    "part_of_speech": "pron",
+    "english_meaning": "self",
+    "turkish_sentence": "En güç olan şey nedir? Kendi kendimizi tanımak!",
+    "english_translation": "What is the most difficult task? To know our own selves!",
+    "word_audio": "[sound:googletts-416766e2-eea1ab28-258d8046-e222129a-60ab3720.mp3]",
+    "sentence_audio": "[sound:googletts-7bb87176-0ce7ea51-581bc788-cc510896-89b4dac1.mp3]"
+  },
+  {
+    "popularity": "21",
+    "turkish_word": "-mi, -mu",
+    "part_of_speech": "qp",
+    "english_meaning": "question particle",
+    "turkish_sentence": "Karamozof Kardeşler’den sonra roman yazmak gerekiyor mu?",
+    "english_translation": "Is it necessary to write a novel after &lt;i&gt;The Brothers Karamazov&lt;/i&gt;?",
+    "word_audio": "[sound:googletts-a37e138e-55cc5804-153b2aa9-0620c7fe-28eb8a8c.mp3]",
+    "sentence_audio": "[sound:googletts-f5c76261-34fdf06a-24458fbd-69e5d617-47309045.mp3]"
+  },
+  {
+    "popularity": "22",
+    "turkish_word": "var",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) existent; existential predicate (v) to reach, to arrive at",
+    "turkish_sentence": "Dört tane kural var.",
+    "english_translation": "There exist four rules / There are four rules.",
+    "word_audio": "[sound:googletts-8c262d98-6156513e-fd51f020-8444999c-809d25f8.mp3]",
+    "sentence_audio": "[sound:googletts-c70b6336-5046711c-7ed75405-b7cd4c69-256fdb3f.mp3]"
+  },
+  {
+    "popularity": "23",
+    "turkish_word": "çık",
+    "part_of_speech": "v",
+    "english_meaning": "to go out (of)",
+    "turkish_sentence": "Mayıs şenliğinde çık sokağa.",
+    "english_translation": "Go out on the streets on the May festival.",
+    "word_audio": "[sound:googletts-70031f20-14c12501-242b90cf-999ba895-2875382c.mp3]",
+    "sentence_audio": "[sound:googletts-02bac75c-6d881476-21f5a6f0-91e3c5ce-cf3d054b.mp3]"
+  },
+  {
+    "popularity": "24",
+    "turkish_word": "ile",
+    "part_of_speech": "conj",
+    "english_meaning": "with, together",
+    "turkish_sentence": "Türkiye tüm itilaf devletleri ile antlaşma yapmıştır.",
+    "english_translation": "Turkey has signed agreements with all the Axis countries.",
+    "word_audio": "[sound:googletts-ca9db245-71a5f928-45071a69-eaaa2da2-9241e62b.mp3]",
+    "sentence_audio": "[sound:googletts-f43b8685-0985d654-684b9ae9-f0ca0cef-a67d486c.mp3]"
+  },
+  {
+    "popularity": "25",
+    "turkish_word": "sonra",
+    "part_of_speech": "adv",
+    "english_meaning": "after; later",
+    "turkish_sentence": "Bu yazıyı yazdıktan sonra babam meydan okudu.",
+    "english_translation": "After I wrote this letter, my father challenged me.",
+    "word_audio": "[sound:googletts-a30ddd4c-92231f2c-a6127f6e-a7f1b2a9-c5eb71bd.mp3]",
+    "sentence_audio": "[sound:googletts-10d22463-8765a5b6-860ea1a8-eeb651d8-26f25905.mp3]"
+  },
+  {
+    "popularity": "26",
+    "turkish_word": "yer",
+    "part_of_speech": "n",
+    "english_meaning": "place",
+    "turkish_sentence": "Özellikle hafta sonları günü birlik kaplıca keyfi sürmek isteyenler için ideal bir yer burası.",
+    "english_translation": "Especially for those who would like to enjoy a spa for a weekend, this is an ideal place.",
+    "word_audio": "[sound:googletts-50280a94-26aaf66e-868b1231-2121c612-d000d03f.mp3]",
+    "sentence_audio": "[sound:googletts-39142c32-cc23edbf-75d7137e-20882d87-9829f33c.mp3]"
+  },
+  {
+    "popularity": "27",
+    "turkish_word": "bul",
+    "part_of_speech": "v",
+    "english_meaning": "to find",
+    "turkish_sentence": "Kendine saklı bir kent bul.",
+    "english_translation": "Find yourself a hidden city.",
+    "word_audio": "[sound:googletts-aa4e6b09-dba86eee-481ee5d3-d379fea5-0fc2974a.mp3]",
+    "sentence_audio": "[sound:googletts-3129d10c-5a0de327-5109ddd8-b9765359-300cf109.mp3]"
+  },
+  {
+    "popularity": "28",
+    "turkish_word": "iç",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) inside (v) to drink",
+    "turkish_sentence": "Buz gibiydi koğuşun içi.",
+    "english_translation": "It was ice-cold inside the ward.",
+    "word_audio": "[sound:googletts-7ba94212-e7aa11cb-2ee8a2e5-80ef1464-9e9dda86.mp3]",
+    "sentence_audio": "[sound:googletts-c6eecfeb-2f73022c-7d6fd3a6-05ee9bf1-8c7663d8.mp3]"
+  },
+  {
+    "popularity": "29",
+    "turkish_word": "ama",
+    "part_of_speech": "conj",
+    "english_meaning": "but, yet, still",
+    "turkish_sentence": "Bunların cevabını bulanlar oldu ama bunlara inanmayanlar da oldu.",
+    "english_translation": "There were those who found the answers but there were also those who did not believe the answers.",
+    "word_audio": "[sound:googletts-f7cdb335-97787753-b22dd5d8-ef55c4c4-3f66aabe.mp3]",
+    "sentence_audio": "[sound:googletts-d6922a95-3a5b2b26-23dc5bae-bebd3bd7-b4941862.mp3]"
+  },
+  {
+    "popularity": "30",
+    "turkish_word": "zaman",
+    "part_of_speech": "n",
+    "english_meaning": "time",
+    "turkish_sentence": "Bence ilginç ve zaman harcamaya değer.",
+    "english_translation": "I think it is interesting and worth spending some time over.",
+    "word_audio": "[sound:googletts-7200cd7b-edddf806-59efedec-b12fa514-bca09f59.mp3]",
+    "sentence_audio": "[sound:googletts-0b348e5c-86a40456-b851f168-c51cb013-e4ef7f96.mp3]"
+  },
+  {
+    "popularity": "31",
+    "turkish_word": "her",
+    "part_of_speech": "det",
+    "english_meaning": "each, every",
+    "turkish_sentence": "Böylece arıtma için her bir bitki çok geniş bir alan oluşturabilmektedir.",
+    "english_translation": "Thus, for distillation, each plant is able to form a very large area.",
+    "word_audio": "[sound:googletts-bcccc313-5c5f9b24-9baeb1fe-64fca3a9-c533226c.mp3]",
+    "sentence_audio": "[sound:googletts-33195eea-6fb5b952-4d9a976b-ed598061-ac626572.mp3]"
+  },
+  {
+    "popularity": "32",
+    "turkish_word": "şey",
+    "part_of_speech": "n",
+    "english_meaning": "thing",
+    "turkish_sentence": "O zaman aynı şey, tüm diğer nesneler için de doğru olacaktır.",
+    "english_translation": "Then, the same thing will also be true for all other objects.",
+    "word_audio": "[sound:googletts-469af1da-af8b7831-1c0c2dce-b2611b60-b1a4f12a.mp3]",
+    "sentence_audio": "[sound:googletts-e9490d1b-f2df5439-daa02416-e15035e6-52e4002c.mp3]"
+  },
+  {
+    "popularity": "33",
+    "turkish_word": "kadar",
+    "part_of_speech": "posp",
+    "english_meaning": "until; as much as",
+    "turkish_sentence": "1000 yıl kadar önce, kuzey yarımküre daha ılık ve kuruydu.",
+    "english_translation": "As much as 1,000 years ago, the northern hemisphere was more warm and dry.",
+    "word_audio": "[sound:googletts-a11416f3-a8731adf-236b51bf-fcab7487-9406734c.mp3]",
+    "sentence_audio": "[sound:googletts-2e50d867-6b7cc93b-13de1cf7-89757f2b-8b277772.mp3]"
+  },
+  {
+    "popularity": "34",
+    "turkish_word": "ara",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) break; interval; distance (v) to look for; to search",
+    "turkish_sentence": "Tarihi zirveye 1 saat ara.",
+    "english_translation": "A one-hour break for the historic summit.",
+    "word_audio": "[sound:googletts-689619d1-01b59abe-c3b66a14-d195e72b-18328fc6.mp3]",
+    "sentence_audio": "[sound:googletts-8506b4a9-9463fb33-b0ec2f80-4feaa7b9-8dbd44d3.mp3]"
+  },
+  {
+    "popularity": "35",
+    "turkish_word": "git",
+    "part_of_speech": "v",
+    "english_meaning": "to go",
+    "turkish_sentence": "“Öyleyse git işine devam et” dedim.",
+    "english_translation": "I said, “Then go and continue your work.”",
+    "word_audio": "[sound:googletts-4ba226c3-5e02c898-7df05c1f-0d4590a3-5deffe0b.mp3]",
+    "sentence_audio": "[sound:googletts-391bb630-1df78a06-457b5b76-b95aa48e-ccd331e0.mp3]"
+  },
+  {
+    "popularity": "36",
+    "turkish_word": "en",
+    "part_of_speech": "adv, n",
+    "english_meaning": "(adv) the most (n) width",
+    "turkish_sentence": "En küçük doğan türüdür.",
+    "english_translation": "It is the smallest species of falcon.",
+    "word_audio": "[sound:googletts-3ba3145a-702b5b37-2c4d9238-9e612467-110f03cb.mp3]",
+    "sentence_audio": "[sound:googletts-db4c62ff-519b797e-96eff173-049e01da-2f783521.mp3]"
+  },
+  {
+    "popularity": "37",
+    "turkish_word": "yıl",
+    "part_of_speech": "n",
+    "english_meaning": "year",
+    "turkish_sentence": "Yedi yıl sonra bugün bu durum fazla değişmedi.",
+    "english_translation": "Today, after seven years, this situation has not changed much.",
+    "word_audio": "[sound:googletts-6fd62a86-894230fc-6ac35ebb-d7ea6b40-89207526.mp3]",
+    "sentence_audio": "[sound:googletts-b749ddae-6ad8b4de-d2e0cdef-ddaba343-e8439738.mp3]"
+  },
+  {
+    "popularity": "38",
+    "turkish_word": "değil",
+    "part_of_speech": "n",
+    "english_meaning": "be not (nominal negation)",
+    "turkish_sentence": "Öyle sıradan bir köpek değil ama.",
+    "english_translation": "It is not such an ordinary dog though.",
+    "word_audio": "[sound:googletts-0e516510-37bb9aef-73cbc46d-cd99e001-ec002788.mp3]",
+    "sentence_audio": "[sound:googletts-adadb582-3bbd4834-cb659119-f2d4937c-06860b74.mp3]"
+  },
+  {
+    "popularity": "39",
+    "turkish_word": "çalış",
+    "part_of_speech": "v",
+    "english_meaning": "to work",
+    "turkish_sentence": "Bu kasapta çalış ve tam ustalaş.",
+    "english_translation": "Work at this butchery and become a master butcher.",
+    "word_audio": "[sound:googletts-7c5312c8-e6d81d64-2ffdfe49-6ef31630-d61a4f9e.mp3]",
+    "sentence_audio": "[sound:googletts-41405e94-95ce2cf5-d0b98b66-adef3651-1d927efc.mp3]"
+  },
+  {
+    "popularity": "40",
+    "turkish_word": "iste",
+    "part_of_speech": "v",
+    "english_meaning": "to want",
+    "turkish_sentence": "Hemen bu aileyi görmek istedim.",
+    "english_translation": "I wanted to see this family immediately.",
+    "word_audio": "[sound:googletts-afccd571-121c495d-14b6b6fa-46028bbf-1cdbdf99.mp3]",
+    "sentence_audio": "[sound:googletts-3cda38e7-31e279eb-7363664f-7c89e392-88b1d704.mp3]"
+  },
+  {
+    "popularity": "41",
+    "turkish_word": "geç",
+    "part_of_speech": "v, adv",
+    "english_meaning": "(v) to pass (adv) late",
+    "turkish_sentence": "Yakışıklı bir adam geçti yanından.",
+    "english_translation": "A handsome man passed by her.",
+    "word_audio": "[sound:googletts-20157269-23d25bcc-c32b12f5-0b680d30-ef6fd7bc.mp3]",
+    "sentence_audio": "[sound:googletts-64866123-29a01821-9f7b31ff-21141906-3bf7b705.mp3]"
+  },
+  {
+    "popularity": "42",
+    "turkish_word": "bil",
+    "part_of_speech": "v",
+    "english_meaning": "to know",
+    "turkish_sentence": "Bir iki dil bilir.",
+    "english_translation": "She knows one or two languages.",
+    "word_audio": "[sound:googletts-e2fcdc64-a14d21fa-022166af-36894bc5-5661d2d2.mp3]",
+    "sentence_audio": "[sound:googletts-12f8c727-8f2ca938-cf968e9b-cca51d55-30f66e06.mp3]"
+  },
+  {
+    "popularity": "43",
+    "turkish_word": "biz",
+    "part_of_speech": "pron",
+    "english_meaning": "we, us",
+    "turkish_sentence": "Onlar bizi, biz de onları değiştiririz.",
+    "english_translation": "They change us and we also change them.",
+    "word_audio": "[sound:googletts-e2f376a4-3c053ba3-8ee3076c-7db2634e-8c1e8c08.mp3]",
+    "sentence_audio": "[sound:googletts-85f8910d-8d39b2e4-4cbf0f95-c566dbdb-2ca25758.mp3]"
+  },
+  {
+    "popularity": "44",
+    "turkish_word": "gün",
+    "part_of_speech": "n",
+    "english_meaning": "day",
+    "turkish_sentence": "Bu oran her geçen gün de hızla artmaktadır.",
+    "english_translation": "This ration is increasing rapidly with each passing day.",
+    "word_audio": "[sound:googletts-74c9dff8-f7d6f7fe-aab4a7b2-2d7c77c5-29e7706f.mp3]",
+    "sentence_audio": "[sound:googletts-d9ca2ca8-a09154a1-e0ddf7b7-a01e71c8-f9cf31a2.mp3]"
+  },
+  {
+    "popularity": "45",
+    "turkish_word": "insan",
+    "part_of_speech": "n",
+    "english_meaning": "human, person",
+    "turkish_sentence": "Bu da insan beyninde olmaktadır.",
+    "english_translation": "And this takes place in a human brain.",
+    "word_audio": "[sound:googletts-c015fd2b-ade7de45-67bb07ef-a476c46c-1c406e22.mp3]",
+    "sentence_audio": "[sound:googletts-f2f146d9-9f880855-80742782-2eb0620f-4b4ccddb.mp3]"
+  },
+  {
+    "popularity": "46",
+    "turkish_word": "anla",
+    "part_of_speech": "v",
+    "english_meaning": "to understand",
+    "turkish_sentence": "“Anladı mı?” diye soruyorsan, cevabım Hayır!",
+    "english_translation": "If you are asking “Did he understand?” my answer is No!",
+    "word_audio": "[sound:googletts-33e95553-bafdecc0-e0c29799-67180bae-e962229f.mp3]",
+    "sentence_audio": "[sound:googletts-8c574ea1-24309e58-b04cbd9b-2eb3e11f-680b6ff3.mp3]"
+  },
+  {
+    "popularity": "47",
+    "turkish_word": "ya",
+    "part_of_speech": "conj",
+    "english_meaning": "either",
+    "turkish_sentence": "Ya birinci oyuncu kazanmıştır ya da ikinci.",
+    "english_translation": "Either the first player or the second has won.",
+    "word_audio": "[sound:googletts-c991c6e2-2e7fa978-947c7725-9843c953-c46a8065.mp3]",
+    "sentence_audio": "[sound:googletts-aa8ed403-9dd769ad-e7d370f0-504ccf19-7acaa222.mp3]"
+  },
+  {
+    "popularity": "48",
+    "turkish_word": "el",
+    "part_of_speech": "n",
+    "english_meaning": "hand",
+    "turkish_sentence": "Fakat eli elime değmiyordu.",
+    "english_translation": "But her hand was not touching mine.",
+    "word_audio": "[sound:googletts-242eb2d7-a3aa4773-69512199-eb15e35a-b0089e53.mp3]",
+    "sentence_audio": "[sound:googletts-e7d56bfd-12b7a13c-6be28d04-0e5647c4-7613d70b.mp3]"
+  },
+  {
+    "popularity": "49",
+    "turkish_word": "ki",
+    "part_of_speech": "conj",
+    "english_meaning": "who, which (subordinating conj.)",
+    "turkish_sentence": "Ama şu inkar edilemezdi ki herkes aynı gemideydi.",
+    "english_translation": "However, everybody was in the same boat, a fact which cannot be denied.",
+    "word_audio": "[sound:googletts-0501c2f9-ac6a6d95-4d5f57af-7748dadd-c81245ab.mp3]",
+    "sentence_audio": "[sound:googletts-1b597275-da925937-f4c46221-8679f1d6-ec21ac9f.mp3]"
+  },
+  {
+    "popularity": "50",
+    "turkish_word": "kal",
+    "part_of_speech": "v",
+    "english_meaning": "to stay, to remain",
+    "turkish_sentence": "Gitme biraz daha kal.",
+    "english_translation": "Don’t go, stay a little longer.",
+    "word_audio": "[sound:googletts-5ac9cc70-a524d8f2-d59cd928-087cf53e-49ebfa47.mp3]",
+    "sentence_audio": "[sound:googletts-1eedba43-2c631259-a43ac554-4d5b685a-4057e0f7.mp3]"
+  },
+  {
+    "popularity": "51",
+    "turkish_word": "söyle",
+    "part_of_speech": "v",
+    "english_meaning": "to say; to tell",
+    "turkish_sentence": "Söyle, sen bir öğretmensin, ben ne yapayım?",
+    "english_translation": "Tell me, you are a teacher, what shall I do?",
+    "word_audio": "[sound:googletts-5700f90b-92575dcd-553b9b03-0839d920-8c80a274.mp3]",
+    "sentence_audio": "[sound:googletts-68489cbd-54605060-f1e294c0-2171bfce-c43c4f8b.mp3]"
+  },
+  {
+    "popularity": "52",
+    "turkish_word": "bak",
+    "part_of_speech": "v",
+    "english_meaning": "to look at",
+    "turkish_sentence": "Gör bak nasıl da uçacak.",
+    "english_translation": "Look and see how it will fly.",
+    "word_audio": "[sound:googletts-cd8ea4c8-5e0cbe65-d63e6cab-aa2e65c9-d133baf0.mp3]",
+    "sentence_audio": "[sound:googletts-8c86c550-034557a4-b76f9ad9-e0a73ab9-3d40b654.mp3]"
+  },
+  {
+    "popularity": "53",
+    "turkish_word": "yok",
+    "part_of_speech": "n",
+    "english_meaning": "nonexistent (existential predicate)",
+    "turkish_sentence": "Toprak yoksa patates yok.",
+    "english_translation": "If there is no soil, then there will be no potatoes.",
+    "word_audio": "[sound:googletts-a7c6f643-78be5223-cb7fb472-e3c59dfe-6f9945be.mp3]",
+    "sentence_audio": "[sound:googletts-02ad4bfd-54f89eaf-61c4dff3-11f44d05-6f4aaf18.mp3]"
+  },
+  {
+    "popularity": "54",
+    "turkish_word": "ye",
+    "part_of_speech": "v",
+    "english_meaning": "to eat",
+    "turkish_sentence": "O kış çok portakal yedim.",
+    "english_translation": "I ate a lot of oranges that winter.",
+    "word_audio": "[sound:googletts-c1d08ad9-4f91dccf-19c18986-09305f28-ffdf27a0.mp3]",
+    "sentence_audio": "[sound:googletts-461da69d-c271f91a-00f9a8b1-2de9ea88-73370d71.mp3]"
+  },
+  {
+    "popularity": "55",
+    "turkish_word": "başla",
+    "part_of_speech": "v",
+    "english_meaning": "to begin, to start",
+    "turkish_sentence": "Önce sen başla dedim, utandı, başlayamadı.",
+    "english_translation": "I said you start first, but he was embarrassed and couldn’t start.",
+    "word_audio": "[sound:googletts-ee2f4827-a85e73cb-3dab6ef0-f2c8628b-54932da6.mp3]",
+    "sentence_audio": "[sound:googletts-94e7082d-c2d744e5-7cd1a767-a4414bd7-8df68206.mp3]"
+  },
+  {
+    "popularity": "56",
+    "turkish_word": "konu",
+    "part_of_speech": "n",
+    "english_meaning": "subject matter, topic",
+    "turkish_sentence": "Yiyecek israfı da ayrı bir konu.",
+    "english_translation": "Wasting food is yet another topic.",
+    "word_audio": "[sound:googletts-4f9c7fd7-a6114f8c-f1951a3b-ba12fb69-60655495.mp3]",
+    "sentence_audio": "[sound:googletts-b9180b86-2fb65276-3420b90b-795c4b40-26433f7b.mp3]"
+  },
+  {
+    "popularity": "57",
+    "turkish_word": "yeni",
+    "part_of_speech": "adj",
+    "english_meaning": "new",
+    "turkish_sentence": "Bu oldukça yeni bir gelişme.",
+    "english_translation": "This is a relatively new development.",
+    "word_audio": "[sound:googletts-a541b4aa-d2d9b46e-33919481-cca0210d-08831261.mp3]",
+    "sentence_audio": "[sound:googletts-f589e795-92efaece-2f6176bb-772c52fb-96ef8627.mp3]"
+  },
+  {
+    "popularity": "58",
+    "turkish_word": "i",
+    "part_of_speech": "v",
+    "english_meaning": "to be (defective copular verb)",
+    "turkish_sentence": "Ben çocukken tabiat tertemiz idi.",
+    "english_translation": "When I was a child, nature was very clean.",
+    "word_audio": "[sound:googletts-1b051133-a97dac5f-4648e38a-164871f8-9564e43f.mp3]",
+    "sentence_audio": "[sound:googletts-6379d8ec-a1357598-599ba9ce-03f34070-725df562.mp3]"
+  },
+  {
+    "popularity": "59",
+    "turkish_word": "sen",
+    "part_of_speech": "pron",
+    "english_meaning": "you (singular)",
+    "turkish_sentence": "Sen benim için ağlama!",
+    "english_translation": "Don’t cry for me!",
+    "word_audio": "[sound:googletts-3aa49014-34ec360c-54b28384-c5a14850-30f529a9.mp3]",
+    "sentence_audio": "[sound:googletts-0e12ae2b-f3a6bfc9-0b7f16d3-7fe880e2-d6a3090a.mp3]"
+  },
+  {
+    "popularity": "60",
+    "turkish_word": "iş",
+    "part_of_speech": "n",
+    "english_meaning": "work, business",
+    "turkish_sentence": "Yapacağımız çok iş var.",
+    "english_translation": "We have a lot of work to do.",
+    "word_audio": "[sound:googletts-443b02a8-ca8fd72e-e0d9f78c-0db1466e-f26ef728.mp3]",
+    "sentence_audio": "[sound:googletts-d5729e0b-3f63c92c-d3067e51-9a020cf5-59740fe6.mp3]"
+  },
+  {
+    "popularity": "61",
+    "turkish_word": "önce",
+    "part_of_speech": "adv",
+    "english_meaning": "before",
+    "turkish_sentence": "Hava sabah 7’den önce aydınlanmıyordu.",
+    "english_translation": "The day did not dawn before 7 o’clock.",
+    "word_audio": "[sound:googletts-db7e7618-0cb50a26-c3465b55-13b962c6-03526f96.mp3]",
+    "sentence_audio": "[sound:googletts-d79b1a91-d9c6b8dc-109036ac-1bceddbe-80e2abab.mp3]"
+  },
+  {
+    "popularity": "62",
+    "turkish_word": "son",
+    "part_of_speech": "n",
+    "english_meaning": "end, conclusion",
+    "turkish_sentence": "Yolun sonu gözüktü.",
+    "english_translation": "The end of the road is in sight.",
+    "word_audio": "[sound:googletts-99d59e5c-31c3a238-24a0048f-570bda57-602361c1.mp3]",
+    "sentence_audio": "[sound:googletts-ee3f5b68-d661f3cb-44fb03ce-9cc9e9f1-7e727f31.mp3]"
+  },
+  {
+    "popularity": "63",
+    "turkish_word": "yan",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) side (v) to burn",
+    "turkish_sentence": "Hemen yan tarafımızdan geçen Zap suyu her türlü ihtiyacımızı karşılardı.",
+    "english_translation": "The Zap river, which passes right by our side, has met all our needs.",
+    "word_audio": "[sound:googletts-2b969693-6f1b162a-3dfbdcd5-297bd9ff-d9f35c98.mp3]",
+    "sentence_audio": "[sound:googletts-37f84f5a-a4c17bfd-80eefef2-549837ae-b3289e16.mp3]"
+  },
+  {
+    "popularity": "64",
+    "turkish_word": "üzeri",
+    "part_of_speech": "n",
+    "english_meaning": "on, above",
+    "turkish_sentence": "Üzeri dallarla örtülmüş, altı gölgelikti.",
+    "english_translation": "Above was covered with branches, making it a shady place.",
+    "word_audio": "[sound:googletts-54fec1e2-c6f67f79-e5cd2b5c-595cf182-3d11a65c.mp3]",
+    "sentence_audio": "[sound:googletts-7c54b2ec-93626f7d-e01044eb-5b96e4d5-660f3608.mp3]"
+  },
+  {
+    "popularity": "65",
+    "turkish_word": "büyük",
+    "part_of_speech": "adj",
+    "english_meaning": "big; great",
+    "turkish_sentence": "Bu türlerin büyük bir kısmına sığ ve tuzlu sularda rastlanır.",
+    "english_translation": "A great portion of these species is encountered in shallow and salty waters.",
+    "word_audio": "[sound:googletts-908aed53-5b334c5a-3d3355e6-5a071699-40e39435.mp3]",
+    "sentence_audio": "[sound:googletts-2f21b774-cb9621f2-44dd75f2-129d26c3-732350ad.mp3]"
+  },
+  {
+    "popularity": "66",
+    "turkish_word": "yaşa",
+    "part_of_speech": "v",
+    "english_meaning": "to live",
+    "turkish_sentence": "İnsanlar umutlarıyla yaşar.",
+    "english_translation": "Men live with their hopes.",
+    "word_audio": "[sound:googletts-847eff70-b677b7fb-d7b2b147-c0f96fb8-5c9db643.mp3]",
+    "sentence_audio": "[sound:googletts-013a7e6c-c9d7f6b9-786686df-a64742f0-c33773c2.mp3]"
+  },
+  {
+    "popularity": "67",
+    "turkish_word": "baş",
+    "part_of_speech": "n",
+    "english_meaning": "head",
+    "turkish_sentence": "Baş ve vücut birlikte kalıplanmıştır.",
+    "english_translation": "The head and the body are molded together.",
+    "word_audio": "[sound:googletts-dba98537-87a636b7-840df2bb-1bf1290e-1af8c00a.mp3]",
+    "sentence_audio": "[sound:googletts-ec226ade-75ee1a7d-4b95bba5-aabfc52a-7c8aefbb.mp3]"
+  },
+  {
+    "popularity": "68",
+    "turkish_word": "yol",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) road, way (v) to pluck",
+    "turkish_sentence": "Önümüzdeki uzun yol, yani ırmak bizi bekliyor.",
+    "english_translation": "A long road ahead, I mean the river, is waiting for us.",
+    "word_audio": "[sound:googletts-bfd5461f-ca8b044e-dc0b95a2-eb772728-263a4342.mp3]",
+    "sentence_audio": "[sound:googletts-71209bd7-67d8cfea-ffca66ee-5df3ae4c-c7771a6f.mp3]"
+  },
+  {
+    "popularity": "69",
+    "turkish_word": "neden",
+    "part_of_speech": "n, adv",
+    "english_meaning": "(n) reason (adv) why, what for",
+    "turkish_sentence": "Tibuk’a göre yolsuzlukların altındaki en önemli neden de devletçilik.",
+    "english_translation": "As for Tibuk, the main reason underlying corruption is statism.",
+    "word_audio": "[sound:googletts-c9989d33-cc9bc685-190a9a23-0725e336-424095da.mp3]",
+    "sentence_audio": "[sound:googletts-fa0ae00b-15ba592a-20d555cd-6a9ec11d-88323abb.mp3]"
+  },
+  {
+    "popularity": "70",
+    "turkish_word": "çocuk",
+    "part_of_speech": "n",
+    "english_meaning": "child",
+    "turkish_sentence": "Çocuk toplumun sosyal değerlerini de aile içinde öğrenir.",
+    "english_translation": "A child acquires social values in the family.",
+    "word_audio": "[sound:googletts-538226de-c0378826-9b54f0db-c4aefa8a-9c799bf3.mp3]",
+    "sentence_audio": "[sound:googletts-278eed90-e263589a-0d957779-e0bef1f9-02f94b7f.mp3]"
+  },
+  {
+    "popularity": "71",
+    "turkish_word": "diye",
+    "part_of_speech": "sub",
+    "english_meaning": "saying (coordinating conj.)",
+    "turkish_sentence": "Çok kolay diye yanıtlıyor bizimki, ayaklarını sayıp dörde bölüyorum.",
+    "english_translation": "It is very easy, said our friend, I just count the number of legs and divide them by four.",
+    "word_audio": "[sound:googletts-07a15aba-3489b5f3-8cba7fb5-cfc2df96-df1ac3e0.mp3]",
+    "sentence_audio": "[sound:googletts-449f2baa-2418c439-b9adfb1b-4623c940-6d522de4.mp3]"
+  },
+  {
+    "popularity": "72",
+    "turkish_word": "gir",
+    "part_of_speech": "v",
+    "english_meaning": "to enter",
+    "turkish_sentence": "Direk parlamentoya gir aktif siyasete atıl.",
+    "english_translation": "Enter the parliament directly, get involved in active political life.",
+    "word_audio": "[sound:googletts-51019890-8a959b1a-27750e31-1bda96e9-b7d7438c.mp3]",
+    "sentence_audio": "[sound:googletts-7bedfa01-6c9f1cda-dc05523d-91df4f78-9c9d5f7d.mp3]"
+  },
+  {
+    "popularity": "73",
+    "turkish_word": "ülke",
+    "part_of_speech": "n",
+    "english_meaning": "country",
+    "turkish_sentence": "Bu ülke için durum göründüğünden daha karışıktır.",
+    "english_translation": "For this country, the situation is more complicated than it seems.",
+    "word_audio": "[sound:googletts-eb579312-2df82a2e-5510932e-915be6cf-7b7535f9.mp3]",
+    "sentence_audio": "[sound:googletts-b8bc55cf-6a42cc77-2907d995-461c5c11-39fbede0.mp3]"
+  },
+  {
+    "popularity": "74",
+    "turkish_word": "kullan",
+    "part_of_speech": "v",
+    "english_meaning": "to use",
+    "turkish_sentence": "Dilediğin gibi kullan.",
+    "english_translation": "Use it as you wish.",
+    "word_audio": "[sound:googletts-d8b620c3-b0f4f609-af81da51-68a1feba-a0edc86f.mp3]",
+    "sentence_audio": "[sound:googletts-29ea515e-f2eb838b-73ed2094-b771077e-ad136664.mp3]"
+  },
+  {
+    "popularity": "75",
+    "turkish_word": "yüz",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) face (v) to swim; to skin",
+    "turkish_sentence": "Bu büyüme atılımı döneminde yüz ve kafa kemiklerinde de hızlı bir değişim gerçekleşir.",
+    "english_translation": "During this maturation period, a rapid change takes place in the face and head bones.",
+    "word_audio": "[sound:googletts-7e18cf36-0b8175f7-3eab6a24-36b48da0-27f5a633.mp3]",
+    "sentence_audio": "[sound:googletts-9612e9bc-7924cf3f-4c669736-09ac6753-dbe4ade6.mp3]"
+  },
+  {
+    "popularity": "76",
+    "turkish_word": "dünya",
+    "part_of_speech": "n",
+    "english_meaning": "the world, the earth",
+    "turkish_sentence": "Dünya ise Güneş’in çevresinde dönen bir gezegendir.",
+    "english_translation": "The world is a planet rotating around the sun.",
+    "word_audio": "[sound:googletts-a1466fe7-fbc6d0fb-3c8a0cfe-42a3fe03-99df37ea.mp3]",
+    "sentence_audio": "[sound:googletts-6a96caeb-178c1f90-2faf6e4b-fc690b2a-1c014b79.mp3]"
+  },
+  {
+    "popularity": "77",
+    "turkish_word": "gerek",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to be necessary (modal verb) (n) necessity",
+    "turkish_sentence": "Üstelik buğdayın yetiştirilebilmesi için de suya gerek vardır.",
+    "english_translation": "Furthermore, to grow wheat, water is necessary.",
+    "word_audio": "[sound:googletts-1361c166-f6158d09-d4c881da-e901684d-de32b46c.mp3]",
+    "sentence_audio": "[sound:googletts-b2684adf-03bb5889-24c77a5e-09223685-66040907.mp3]"
+  },
+  {
+    "popularity": "78",
+    "turkish_word": "biri",
+    "part_of_speech": "pron",
+    "english_meaning": "someone",
+    "turkish_sentence": "Manisa’da adamın biri âşık oldu bana.",
+    "english_translation": "Someone has fallen in love with me in Manisa.",
+    "word_audio": "[sound:googletts-272e72eb-1e051240-9322bc47-b6ab3303-6145a3ae.mp3]",
+    "sentence_audio": "[sound:googletts-31a630ff-dfe818db-0a7e69f9-2718bac9-a79bfcd3.mp3]"
+  },
+  {
+    "popularity": "79",
+    "turkish_word": "durum",
+    "part_of_speech": "n",
+    "english_meaning": "state, condition",
+    "turkish_sentence": "Eğer durum ciddiyse düzeltmeye çabalarız.",
+    "english_translation": "If the state is critical, we try to remedy it.",
+    "word_audio": "[sound:googletts-0091731f-7a91abe7-ce052a32-38e61acb-f281b487.mp3]",
+    "sentence_audio": "[sound:googletts-17a36a37-bfde2fd2-fb4ee678-0b297abf-aa34483c.mp3]"
+  },
+  {
+    "popularity": "80",
+    "turkish_word": "orta",
+    "part_of_speech": "n",
+    "english_meaning": "middle",
+    "turkish_sentence": "Dışa vurulan orta sınıf hayat tarzıdır.",
+    "english_translation": "What is expressed is a middle-class lifestyle.",
+    "word_audio": "[sound:googletts-a45be217-149b0ed8-5deeed8e-d281898c-06520843.mp3]",
+    "sentence_audio": "[sound:googletts-4f87ea8c-e05e9a27-c9133f00-438704d4-e4e132e3.mp3]"
+  },
+  {
+    "popularity": "81",
+    "turkish_word": "düşün",
+    "part_of_speech": "v",
+    "english_meaning": "to think",
+    "turkish_sentence": "Gidiş nereye? Dur ve düşün!",
+    "english_translation": "Where are we heading? Stop and think!",
+    "word_audio": "[sound:googletts-462f9130-db4563a2-a6940607-20d8385c-b0bfa6af.mp3]",
+    "sentence_audio": "[sound:googletts-763333d4-198cdf00-07cc47d9-03d8bb92-83c68032.mp3]"
+  },
+  {
+    "popularity": "82",
+    "turkish_word": "getir",
+    "part_of_speech": "v",
+    "english_meaning": "to bring",
+    "turkish_sentence": "Bir şişe şarap getir.",
+    "english_translation": "Bring a bottle of wine.",
+    "word_audio": "[sound:googletts-4f988fde-6c2fc850-5ca57039-a1458050-84b2f09d.mp3]",
+    "sentence_audio": "[sound:googletts-237b42df-64bf363d-7763fe22-2f3a0ac8-c6e3bbf7.mp3]"
+  },
+  {
+    "popularity": "83",
+    "turkish_word": "iyi",
+    "part_of_speech": "adj",
+    "english_meaning": "good",
+    "turkish_sentence": "Yazın iyi olmamış.",
+    "english_translation": "Your writing is not good enough.",
+    "word_audio": "[sound:googletts-27d8a800-8cc0a91f-3dd95e95-69fed880-c9acc1e3.mp3]",
+    "sentence_audio": "[sound:googletts-e89b3223-989e816d-ee3b7545-bb3e55ca-67403f8f.mp3]"
+  },
+  {
+    "popularity": "84",
+    "turkish_word": "göre",
+    "part_of_speech": "posp",
+    "english_meaning": "for, according to",
+    "turkish_sentence": "Son verilere göre, ülkemizde 120 civarında sulak alan bulunmaktadır.",
+    "english_translation": "According to the latest data, there are about 120 wetlands in our country.",
+    "word_audio": "[sound:googletts-8e02369f-16c64c0e-eafa22b5-b6fb4234-ebf58599.mp3]",
+    "sentence_audio": "[sound:googletts-82fb48f8-27a5162a-057687fa-e24f3650-90f34af5.mp3]"
+  },
+  {
+    "popularity": "85",
+    "turkish_word": "böyle",
+    "part_of_speech": "adv",
+    "english_meaning": "so, thus, such a",
+    "turkish_sentence": "Başka nerede böyle bir uygulama kaldı acaba?",
+    "english_translation": "Where else can such an implementation still be found?",
+    "word_audio": "[sound:googletts-ccc52a41-12442742-d9a89d46-ac160713-f1d68eef.mp3]",
+    "sentence_audio": "[sound:googletts-9f61bc26-4d64f235-4169cb91-3c4030e2-aa96c25b.mp3]"
+  },
+  {
+    "popularity": "86",
+    "turkish_word": "aç",
+    "part_of_speech": "v, adj",
+    "english_meaning": "(v) to open (adj) hungry",
+    "turkish_sentence": "Kapıyı sessizce aç.",
+    "english_translation": "Open the door quietly.",
+    "word_audio": "[sound:googletts-3eac649e-3b4f2c1d-7722061b-cd38b17b-382ce85e.mp3]",
+    "sentence_audio": "[sound:googletts-70382036-1518a022-84db7231-53db1d02-ab8c138d.mp3]"
+  },
+  {
+    "popularity": "87",
+    "turkish_word": "taraf",
+    "part_of_speech": "n",
+    "english_meaning": "side",
+    "turkish_sentence": "Bu hizmet her iki taraf için de güzel sonuçlar doğurur.",
+    "english_translation": "This service produces good results for both sides.",
+    "word_audio": "[sound:googletts-3fd573c5-3e294e19-b2639281-ce69e97a-9d0ef4a9.mp3]",
+    "sentence_audio": "[sound:googletts-15b56aa0-6521cd33-6b6527a6-681b8b37-3d484b10.mp3]"
+  },
+  {
+    "popularity": "88",
+    "turkish_word": "yaz",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to write (n) summer",
+    "turkish_sentence": "Bunu yaz olur mu?",
+    "english_translation": "Write this down, will you?",
+    "word_audio": "[sound:googletts-ddb8ad5d-966cbd27-217c748b-b03164fd-caefb8cd.mp3]",
+    "sentence_audio": "[sound:googletts-e7530639-1e3b98fc-6486a464-466486c7-2d9b1ec8.mp3]"
+  },
+  {
+    "popularity": "89",
+    "turkish_word": "göster",
+    "part_of_speech": "v",
+    "english_meaning": "to show",
+    "turkish_sentence": "Kanatlarımı göster onlara.",
+    "english_translation": "Show them my wings.",
+    "word_audio": "[sound:googletts-82aedb3f-283efda4-b9510e65-dc0af46c-57a2703a.mp3]",
+    "sentence_audio": "[sound:googletts-1cdc1c4f-8260b4d2-1b6e5c53-cfe7a653-0ea7ad32.mp3]"
+  },
+  {
+    "popularity": "90",
+    "turkish_word": "ev",
+    "part_of_speech": "n",
+    "english_meaning": "house, home",
+    "turkish_sentence": "İmran Han ev hapsine alındı.",
+    "english_translation": "Imran Han is under house arrest.",
+    "word_audio": "[sound:googletts-aec47d0b-73179e83-13a70428-7a900d2e-5abbecd5.mp3]",
+    "sentence_audio": "[sound:googletts-fdf54366-40065055-6d27fd2d-c8c416c6-be356e16.mp3]"
+  },
+  {
+    "popularity": "91",
+    "turkish_word": "kadın",
+    "part_of_speech": "n",
+    "english_meaning": "woman, female",
+    "turkish_sentence": "Yönetiminde 12 kadın yer aldı.",
+    "english_translation": "12 women took roles in the administration.",
+    "word_audio": "[sound:googletts-8a212f59-d8c25ef2-66299642-b2cf95c3-861b5671.mp3]",
+    "sentence_audio": "[sound:googletts-1f32692e-9a39332c-02f83d13-5b62d1f2-b7a70bd7.mp3]"
+  },
+  {
+    "popularity": "92",
+    "turkish_word": "hal",
+    "part_of_speech": "n",
+    "english_meaning": "state, condition",
+    "turkish_sentence": "Hal ve tavrı son derece sakindi.",
+    "english_translation": "His state and disposition were very calm.",
+    "word_audio": "[sound:googletts-4e45f207-1f5d0e71-7bcc3f9d-32fd9306-2e42e1fd.mp3]",
+    "sentence_audio": "[sound:googletts-2f204c48-795d3b18-44227898-9f67023b-6adb22f6.mp3]"
+  },
+  {
+    "popularity": "93",
+    "turkish_word": "göz",
+    "part_of_speech": "n",
+    "english_meaning": "eye",
+    "turkish_sentence": "Buna karşın beynin ve gözün görece çok daha az etkilendikleri gözlemlendi.",
+    "english_translation": "Despite this, it has been observed that the brain and eye were affected relatively less.",
+    "word_audio": "[sound:googletts-7651ede8-0254f8f6-a2c271c0-12bbea12-e55a2145.mp3]",
+    "sentence_audio": "[sound:googletts-055a794d-a2a32019-e552176f-b206c6f5-6b4db883.mp3]"
+  },
+  {
+    "popularity": "94",
+    "turkish_word": "alan",
+    "part_of_speech": "n",
+    "english_meaning": "field, open place",
+    "turkish_sentence": "Çünkü taş ocağının kurulacağı alan yüzeysel olarak tıraşlanmaktadır.",
+    "english_translation": "Because the field where the quarry will be opened up has been cut on the surface.",
+    "word_audio": "[sound:googletts-fdf62f94-c5d17c46-9074bd67-d4e01e21-5da41dbe.mp3]",
+    "sentence_audio": "[sound:googletts-0106ee14-15395e3c-6522ba82-2d178a9d-cd6b37b8.mp3]"
+  },
+  {
+    "popularity": "95",
+    "turkish_word": "aynı",
+    "part_of_speech": "adj",
+    "english_meaning": "the same",
+    "turkish_sentence": "Aynı akıl yürütmeyi yapacağız.",
+    "english_translation": "We will follow the same reasoning.",
+    "word_audio": "[sound:googletts-409ad904-3f92b2a5-a0098676-d65b7f07-435c914d.mp3]",
+    "sentence_audio": "[sound:googletts-90d30198-c23c811b-b9457758-fb7d0609-1e8d6b64.mp3]"
+  },
+  {
+    "popularity": "96",
+    "turkish_word": "önemli",
+    "part_of_speech": "adj",
+    "english_meaning": "important",
+    "turkish_sentence": "Özel sektöre çok önemli görevler düşüyor.",
+    "english_translation": "There are very important tasks for the private sector.",
+    "word_audio": "[sound:googletts-40f2da30-a94ea6bb-91c8b9c8-ec9697a0-0c2ce8f9.mp3]",
+    "sentence_audio": "[sound:googletts-62e333ca-e8ea2d7a-9fd9d199-bef9fedf-61991717.mp3]"
+  },
+  {
+    "popularity": "97",
+    "turkish_word": "hiç",
+    "part_of_speech": "adv",
+    "english_meaning": "never",
+    "turkish_sentence": "Elde edilen bulgular ise hiç de beklendiği gibi değil.",
+    "english_translation": "The results obtained are never expected.",
+    "word_audio": "[sound:googletts-4d12ff42-4b076d07-e6eacfc9-d6edf6f9-d4f5cdd4.mp3]",
+    "sentence_audio": "[sound:googletts-de1d92ae-95638509-e25224e9-5d5e022a-87c32407.mp3]"
+  },
+  {
+    "popularity": "98",
+    "turkish_word": "yani",
+    "part_of_speech": "conj",
+    "english_meaning": "in other words",
+    "turkish_sentence": "Yani, kışın paranız varsa ısınırsınız, yoksa donarsınız.",
+    "english_translation": "In other words, if you have money, you keep warm in winter, if not you freeze.",
+    "word_audio": "[sound:googletts-c60a32ad-5ac58da2-a9ebd180-e8861a31-866ad4dc.mp3]",
+    "sentence_audio": "[sound:googletts-162d7efb-f70b8efc-b2200db9-a6a3052a-cd4d9174.mp3]"
+  },
+  {
+    "popularity": "99",
+    "turkish_word": "bura",
+    "part_of_speech": "n",
+    "english_meaning": "this place",
+    "turkish_sentence": "Burada bu sistem kullanılmaktadır.",
+    "english_translation": "In this place, this system is used.",
+    "word_audio": "[sound:googletts-68ff4427-e3b691e7-e2a4bf66-d16fa682-9b05a13a.mp3]",
+    "sentence_audio": "[sound:googletts-50bf40b4-2f53454d-6c3714ea-6f784738-030d7f78.mp3]"
+  },
+  {
+    "popularity": "100",
+    "turkish_word": "söz",
+    "part_of_speech": "n",
+    "english_meaning": "remark, statement",
+    "turkish_sentence": "Bu sözler bir Türk işadamının feryadı aslında.",
+    "english_translation": "In fact, these remarks are cries of Turkish businessmen.",
+    "word_audio": "[sound:googletts-37b774d6-180af5d0-feacaad2-28fa24a9-b6c87486.mp3]",
+    "sentence_audio": "[sound:googletts-0236f23f-51ede79a-5c05581e-9e1594a9-0348324f.mp3]"
+  },
+  {
+    "popularity": "101",
+    "turkish_word": "ilk",
+    "part_of_speech": "det",
+    "english_meaning": "first",
+    "turkish_sentence": "Bu işe ilk girişenlerin Fenikeliler olduğu söylenir.",
+    "english_translation": "It is argued that the Phoenicians were the first to take up this matter.",
+    "word_audio": "[sound:googletts-91e47e38-ba553537-05422350-bcde239b-37eb79f4.mp3]",
+    "sentence_audio": "[sound:googletts-5b8c840f-fe9f4b55-a6d66688-d89f5957-89405125.mp3]"
+  },
+  {
+    "popularity": "102",
+    "turkish_word": "DOĞRU",
+    "part_of_speech": "adj, posp",
+    "english_meaning": "(adj) correct (posp) towards",
+    "turkish_sentence": "Bu doğru bir tahmindir.",
+    "english_translation": "This is a correct estimate.",
+    "word_audio": "[sound:googletts-b1a51eaa-a1c05b53-b34b3a6c-94c40ee2-0f29a697.mp3]",
+    "sentence_audio": "[sound:googletts-db663bec-f07de873-4d2f50e3-0e8a4236-db9e1328.mp3]"
+  },
+  {
+    "popularity": "103",
+    "turkish_word": "konuş",
+    "part_of_speech": "v",
+    "english_meaning": "to talk, to speak",
+    "turkish_sentence": "Ne olur canım konuş benimle.",
+    "english_translation": "Please, sweetheart, talk to me.",
+    "word_audio": "[sound:googletts-a69f19fd-d63de2d6-1900ef1b-1c25526c-83adceb8.mp3]",
+    "sentence_audio": "[sound:googletts-266f8dca-5a29a7f5-6437ae29-ab2ad6a0-a1e40920.mp3]"
+  },
+  {
+    "popularity": "104",
+    "turkish_word": "oluş",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to come into being (n) becoming; formation",
+    "turkish_sentence": "Müthiş güçlü bir bağ oluştu aramızda.",
+    "english_translation": "A very strong bond came into being between us.",
+    "word_audio": "[sound:googletts-a4496b2c-9a230f01-2f602f2d-6767e58d-40ab3f56.mp3]",
+    "sentence_audio": "[sound:googletts-19b09705-314ae150-c60585f9-5a18ed8a-1e834fbc.mp3]"
+  },
+  {
+    "popularity": "105",
+    "turkish_word": "ancak",
+    "part_of_speech": "conj",
+    "english_meaning": "yet",
+    "turkish_sentence": "Ancak, bu miktar beklenenin çok altında bulunmuştur.",
+    "english_translation": "Yet, the quantity is found to be well below that expected.",
+    "word_audio": "[sound:googletts-52e93acf-b50c6c5e-77c03458-030c9f5c-8ac4ae85.mp3]",
+    "sentence_audio": "[sound:googletts-943d1dfb-5da25e43-ab7c94d0-751d2749-5f2e07dd.mp3]"
+  },
+  {
+    "popularity": "106",
+    "turkish_word": "siz",
+    "part_of_speech": "pron",
+    "english_meaning": "you (pl.)",
+    "turkish_sentence": "Bakalım siz tavlayı nasıl oynuyorsunuz.",
+    "english_translation": "Let’s see how you play backgammon.",
+    "word_audio": "[sound:googletts-3840e72e-9be0ef45-f95658f3-67824470-c04e16c2.mp3]",
+    "sentence_audio": "[sound:googletts-4c13737b-46168548-4d7e712d-3db17a7a-42fd3f93.mp3]"
+  },
+  {
+    "popularity": "107",
+    "turkish_word": "birlik",
+    "part_of_speech": "n",
+    "english_meaning": "unity",
+    "turkish_sentence": "Bu birlik iki alanlı bir yapıya sahiptir.",
+    "english_translation": "This unity has a structure that has two fields.",
+    "word_audio": "[sound:googletts-9b96f2ec-6f138fc6-485fe286-ca778b09-957886ea.mp3]",
+    "sentence_audio": "[sound:googletts-779b5723-a139579e-d799196a-4a33ca69-e17ca719.mp3]"
+  },
+  {
+    "popularity": "108",
+    "turkish_word": "şekil",
+    "part_of_speech": "n",
+    "english_meaning": "shape, figure",
+    "turkish_sentence": "Kromozomlar gerek büyüklük gerekse şekil bakımından farklıdırlar.",
+    "english_translation": "Chromosomes are different both in size and shape.",
+    "word_audio": "[sound:googletts-3f68d876-4d104a8e-c0095dba-e20fc672-4d6ab8c7.mp3]",
+    "sentence_audio": "[sound:googletts-d336a4e5-1fb049c2-aa97714c-6436ea94-d3f8b004.mp3]"
+  },
+  {
+    "popularity": "109",
+    "turkish_word": "başka",
+    "part_of_speech": "det",
+    "english_meaning": "other",
+    "turkish_sentence": "Şimdilerde Japon pazarına çıkan bir başka yol daha vardır.",
+    "english_translation": "Nowadays, there are other roads to the Japanese market.",
+    "word_audio": "[sound:googletts-2dd75145-22c9c4b5-7787d0ff-3a568c5a-788e9aab.mp3]",
+    "sentence_audio": "[sound:googletts-e2560c51-cac3d5a8-4f9a5804-cc542a42-9060c4c7.mp3]"
+  },
+  {
+    "popularity": "110",
+    "turkish_word": "bütün",
+    "part_of_speech": "det",
+    "english_meaning": "whole, total, entire",
+    "turkish_sentence": "Kimi bütün gününü o odada geçirirdi.",
+    "english_translation": "Some of them spent the whole day in that room.",
+    "word_audio": "[sound:googletts-8e1cfa48-038cb068-9eff7ef1-ce2a4841-9fbaaad7.mp3]",
+    "sentence_audio": "[sound:googletts-68289be6-6c62edba-a6aa8aad-d2afc32e-1912c357.mp3]"
+  },
+  {
+    "popularity": "111",
+    "turkish_word": "nasıl",
+    "part_of_speech": "adv",
+    "english_meaning": "how",
+    "turkish_sentence": "Hangi oyuncu nasıl oynarsa kazanır?",
+    "english_translation": "Which player will win no matter how s/he plays?",
+    "word_audio": "[sound:googletts-83b2f56c-d5c4da63-41d308fc-6f89967c-ae9953c3.mp3]",
+    "sentence_audio": "[sound:googletts-19720208-fd48dfab-73a276fd-c58b7aba-a7d74a0a.mp3]"
+  },
+  {
+    "popularity": "112",
+    "turkish_word": "şu",
+    "part_of_speech": "pron",
+    "english_meaning": "that",
+    "turkish_sentence": "Ve herşey şu küçücük küreyi etkilemektedir.",
+    "english_translation": "And everything affects that small sphere.",
+    "word_audio": "[sound:googletts-9f19a2f8-e76ad346-2df627ee-55448d4a-b8c66292.mp3]",
+    "sentence_audio": "[sound:googletts-56639e8a-b62cc732-1ffdef8c-db887124-8ec6deb4.mp3]"
+  },
+  {
+    "popularity": "113",
+    "turkish_word": "ön",
+    "part_of_speech": "n",
+    "english_meaning": "front",
+    "turkish_sentence": "Ön tekerin zeminde kayması arka tekerin kaymasından çok daha tehlikelidir.",
+    "english_translation": "Sliding the front wheels is far more dangerous than sliding the rear wheels.",
+    "word_audio": "[sound:googletts-7fc444bb-1d8a5e9a-7ce8b877-a0990730-3092ed1e.mp3]",
+    "sentence_audio": "[sound:googletts-0fa1d732-534080fd-b1e65204-f3ae8d31-30480ef5.mp3]"
+  },
+  {
+    "popularity": "114",
+    "turkish_word": "çek",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to pull (n) cheque",
+    "turkish_sentence": "Sağ taraf aşağıda kaldı, ipi çek biraz.",
+    "english_translation": "The right side is low, pull up the rope a little bit.",
+    "word_audio": "[sound:googletts-253d2750-dd014be4-d0562636-f465394d-568d7bbd.mp3]",
+    "sentence_audio": "[sound:googletts-379dd10d-d83655ce-29d1b978-7d00f12e-27162429.mp3]"
+  },
+  {
+    "popularity": "115",
+    "turkish_word": "devlet",
+    "part_of_speech": "n",
+    "english_meaning": "state",
+    "turkish_sentence": "Ancak sistem gereği devlet başkanının başbakan adayını önermesi gerekiyor.",
+    "english_translation": "However, according to the existing system, the head of state should propose a candidate for prime minister.",
+    "word_audio": "[sound:googletts-0dab3c26-b2af5955-ad0f5422-35bc6804-51e0ef5f.mp3]",
+    "sentence_audio": "[sound:googletts-b646db81-3d9fec83-3e864e16-f4245be7-682a16cd.mp3]"
+  },
+  {
+    "popularity": "116",
+    "turkish_word": "bile",
+    "part_of_speech": "posp",
+    "english_meaning": "even",
+    "turkish_sentence": "İş yerlerinde bile tavla oynanır ülkemizde.",
+    "english_translation": "Even in the workplace, people play backgammon in our country.",
+    "word_audio": "[sound:googletts-3b4ba4e0-e7475fcb-2dba8159-c39243ac-00c67f6e.mp3]",
+    "sentence_audio": "[sound:googletts-666f56ba-98eb7696-1e7398d3-174b6703-02e7ae06.mp3]"
+  },
+  {
+    "popularity": "117",
+    "turkish_word": "geliş",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to develop (n) arrival, visit",
+    "turkish_sentence": "Olaylar nasıl gelişti biliyor musunuz?",
+    "english_translation": "Do you know how the events developed?",
+    "word_audio": "[sound:googletts-69c302b7-fb451195-9e76df93-b9f4dfd6-a78eb5b2.mp3]",
+    "sentence_audio": "[sound:googletts-f8b54c06-38e38779-658ff9a3-c70f5f19-f5b402a9.mp3]"
+  },
+  {
+    "popularity": "118",
+    "turkish_word": "şimdi",
+    "part_of_speech": "adv",
+    "english_meaning": "now",
+    "turkish_sentence": "Şimdi sıra gene birinci oyuncuda.",
+    "english_translation": "Now, it is the turn of the first player again.",
+    "word_audio": "[sound:googletts-64830e22-a35d9b7d-35029df5-50769fbc-1feb3b83.mp3]",
+    "sentence_audio": "[sound:googletts-da4498b3-4e5714ba-f03201a3-f083dc97-2ab9d83a.mp3]"
+  },
+  {
+    "popularity": "119",
+    "turkish_word": "hem",
+    "part_of_speech": "conj",
+    "english_meaning": "and also",
+    "turkish_sentence": "Hem de çok büyük zorluklara katlanarak.",
+    "english_translation": "And also enduring huge hardship.",
+    "word_audio": "[sound:googletts-99d872e1-13ce233b-6b767454-0f39cc02-0b9c9965.mp3]",
+    "sentence_audio": "[sound:googletts-2cff4fb1-e4acb0b2-4381c69c-94726927-2cfbf55e.mp3]"
+  },
+  {
+    "popularity": "120",
+    "turkish_word": "kişi",
+    "part_of_speech": "n",
+    "english_meaning": "person",
+    "turkish_sentence": "Yetkin bir kişi benim için binlerce kişiye bedeldir.",
+    "english_translation": "For me, a competent person equals thousands of others.",
+    "word_audio": "[sound:googletts-b0d265db-f015ee80-e34c14b3-ff0c807b-1bf70375.mp3]",
+    "sentence_audio": "[sound:googletts-45f4fc21-e25a1e1e-afd83745-ae455026-f7df87d8.mp3]"
+  },
+  {
+    "popularity": "121",
+    "turkish_word": "düş",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to fall (n) dream",
+    "turkish_sentence": "Çeçenlerin son kalesi de düştü.",
+    "english_translation": "The last castle of the Chechens fell.",
+    "word_audio": "[sound:googletts-4d4066fa-77273d9b-549eccd7-f0b72703-25aedcea.mp3]",
+    "sentence_audio": "[sound:googletts-2035c473-ebf720f7-4067b869-41f24266-387266fc.mp3]"
+  },
+  {
+    "popularity": "122",
+    "turkish_word": "dur",
+    "part_of_speech": "v",
+    "english_meaning": "to stop",
+    "turkish_sentence": "Dur! Beni bekle.",
+    "english_translation": "Stop! Wait for me.",
+    "word_audio": "[sound:googletts-f7bbe934-b4b8cd99-f902d4aa-c5c60ee2-a7c3c0c4.mp3]",
+    "sentence_audio": "[sound:googletts-7dc5a233-b4d98122-0b748cdd-7a3d330a-3ebf82ea-8a9d08c1c058084ede417b4b56a3ff64c9695bb1.mp3]"
+  },
+  {
+    "popularity": "123",
+    "turkish_word": "alt",
+    "part_of_speech": "n",
+    "english_meaning": "bottom, ground",
+    "turkish_sentence": "Özellikle alt katlarda pencere bulunmaz.",
+    "english_translation": "Especially on the ground floor, there is no window.",
+    "word_audio": "[sound:googletts-b80c1309-a6cc6aae-937e44d2-03c3bd67-023773b8.mp3]",
+    "sentence_audio": "[sound:googletts-c9f9da6b-30b8dbcd-e6c563d9-bb78ca92-766ae3c9.mp3]"
+  },
+  {
+    "popularity": "124",
+    "turkish_word": "veya",
+    "part_of_speech": "conj",
+    "english_meaning": "or",
+    "turkish_sentence": "Bu sıcaklıkların altında veya üstünde yaşayamazlar.",
+    "english_translation": "They do not live below or above this temperature.",
+    "word_audio": "[sound:googletts-fbd66d16-d6f60dc7-a481c3c5-3fbf7b3a-5250362b.mp3]",
+    "sentence_audio": "[sound:googletts-007c7c1c-63a26b21-d8e2e723-625f7ed5-d69a2c2a.mp3]"
+  },
+  {
+    "popularity": "125",
+    "turkish_word": "yine",
+    "part_of_speech": "adv",
+    "english_meaning": "again",
+    "turkish_sentence": "Ancak yine de diğer yöntemlerle bu görüşün desteklenmesi gerekmektedir.",
+    "english_translation": "Yet again, this view should be supported by other methods.",
+    "word_audio": "[sound:googletts-09a2433a-2e9c2175-7d2d0490-6b38d712-89b7b802.mp3]",
+    "sentence_audio": "[sound:googletts-06fb5b24-870e5fe7-a22086b5-60710d4d-496ddcda.mp3]"
+  },
+  {
+    "popularity": "126",
+    "turkish_word": "özellik",
+    "part_of_speech": "n",
+    "english_meaning": "feature; speciality",
+    "turkish_sentence": "Bu özellik birçok familyada muhafaza edilmiştir.",
+    "english_translation": "This feature has been preserved in many families.",
+    "word_audio": "[sound:googletts-7efdf1f4-c1996ecc-94368232-e10867b8-6d2c8575.mp3]",
+    "sentence_audio": "[sound:googletts-b15ed2b3-f3306c8f-25f7a082-c1d1251a-7f558961.mp3]"
+  },
+  {
+    "popularity": "127",
+    "turkish_word": "ad",
+    "part_of_speech": "n",
+    "english_meaning": "name",
+    "turkish_sentence": "Buna göre, her fosilin iki tane adı vardır.",
+    "english_translation": "Accordingly, each fossil has two names.",
+    "word_audio": "[sound:googletts-71da9f66-1895ec02-f7b9f206-60d72b81-a8130982.mp3]",
+    "sentence_audio": "[sound:googletts-8b77f9ad-2485a8da-ab41eefe-5918e359-c11ba1d8.mp3]"
+  },
+  {
+    "popularity": "128",
+    "turkish_word": "hak",
+    "part_of_speech": "n",
+    "english_meaning": "right",
+    "turkish_sentence": "Kişi hak ve özgürlüklerinin hukuki veya fiili yollarla korunması mümkündür.",
+    "english_translation": "The rights and freedom of a person can be protected by law or in practice.",
+    "word_audio": "[sound:googletts-01ed7c53-00b48980-60e44dc2-3c393ad0-fc135618.mp3]",
+    "sentence_audio": "[sound:googletts-f3ee64b1-ddfe9aae-f1c9e0fb-ad90d011-ae604680.mp3]"
+  },
+  {
+    "popularity": "129",
+    "turkish_word": "sor",
+    "part_of_speech": "v",
+    "english_meaning": "to ask",
+    "turkish_sentence": "İstersen bir uzmanına sor.",
+    "english_translation": "You had better ask an expert.",
+    "word_audio": "[sound:googletts-cfbebe7d-87490512-a19b8bca-765ec07d-d17cd572.mp3]",
+    "sentence_audio": "[sound:googletts-f38e60bb-c8d3784f-e43dccdb-3cb54024-98946b38.mp3]"
+  },
+  {
+    "popularity": "130",
+    "turkish_word": "adam",
+    "part_of_speech": "n",
+    "english_meaning": "man; person",
+    "turkish_sentence": "Adam oğlunu arabasıyla okula götürüyor.",
+    "english_translation": "The man takes his son to school by car.",
+    "word_audio": "[sound:googletts-f87f3e73-cdf12017-ff7b91fc-09aa8952-6830e11c.mp3]",
+    "sentence_audio": "[sound:googletts-228176eb-af677fe2-dda9f555-4bb65d93-6621076a.mp3]"
+  },
+  {
+    "popularity": "131",
+    "turkish_word": "dönem",
+    "part_of_speech": "n",
+    "english_meaning": "period",
+    "turkish_sentence": "Yaşamımda yeni bir dönem açılmıştı.",
+    "english_translation": "A new period opened up in my life.",
+    "word_audio": "[sound:googletts-73af2e2d-ecdfaa3b-91a4bbd1-e2ed5c14-2984a2ba.mp3]",
+    "sentence_audio": "[sound:googletts-e8a60ae2-a82ac57f-991f63b7-0fb5d80a-3c1f46d6.mp3]"
+  },
+  {
+    "popularity": "132",
+    "turkish_word": "dış",
+    "part_of_speech": "n",
+    "english_meaning": "outside",
+    "turkish_sentence": "Dışarı çıkmak zorunda kalabilirim.",
+    "english_translation": "I might be forced to go outside.",
+    "word_audio": "[sound:googletts-d2aad6b6-bc79ddfe-fadb139d-a0c9bd77-649acbd2.mp3]",
+    "sentence_audio": "[sound:googletts-f423cfa8-eac19559-8d0abd7c-5e8ad982-66e10ab7.mp3]"
+  },
+  {
+    "popularity": "133",
+    "turkish_word": "hayat",
+    "part_of_speech": "n",
+    "english_meaning": "life",
+    "turkish_sentence": "Tarihi kentte hayat oldukça sakin görünüyor.",
+    "english_translation": "Life appears to be calm in the historic city.",
+    "word_audio": "[sound:googletts-c2cfd97a-8ab29af7-94498597-ebf19e37-5df816fe.mp3]",
+    "sentence_audio": "[sound:googletts-81c271e8-123070a3-49d521f0-7e5650fa-71d33351.mp3]"
+  },
+  {
+    "popularity": "134",
+    "turkish_word": "sağla",
+    "part_of_speech": "v",
+    "english_meaning": "to provide",
+    "turkish_sentence": "Bu süre içinde özel ders vererek geçimini sağladı.",
+    "english_translation": "He provided a living for himself by private tutoring during this period.",
+    "word_audio": "[sound:googletts-7ad70634-71b51561-99ec4a5b-505a6362-9a8c8334.mp3]",
+    "sentence_audio": "[sound:googletts-94c0b979-42933e33-d6ec860b-2defeaa0-32c684a8.mp3]"
+  },
+  {
+    "popularity": "135",
+    "turkish_word": "kur",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to set up (n) exchange rate",
+    "turkish_sentence": "Cezayir’de koloniler kurdu.",
+    "english_translation": "He set up colonies in Algeria.",
+    "word_audio": "[sound:googletts-7bbe373e-7ec7bbf6-6db511f6-feabc4d7-d727a82d.mp3]",
+    "sentence_audio": "[sound:googletts-2cbaa92e-d6f12d1b-74657cd8-032e9b5b-1b183fc3.mp3]"
+  },
+  {
+    "popularity": "136",
+    "turkish_word": "sonuç",
+    "part_of_speech": "n",
+    "english_meaning": "result, outcome",
+    "turkish_sentence": "Bu sonuç bulgularımızı destekler niteliktedir.",
+    "english_translation": "This result seems to support our findings.",
+    "word_audio": "[sound:googletts-f4a8ec46-5adc186f-1ae94313-f0b20a34-122da56e.mp3]",
+    "sentence_audio": "[sound:googletts-265f0f1e-d1718f09-8508c41a-a54b8d3a-f0b280d5.mp3]"
+  },
+  {
+    "popularity": "137",
+    "turkish_word": "sahip",
+    "part_of_speech": "n",
+    "english_meaning": "owner",
+    "turkish_sentence": "Burada sözünü ettiğimiz elbette mülk sahibi sınıfların gelenekleri.",
+    "english_translation": "What we are referring to here of course is the tradition of classes of property owners.",
+    "word_audio": "[sound:googletts-ec270613-00a1b60a-69cbfdab-c1c08ac0-cecea27c.mp3]",
+    "sentence_audio": "[sound:googletts-e1481459-5edc6c49-40aac966-df18791f-3bc9b990.mp3]"
+  },
+  {
+    "popularity": "138",
+    "turkish_word": "tut",
+    "part_of_speech": "v",
+    "english_meaning": "to hold",
+    "turkish_sentence": "Al tut ellerimi bebek.",
+    "english_translation": "Hold my hands, baby.",
+    "word_audio": "[sound:googletts-0b83a987-1667fa69-95c72291-adbd4e21-3cc6020d.mp3]",
+    "sentence_audio": "[sound:googletts-9ba5998e-1b1bf532-4e2eaab6-2c7c9693-3801c824.mp3]"
+  },
+  {
+    "popularity": "139",
+    "turkish_word": "at",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to throw (n) horse",
+    "turkish_sentence": "At şu miskinleri dışarı dedi.",
+    "english_translation": "I said throw those lazy men out.",
+    "word_audio": "[sound:googletts-b87a5b6d-aa7b9b79-4ed21194-f6e4f24a-824f3ed7.mp3]",
+    "sentence_audio": "[sound:googletts-134570cb-4ef24400-51e9dd88-1fe0488a-015a9286.mp3]"
+  },
+  {
+    "popularity": "140",
+    "turkish_word": "sür",
+    "part_of_speech": "v",
+    "english_meaning": "to drive; to last",
+    "turkish_sentence": "Pazarlıklar gece boyunca sürdü.",
+    "english_translation": "Negotiations lasted all night long.",
+    "word_audio": "[sound:googletts-3b4ae20d-e4017aff-3e428798-01e7c29c-f70356c9.mp3]",
+    "sentence_audio": "[sound:googletts-2585464c-6d0f0866-e91f507b-03e71313-660a8403.mp3]"
+  },
+  {
+    "popularity": "141",
+    "turkish_word": "kız",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) girl (v) to get angry; to redden",
+    "turkish_sentence": "Kız çocukları hâlâ okula gidemiyor.",
+    "english_translation": "The girls still cannot attend school.",
+    "word_audio": "[sound:googletts-4ef11cf5-6a5bbaf4-282f6168-8e28c0bd-fe3b8845.mp3]",
+    "sentence_audio": "[sound:googletts-c3954842-c17b2b37-125cf383-11e29592-d9a55095.mp3]"
+  },
+  {
+    "popularity": "142",
+    "turkish_word": "çünkü",
+    "part_of_speech": "conj",
+    "english_meaning": "because",
+    "turkish_sentence": "Çünkü bilim için harcanan emeğin değerini bilir.",
+    "english_translation": "Because he knows the value of efforts in science.",
+    "word_audio": "[sound:googletts-42a5794d-45c86225-1bcbaab4-ddae072d-04c1d917.mp3]",
+    "sentence_audio": "[sound:googletts-ee5389fc-ab4487c6-971a111b-005534b1-5f454b8b.mp3]"
+  },
+  {
+    "popularity": "143",
+    "turkish_word": "ora",
+    "part_of_speech": "n",
+    "english_meaning": "that place",
+    "turkish_sentence": "Birkaç polis orada cıgara içiyorlar.",
+    "english_translation": "A couple of policemen were smoking in that place.",
+    "word_audio": "[sound:googletts-9cf966ac-2ad0b0b1-738be54b-a38c6533-cbe4d174.mp3]",
+    "sentence_audio": "[sound:googletts-734ed3c6-abf8ba77-2416aa4d-6f816142-825937a2.mp3]"
+  },
+  {
+    "popularity": "144",
+    "turkish_word": "tek",
+    "part_of_speech": "det",
+    "english_meaning": "single, the only",
+    "turkish_sentence": "Ortodontide tek bir hastalık vardır.",
+    "english_translation": "There is one single ailment in orthodontology.",
+    "word_audio": "[sound:googletts-17315dfe-bb33b0b0-0b4142bc-7d1edc19-eb039a23.mp3]",
+    "sentence_audio": "[sound:googletts-1ca18ac0-e12eaa7f-c9e9fddc-018cd40f-f2b324c6.mp3]"
+  },
+  {
+    "popularity": "145",
+    "turkish_word": "bırak",
+    "part_of_speech": "v",
+    "english_meaning": "to leave",
+    "turkish_sentence": "Bırak beni canım kardeşim!",
+    "english_translation": "Leave me my dear brother!",
+    "word_audio": "[sound:googletts-f9b36354-4ef90286-805c352b-d524804c-1c59c6ff.mp3]",
+    "sentence_audio": "[sound:googletts-36abe86c-2c7441b1-ee97aa31-05f9be55-aee7c977.mp3]"
+  },
+  {
+    "popularity": "146",
+    "turkish_word": "su",
+    "part_of_speech": "n",
+    "english_meaning": "water",
+    "turkish_sentence": "Fosil yakıtlar su kirliliğine de neden olurlar.",
+    "english_translation": "Fossil fuels cause water pollution.",
+    "word_audio": "[sound:googletts-d4b98bb3-e1ab96e1-9c1dd014-ea7d929c-8921b3ae.mp3]",
+    "sentence_audio": "[sound:googletts-a7467113-29f84576-14156099-b4326f41-5f3ddcde.mp3]"
+  },
+  {
+    "popularity": "147",
+    "turkish_word": "üst",
+    "part_of_speech": "n",
+    "english_meaning": "top; upper",
+    "turkish_sentence": "Üst yüzeyde iki tip çıkıntı vardır.",
+    "english_translation": "There are two bumps on the top surface.",
+    "word_audio": "[sound:googletts-af7f10f7-5401a187-9f7f4523-1f8b200b-41de388f.mp3]",
+    "sentence_audio": "[sound:googletts-88ec1ecb-2685bbdb-e9366e84-41b9b5e6-94cff316.mp3]"
+  },
+  {
+    "popularity": "148",
+    "turkish_word": "oku",
+    "part_of_speech": "v",
+    "english_meaning": "to read",
+    "turkish_sentence": "Dön bir daha oku istersen.",
+    "english_translation": "You had better go back and read it again.",
+    "word_audio": "[sound:googletts-dde75b78-5afbab0e-a42124f9-3b7daeb0-a23732da.mp3]",
+    "sentence_audio": "[sound:googletts-31802c02-1f8ae531-7db0e012-98268db6-ba39fc8a.mp3]"
+  },
+  {
+    "popularity": "149",
+    "turkish_word": "sev",
+    "part_of_speech": "v",
+    "english_meaning": "to love, to like",
+    "turkish_sentence": "Kendini sev kendine güven.",
+    "english_translation": "Love yourself, trust yourself.",
+    "word_audio": "[sound:googletts-99baf8b7-27623e00-269f825b-e8fa64ad-a3215742.mp3]",
+    "sentence_audio": "[sound:googletts-27402f90-c9abbc24-829ec78c-63ae11ad-9c3dd8c5.mp3]"
+  },
+  {
+    "popularity": "150",
+    "turkish_word": "duy",
+    "part_of_speech": "v",
+    "english_meaning": "to hear",
+    "turkish_sentence": "Annemin sesini duy tamam mı?",
+    "english_translation": "Hear my mother, will you?",
+    "word_audio": "[sound:googletts-97b971db-0e4f4362-bc78ee03-ad880a32-e1f572cf.mp3]",
+    "sentence_audio": "[sound:googletts-35bb10b3-d4c4084d-4cbab74f-82211571-d0ed204c.mp3]"
+  },
+  {
+    "popularity": "151",
+    "turkish_word": "birlikte",
+    "part_of_speech": "adv",
+    "english_meaning": "together",
+    "turkish_sentence": "Ata yadigarı binlerce eserle birlikte yaşadığımız için şanslı sayılırız.",
+    "english_translation": "We should consider ourselves lucky since we live together with thousands of remains of our forefathers.",
+    "word_audio": "[sound:googletts-1093c39b-b7ff5152-566a135f-0ec10e97-4e79099b.mp3]",
+    "sentence_audio": "[sound:googletts-787fd5be-dfb4e7ff-e21508a2-0e1b52b2-168c2c3a.mp3]"
+  },
+  {
+    "popularity": "152",
+    "turkish_word": "tanı",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to recognize; to be acquainted (n) diagnosis",
+    "turkish_sentence": "Karısını o zaman tanıdı.",
+    "english_translation": "His wife recognized him only then.",
+    "word_audio": "[sound:googletts-590757c3-9f0692e6-9e0e6a9b-02592374-4690d972.mp3]",
+    "sentence_audio": "[sound:googletts-7ddfd278-1a9ba6ca-0646b1fc-5f092ef4-a4b77856.mp3]"
+  },
+  {
+    "popularity": "153",
+    "turkish_word": "bekle",
+    "part_of_speech": "v",
+    "english_meaning": "to wait (for)",
+    "turkish_sentence": "“Sen bir dakika bekle” dedim ve apartmana girdim.",
+    "english_translation": "I said, “Wait a minute,” and entered the building.",
+    "word_audio": "[sound:googletts-9d7c20af-c616c130-c1567a1d-5fbb9f46-9bf845af.mp3]",
+    "sentence_audio": "[sound:googletts-b71074e8-2c4334c8-520475cf-c85b7c7f-72e065fa.mp3]"
+  },
+  {
+    "popularity": "154",
+    "turkish_word": "fazla",
+    "part_of_speech": "adj, adv, det",
+    "english_meaning": "(adj) much; excessive (adv) too, much, extra (det) much, over",
+    "turkish_sentence": "Fazla zaman geçmemişti.",
+    "english_translation": "Not much time has passed.",
+    "word_audio": "[sound:googletts-eb2208d0-358273f9-4284b63c-048509cc-115641bf.mp3]",
+    "sentence_audio": "[sound:googletts-6ca02f2a-c968a8c3-3347bd07-3c4935e7-06230a78-269a94b74b0b1e86f7e1df6dbc3fe15552e2d6aa.mp3]"
+  },
+  {
+    "popularity": "155",
+    "turkish_word": "artık",
+    "part_of_speech": "adv, n",
+    "english_meaning": "(adv) no more; anymore; no longer (n) leftover",
+    "turkish_sentence": "Artık gözlerimin mavisi görünmeyecek hale geldi.",
+    "english_translation": "The blue of my eyes was no longer visible.",
+    "word_audio": "[sound:googletts-408e3939-ec19c868-129336c6-d20caa14-b6d58e80.mp3]",
+    "sentence_audio": "[sound:googletts-7b4d1870-fadb3b32-fd292f4d-b804e469-cf675b97.mp3]"
+  },
+  {
+    "popularity": "156",
+    "turkish_word": "uygula",
+    "part_of_speech": "v",
+    "english_meaning": "to apply",
+    "turkish_sentence": "Kendine uygula testi ve bana sonucu bildir.",
+    "english_translation": "Apply the test to yourself and let me know the result.",
+    "word_audio": "[sound:googletts-9606906b-f5f618fa-feb5a4fc-8ead8fff-f4db249f.mp3]",
+    "sentence_audio": "[sound:googletts-f95b1772-aa807cef-63f3fb8e-10b4f4a1-4aa15359.mp3]"
+  },
+  {
+    "popularity": "157",
+    "turkish_word": "baba",
+    "part_of_speech": "n",
+    "english_meaning": "father",
+    "turkish_sentence": "Yolda bir kaza oluyor ve baba ölüyor.",
+    "english_translation": "An accident happens on the road and a father dies.",
+    "word_audio": "[sound:googletts-4d4b4040-89e9e53e-1fa0599a-d67e4009-8ab857b9.mp3]",
+    "sentence_audio": "[sound:googletts-2fee8054-563b2a24-83929fc2-fb8c5701-6ae49388.mp3]"
+  },
+  {
+    "popularity": "158",
+    "turkish_word": "an",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) moment, instant (v) to remember; to recollect",
+    "turkish_sentence": "Şu an günlük üretimimiz 30 tona ulaşmış vaziyette.",
+    "english_translation": "At this moment, our daily production reached 30 tons.",
+    "word_audio": "[sound:googletts-4f117a02-644ffe9a-faba7a23-8b70c166-5559d0e7.mp3]",
+    "sentence_audio": "[sound:googletts-913f4188-b7443688-1404bfbd-f3fa9dc2-f79cb767.mp3]"
+  },
+  {
+    "popularity": "159",
+    "turkish_word": "değiş",
+    "part_of_speech": "v",
+    "english_meaning": "to change",
+    "turkish_sentence": "Fikirlerimiz gelişip değişti.",
+    "english_translation": "Our ideas evolved and changed.",
+    "word_audio": "[sound:googletts-a97251c7-e306ec82-4c485489-d8b11b90-b3562d91.mp3]",
+    "sentence_audio": "[sound:googletts-3e8a9e92-b74d2034-381697a5-482c46fe-704dbb7c.mp3]"
+  },
+  {
+    "popularity": "160",
+    "turkish_word": "soru",
+    "part_of_speech": "n",
+    "english_meaning": "question",
+    "turkish_sentence": "Bu teoremden sonra akla bir başka soru geliyor.",
+    "english_translation": "After this theorem, another question comes to mind.",
+    "word_audio": "[sound:googletts-47581ae4-c5256749-e084d4b9-311b8030-407411cf.mp3]",
+    "sentence_audio": "[sound:googletts-2d07bba1-35343b1f-b7c261bb-a884016a-df708838.mp3]"
+  },
+  {
+    "popularity": "161",
+    "turkish_word": "diğer",
+    "part_of_speech": "det",
+    "english_meaning": "the other",
+    "turkish_sentence": "Kendi oğluma ve diğer çocuklara baktıkça onlar adına üzülüyorum.",
+    "english_translation": "I feel sorry for them when I look at my son and the other kids.",
+    "word_audio": "[sound:googletts-663d98e8-09f2fe6a-2d22cbbe-80488cc3-1bcf55e5.mp3]",
+    "sentence_audio": "[sound:googletts-9f550015-caedae60-a6a509d8-97acde98-d8fc5431.mp3]"
+  },
+  {
+    "popularity": "162",
+    "turkish_word": "ilgili",
+    "part_of_speech": "adj",
+    "english_meaning": "related",
+    "turkish_sentence": "Komedi ile ilgili kuramlar oldukça eskilere dayanıyor.",
+    "english_translation": "Theories relating to comedy go back to old times in history.",
+    "word_audio": "[sound:googletts-acb71067-0220cc7d-a57fa8e0-5c2d4244-d92000aa.mp3]",
+    "sentence_audio": "[sound:googletts-1f2cb58a-928f5f9d-12a6545b-6448ac6b-5453418a.mp3]"
+  },
+  {
+    "popularity": "163",
+    "turkish_word": "bilgi",
+    "part_of_speech": "n",
+    "english_meaning": "knowledge; information",
+    "turkish_sentence": "Satrançta saklı bilgi yoktur.",
+    "english_translation": "There is no secret knowledge in chess.",
+    "word_audio": "[sound:googletts-d123514f-7e882069-b13f4bf2-faed05f9-1a88fa84.mp3]",
+    "sentence_audio": "[sound:googletts-4d784fbc-4f77c394-71a14038-072bc94a-62b7d40f.mp3]"
+  },
+  {
+    "popularity": "164",
+    "turkish_word": "süre",
+    "part_of_speech": "n",
+    "english_meaning": "duration; period",
+    "turkish_sentence": "Bu yüzden hiçbir yerde uzun süre kalamadı.",
+    "english_translation": "For this reason, he could not stay for a long period anywhere.",
+    "word_audio": "[sound:googletts-52629e52-a2115883-0462116d-272c7eb1-03d6dcfb.mp3]",
+    "sentence_audio": "[sound:googletts-38956e05-1ee1f2c2-a37e99f4-65156178-1a195216.mp3]"
+  },
+  {
+    "popularity": "165",
+    "turkish_word": "güzel",
+    "part_of_speech": "adj",
+    "english_meaning": "beautiful",
+    "turkish_sentence": "Güzel dişler güzeli daha güzel yapar.",
+    "english_translation": "Beautiful teeth make the beautiful even more beautiful.",
+    "word_audio": "[sound:googletts-de3ecd22-58e44205-9d9cd1a2-d62e57a7-ae4bf318.mp3]",
+    "sentence_audio": "[sound:googletts-5747959b-65ca661d-778059e6-6b5bffa7-d9206dee.mp3]"
+  },
+  {
+    "popularity": "166",
+    "turkish_word": "öyle",
+    "part_of_speech": "adv",
+    "english_meaning": "thus; as such",
+    "turkish_sentence": "Bu öyle sıradan bir memurluk değildi.",
+    "english_translation": "This was not an ordinary government office as such.",
+    "word_audio": "[sound:googletts-1432c554-60e4780d-daca001f-71851de4-1434000b.mp3]",
+    "sentence_audio": "[sound:googletts-66088310-b345f494-68e875dc-9ed90052-6bef55bd.mp3]"
+  },
+  {
+    "popularity": "167",
+    "turkish_word": "anne",
+    "part_of_speech": "n",
+    "english_meaning": "mother",
+    "turkish_sentence": "İyi bir doğum öncesi bakım ile anne ve çocuk ölümleri engellenebilir.",
+    "english_translation": "With proper care, both mother and child deaths can be prevented.",
+    "word_audio": "[sound:googletts-912e0091-b3251ba7-97cd8daf-97975300-6db3de48.mp3]",
+    "sentence_audio": "[sound:googletts-5cf2e4ca-fe42be71-1bd668a2-777face2-2516a0f6.mp3]"
+  },
+  {
+    "popularity": "168",
+    "turkish_word": "tarih",
+    "part_of_speech": "n",
+    "english_meaning": "date; history",
+    "turkish_sentence": "Her yer alabildiğince yeşil ve tarih kokuyor.",
+    "english_translation": "Everywhere is covered with green and smells of history.",
+    "word_audio": "[sound:googletts-ac8ed2dc-c7fd8961-1809c210-5f9fd197-8d26d523.mp3]",
+    "sentence_audio": "[sound:googletts-a4fdbe8a-683ca4e7-855e2c58-d26a252e-b37530c2.mp3]"
+  },
+  {
+    "popularity": "169",
+    "turkish_word": "sadece",
+    "part_of_speech": "adv",
+    "english_meaning": "only, merely",
+    "turkish_sentence": "Unutmayın ki, çocuğunuz sadece bir kere büyüyecektir.",
+    "english_translation": "Don’t forget that your child only grows up once.",
+    "word_audio": "[sound:googletts-6144eedd-c9cb1dc7-a7befc6c-5e46a0e6-98d192e5.mp3]",
+    "sentence_audio": "[sound:googletts-a764ae05-a2df4944-2701353b-cb86bb96-8aeb095a.mp3]"
+  },
+  {
+    "popularity": "170",
+    "turkish_word": "arkadaş",
+    "part_of_speech": "n",
+    "english_meaning": "friend",
+    "turkish_sentence": "Mümkünse bu spor birkaç arkadaş ile birlikte yapılmalıdır.",
+    "english_translation": "If possible, this sport should be done with a friend.",
+    "word_audio": "[sound:googletts-c4ffcdec-1b81e63a-ef238d91-a1bacbcc-07a0a0c0.mp3]",
+    "sentence_audio": "[sound:googletts-a93ad891-6bd60b43-ac95def5-ff27dfe6-3ff586ea.mp3]"
+  },
+  {
+    "popularity": "171",
+    "turkish_word": "koy",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to put; to place (n) cove",
+    "turkish_sentence": "Al bu ekmeği koy torbana.",
+    "english_translation": "Take this bread and put it into your bag.",
+    "word_audio": "[sound:googletts-85661551-693ca895-a7cf4013-f14c7b8a-75a8c91a.mp3]",
+    "sentence_audio": "[sound:googletts-5cb80523-cb511fc1-f4d8ede4-b5b2a146-c80caf51.mp3]"
+  },
+  {
+    "popularity": "172",
+    "turkish_word": "bugün",
+    "part_of_speech": "adv",
+    "english_meaning": "today",
+    "turkish_sentence": "Bugün sizin gününüz değil.",
+    "english_translation": "Today is not your day.",
+    "word_audio": "[sound:googletts-35e004f3-362a85ed-862eb87e-cf6756e8-8efc45ff.mp3]",
+    "sentence_audio": "[sound:googletts-3d47bee3-970e2d11-0a170c8c-905bf685-af65a2c5.mp3]"
+  },
+  {
+    "popularity": "173",
+    "turkish_word": "kaç",
+    "part_of_speech": "v, adj",
+    "english_meaning": "(v) to escape (adj) how many",
+    "turkish_sentence": "107 mahkum kaçtı.",
+    "english_translation": "107 prisoners escaped.",
+    "word_audio": "[sound:googletts-1d298b62-61f091cb-7bfa021a-c9223280-b992092b.mp3]",
+    "sentence_audio": "[sound:googletts-da9ab587-c8d3c953-a713459b-21bd8728-08cc4935.mp3]"
+  },
+  {
+    "popularity": "174",
+    "turkish_word": "karar",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) decision; verdict (v) to get dark, to turn black",
+    "turkish_sentence": "Çünkü bu konudaki karar çok önceleri verildi.",
+    "english_translation": "Because the decision on this issue had been reached long before.",
+    "word_audio": "[sound:googletts-ee1c2647-f2093a44-9ed6070a-66fb7724-728c9e09.mp3]",
+    "sentence_audio": "[sound:googletts-03cfd414-b53f6c18-121beb3c-9de14662-3845d36c.mp3]"
+  },
+  {
+    "popularity": "175",
+    "turkish_word": "genel",
+    "part_of_speech": "adj",
+    "english_meaning": "general, common",
+    "turkish_sentence": "Genel sorunun yanıtı bugün de bilinmiyor.",
+    "english_translation": "The answer to this general question is not known even today.",
+    "word_audio": "[sound:googletts-34f9f09e-2d8c669f-e3809e06-a7ac7741-00e3f19f.mp3]",
+    "sentence_audio": "[sound:googletts-e0eab148-6623d915-20ae075f-357c1ccf-bb6b738c.mp3]"
+  },
+  {
+    "popularity": "176",
+    "turkish_word": "sistem",
+    "part_of_speech": "n",
+    "english_meaning": "system",
+    "turkish_sentence": "Kolaylıkla sistem içine yerleştirilemeyen iki takım olmalı.",
+    "english_translation": "There must be two teams that may not be easily integrated into the system.",
+    "word_audio": "[sound:googletts-d9682e76-992fb702-2243eccf-cf079879-0f2fc7eb.mp3]",
+    "sentence_audio": "[sound:googletts-c8bc81f9-7dfa6f54-ea086641-6595b1c9-93dda459.mp3]"
+  },
+  {
+    "popularity": "177",
+    "turkish_word": "ilişki",
+    "part_of_speech": "n",
+    "english_meaning": "relation; connection",
+    "turkish_sentence": "Buldukları işle yaşadıkları yer arasında mantıksız bir ilişki kurulur.",
+    "english_translation": "An illogical relation is established between the job they have found and the place they live in.",
+    "word_audio": "[sound:googletts-d932dba9-39d06596-acf7c8e1-1c276f4a-b4162e4c.mp3]",
+    "sentence_audio": "[sound:googletts-e57400c6-3259996e-0cfd0494-976d6e60-47bbf279.mp3]"
+  },
+  {
+    "popularity": "178",
+    "turkish_word": "para",
+    "part_of_speech": "n",
+    "english_meaning": "money",
+    "turkish_sentence": "Benim adıma adam para topluyor.",
+    "english_translation": "The man is collecting money on my behalf.",
+    "word_audio": "[sound:googletts-eecae8ec-abf41125-ae2364f2-32cc65db-eb95549a.mp3]",
+    "sentence_audio": "[sound:googletts-a5670027-c3664a79-0501954a-2e4d7ea1-0fa1cdc0.mp3]"
+  },
+  {
+    "popularity": "179",
+    "turkish_word": "dön",
+    "part_of_speech": "v",
+    "english_meaning": "to turn",
+    "turkish_sentence": "Duvara dön.",
+    "english_translation": "Turn to the wall.",
+    "word_audio": "[sound:googletts-4a6f9370-6d122ead-446376e2-52095632-86315452.mp3]",
+    "sentence_audio": "[sound:googletts-ff4de3e2-d4057c9e-815eb497-34dbec2d-fb94a5ee-5939dc4e7c7af5e3b4dcf5132119cb6873601e00.mp3]"
+  },
+  {
+    "popularity": "180",
+    "turkish_word": "güç",
+    "part_of_speech": "n, adj",
+    "english_meaning": "(n) power (adj) difficult",
+    "turkish_sentence": "Başlangıçta güçleri denkti.",
+    "english_translation": "At the beginning, their powers were equal.",
+    "word_audio": "[sound:googletts-d1f2e1f4-de9a3858-d6fc2872-4485f86e-d43b0b43.mp3]",
+    "sentence_audio": "[sound:googletts-e747335c-6bdc94f7-2fd6ed8d-d32c45a8-98c93453.mp3]"
+  },
+  {
+    "popularity": "181",
+    "turkish_word": "art",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to increase; to remain (n) back; behind",
+    "turkish_sentence": "İllegal işsizler arttı.",
+    "english_translation": "The number of illegal jobless people has increased.",
+    "word_audio": "[sound:googletts-5856f743-6988b8b1-304a9225-c6ae82f4-2312db5b.mp3]",
+    "sentence_audio": "[sound:googletts-36a80ce9-52e15ea2-45a26a8a-d4d230ab-5c2cabad.mp3]"
+  },
+  {
+    "popularity": "182",
+    "turkish_word": "ses",
+    "part_of_speech": "n",
+    "english_meaning": "sound; noise; voice",
+    "turkish_sentence": "Hızla hareket eden bütün şeyler bir ses çıkarır.",
+    "english_translation": "All fast-moving objects produce sound.",
+    "word_audio": "[sound:googletts-0d7e4b58-39879511-db3df643-dde79acd-1ef73b3f.mp3]",
+    "sentence_audio": "[sound:googletts-05b7b8fc-45a4e778-e19d4e13-dbcd86be-57bf2c31.mp3]"
+  },
+  {
+    "popularity": "183",
+    "turkish_word": "küçük",
+    "part_of_speech": "adj",
+    "english_meaning": "small, little",
+    "turkish_sentence": "Böcekler küçük memeliler ve reptillerle beslenir.",
+    "english_translation": "The insects feed on small mammals and reptiles.",
+    "word_audio": "[sound:googletts-53fcb0e8-7be7c8fc-8827c0f7-ae04769b-4418fd59.mp3]",
+    "sentence_audio": "[sound:googletts-1197c224-cdce402b-8ce488d9-97d5e64b-5379e3e2.mp3]"
+  },
+  {
+    "popularity": "184",
+    "turkish_word": "bazı",
+    "part_of_speech": "det",
+    "english_meaning": "some",
+    "turkish_sentence": "Bugün bile bazı topluluklar öpüşmekten kaçınmaktadır.",
+    "english_translation": "Even today, some societies eschew kissing.",
+    "word_audio": "[sound:googletts-9e4d2f92-e3fcfffc-caf075d8-1e1f28bb-4f5dd3bf.mp3]",
+    "sentence_audio": "[sound:googletts-6f366dea-1680d9de-d76d1449-a4aa341d-fbefbc2c.mp3]"
+  },
+  {
+    "popularity": "185",
+    "turkish_word": "tüm",
+    "part_of_speech": "det",
+    "english_meaning": "all",
+    "turkish_sentence": "Tüm gökcisimleri Dünya’nın etrafında döner.",
+    "english_translation": "All stellar bodies revolve around the sun.",
+    "word_audio": "[sound:googletts-7206a255-758e60b6-d26176b1-1ea2c255-b27c0469.mp3]",
+    "sentence_audio": "[sound:googletts-9c4ceea6-c2bd4748-4164ba9a-7ceddd39-5eeaddc5.mp3]"
+  },
+  {
+    "popularity": "186",
+    "turkish_word": "açık",
+    "part_of_speech": "adj",
+    "english_meaning": "open; clear",
+    "turkish_sentence": "Yemekler açık havada inşa edilen mutfakta yeniyordu.",
+    "english_translation": "Meals were eaten in an open-air kitchen.",
+    "word_audio": "[sound:googletts-bb233fd2-6e3607a7-bcf0b153-0b5ab8fe-4b096fb6.mp3]",
+    "sentence_audio": "[sound:googletts-bb1466f6-e79ddb07-e3b2e1ab-a9ed4d43-b8da861b.mp3]"
+  },
+  {
+    "popularity": "187",
+    "turkish_word": "toplum",
+    "part_of_speech": "n",
+    "english_meaning": "society",
+    "turkish_sentence": "İlkel düşüncede toplum ve doğa bir ya da karışıktı.",
+    "english_translation": "In primitive thought, society and nature were one and the same or intertwined.",
+    "word_audio": "[sound:googletts-69fac320-496305e2-45c01182-05e1e5fc-ab35889b.mp3]",
+    "sentence_audio": "[sound:googletts-198a1dad-200a7f4e-de2b39a8-dc5ef26d-64dc2298.mp3]"
+  },
+  {
+    "popularity": "188",
+    "turkish_word": "zor",
+    "part_of_speech": "adj",
+    "english_meaning": "hard, difficult",
+    "turkish_sentence": "Şimdi, daha zor durumlara göz atalım.",
+    "english_translation": "Now, let’s look at even harder situations.",
+    "word_audio": "[sound:googletts-f1b68f5d-ec0bd7e7-456dc518-8741d4e7-2ec76e1d.mp3]",
+    "sentence_audio": "[sound:googletts-1a051434-040a8833-a88db16d-9cfff8d1-85ff3e27.mp3]"
+  },
+  {
+    "popularity": "189",
+    "turkish_word": "sıra",
+    "part_of_speech": "n",
+    "english_meaning": "row, line; desk",
+    "turkish_sentence": "Otomobiller de onların arkasında sıra sıra.",
+    "english_translation": "The cars behind them are all in rows.",
+    "word_audio": "[sound:googletts-c57f9c52-15e0192f-0dc7fb0b-735b6dcd-3c6c2dbe.mp3]",
+    "sentence_audio": "[sound:googletts-9ec6fc4f-43d3ac30-b805881c-724ec469-4c4e3cc8.mp3]"
+  },
+  {
+    "popularity": "190",
+    "turkish_word": "olay",
+    "part_of_speech": "n",
+    "english_meaning": "event; occurrence",
+    "turkish_sentence": "Bu olay bugüne özgü yeni bir durum değil.",
+    "english_translation": "This event is not new and specific to present times.",
+    "word_audio": "[sound:googletts-077dcc97-40128b7d-fc186676-5e757f1e-71ef796e.mp3]",
+    "sentence_audio": "[sound:googletts-1f08756c-5c21b22e-7fff9023-764bceb9-b418cc10.mp3]"
+  },
+  {
+    "popularity": "191",
+    "turkish_word": "ay",
+    "part_of_speech": "n",
+    "english_meaning": "moon; month",
+    "turkish_sentence": "Yavru kaplumbağaların denize ulaşmasında ay ışığının rolü çok büyük.",
+    "english_translation": "Moonlight is of utmost importance for sea turtle babies to reach the sea.",
+    "word_audio": "[sound:googletts-bd766d43-93507962-7873e022-c6f3e000-6f3147b5.mp3]",
+    "sentence_audio": "[sound:googletts-6cdfab26-06a3a52b-0f54fc71-36b4b8dd-f7ad1112.mp3]"
+  },
+  {
+    "popularity": "192",
+    "turkish_word": "hemen",
+    "part_of_speech": "adv",
+    "english_meaning": "right now; immediately",
+    "turkish_sentence": "Çocuğun hemen ameliyat olması gerekiyor.",
+    "english_translation": "The child should be taken to have an operation immediately.",
+    "word_audio": "[sound:googletts-324d7f09-82870308-44187ada-faa2ffcc-7fdc0988.mp3]",
+    "sentence_audio": "[sound:googletts-6b4e9ad1-43134a1e-92fceb79-4310eecd-e912a87b.mp3]"
+  },
+  {
+    "popularity": "193",
+    "turkish_word": "grup",
+    "part_of_speech": "n",
+    "english_meaning": "group",
+    "turkish_sentence": "Diğer çeşitler bu iki grup arasında yer almıştır.",
+    "english_translation": "The other types are in between these two groups.",
+    "word_audio": "[sound:googletts-01467a7c-0ee5896f-0d8418d8-22a3c50c-62a43393.mp3]",
+    "sentence_audio": "[sound:googletts-a13561b7-b3e67758-35b51d96-04ac4019-4504aa06.mp3]"
+  },
+  {
+    "popularity": "194",
+    "turkish_word": "belir",
+    "part_of_speech": "v",
+    "english_meaning": "to appear",
+    "turkish_sentence": "Yüzünde tatlı bir tebessüm belirdi.",
+    "english_translation": "A sweet smile appeared on her face.",
+    "word_audio": "[sound:googletts-460af31c-1d144655-80fbe9b6-ba72b2bc-bd9ea71f.mp3]",
+    "sentence_audio": "[sound:googletts-6f6c2c99-47b7b461-0c021dc5-4e9ce98c-36062b07.mp3]"
+  },
+  {
+    "popularity": "195",
+    "turkish_word": "uzun",
+    "part_of_speech": "adj",
+    "english_meaning": "long",
+    "turkish_sentence": "Hızlı büyür uzun ömürlüdür.",
+    "english_translation": "It grows fast and lives long.",
+    "word_audio": "[sound:googletts-d73ad17c-183acc91-d7d03a8e-0a7601f1-3bbda003.mp3]",
+    "sentence_audio": "[sound:googletts-8a85cfe8-c4c9a40c-b257042a-bb45018f-18e42961.mp3]"
+  },
+  {
+    "popularity": "196",
+    "turkish_word": "sorun",
+    "part_of_speech": "n",
+    "english_meaning": "problem; matter, issue",
+    "turkish_sentence": "Oysa asıl sorun nitelikli yabancı dil öğretimi sorunudur.",
+    "english_translation": "The fundamental problem is providing a qualified foreign language education.",
+    "word_audio": "[sound:googletts-f230fce9-2d7258d2-63f49c38-09847d7f-74ae9dec.mp3]",
+    "sentence_audio": "[sound:googletts-35443167-0e55d52b-8369cca9-252458b9-a8eca001.mp3]"
+  },
+  {
+    "popularity": "197",
+    "turkish_word": "öl",
+    "part_of_speech": "v",
+    "english_meaning": "to die",
+    "turkish_sentence": "Ancak zengin olamadan öldü.",
+    "english_translation": "However, he died before becoming rich.",
+    "word_audio": "[sound:googletts-08dc29af-11a0c918-6616ef53-0e2bb02e-d937916f.mp3]",
+    "sentence_audio": "[sound:googletts-1e9eb78b-ee427384-7dfe21da-e59aa288-ae333dc5.mp3]"
+  },
+  {
+    "popularity": "198",
+    "turkish_word": "biraz",
+    "part_of_speech": "det",
+    "english_meaning": "a little, some",
+    "turkish_sentence": "İşte bizim yaptığımız da biraz buna benziyor.",
+    "english_translation": "Here it is, what we have done looks a bit like this.",
+    "word_audio": "[sound:googletts-00665e2c-f6caf21c-ad223348-9efac1d5-efeee7b3.mp3]",
+    "sentence_audio": "[sound:googletts-5737a79e-8fac75d9-8ca2bd63-79e54279-e836c67b.mp3]"
+  },
+  {
+    "popularity": "199",
+    "turkish_word": "kitap",
+    "part_of_speech": "n",
+    "english_meaning": "book",
+    "turkish_sentence": "Evin kitap bulunmayan odası yok.",
+    "english_translation": "In the house, there are no rooms without books.",
+    "word_audio": "[sound:googletts-ca533d53-79d5ac38-afef3b29-f70a1e16-a3425357.mp3]",
+    "sentence_audio": "[sound:googletts-b7e12377-2c04afc9-350112dd-4d73d6bc-e0052820.mp3]"
+  },
+  {
+    "popularity": "200",
+    "turkish_word": "eski",
+    "part_of_speech": "adj, n",
+    "english_meaning": "(adj) old; former (n) to become old",
+    "turkish_sentence": "Bina eski şeklini tamamen kaybetmiştir.",
+    "english_translation": "The building has completely lost its former shape.",
+    "word_audio": "[sound:googletts-29ae6afa-e52ba4c2-d1fda252-ceeee7de-f03083a5.mp3]",
+    "sentence_audio": "[sound:googletts-ef1a9d87-4db53204-b2df2977-c5cb090e-df6b5d49.mp3]"
+  },
+  {
+    "popularity": "201",
+    "turkish_word": "eğitim",
+    "part_of_speech": "n",
+    "english_meaning": "education",
+    "turkish_sentence": "Eğitim basit deneyimlere dayandırılmalıdır.",
+    "english_translation": "Education should be based on basic experiences.",
+    "word_audio": "[sound:googletts-22c99595-c12a6b50-79929462-5cbb72d5-29ee77c9.mp3]",
+    "sentence_audio": "[sound:googletts-82996daf-b6559d3a-32c4e282-fed8c952-14e3ccbe.mp3]"
+  },
+  {
+    "popularity": "202",
+    "turkish_word": "kazan",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to win (n) caldron",
+    "turkish_sentence": "Onunla sadece savaştı ve bu savaşı kazandı.",
+    "english_translation": "He only fought with him and won this war.",
+    "word_audio": "[sound:googletts-6d1faace-8794f22f-fd826a22-c7a9675d-7b1b929b.mp3]",
+    "sentence_audio": "[sound:googletts-7e026922-c150d21d-7fab820d-70ae8f6b-545d1f34.mp3]"
+  },
+  {
+    "popularity": "203",
+    "turkish_word": "saat",
+    "part_of_speech": "n",
+    "english_meaning": "hour; watch",
+    "turkish_sentence": "Birkaç saat sonra karanlık çöktü ve biz yönümüzü kaybettik.",
+    "english_translation": "A few hours later, darkness fell and we got lost.",
+    "word_audio": "[sound:googletts-9aa33db3-105ab724-6e0dc62f-9a07f812-34d9479e.mp3]",
+    "sentence_audio": "[sound:googletts-6b942620-dbf1fe14-1784ce56-9b47a9d5-5d861e7a.mp3]"
+  },
+  {
+    "popularity": "204",
+    "turkish_word": "ayır",
+    "part_of_speech": "v",
+    "english_meaning": "to separate",
+    "turkish_sentence": "Takım arkadaşları ikiliyi ayırdı.",
+    "english_translation": "Their teammates separated the two of them.",
+    "word_audio": "[sound:googletts-24db6367-b1d91764-b575ab88-a435bcf9-38caa8e4.mp3]",
+    "sentence_audio": "[sound:googletts-cb9a2fa5-00772d59-d7d5a8d2-f87e72f1-efe8f09a.mp3]"
+  },
+  {
+    "popularity": "205",
+    "turkish_word": "otur",
+    "part_of_speech": "v",
+    "english_meaning": "to sit",
+    "turkish_sentence": "“Rahat otur, istirahatine bak” dedi ve çekip gitti.",
+    "english_translation": "He said, “Sit comfortably and relax,” and then went away.",
+    "word_audio": "[sound:googletts-9c0d9f04-fd3995a6-25f74db5-8eb2bba0-f5924027.mp3]",
+    "sentence_audio": "[sound:googletts-aeda0706-7c46afb5-99ba147a-11d9beea-9c7b8ec1.mp3]"
+  },
+  {
+    "popularity": "206",
+    "turkish_word": "tam",
+    "part_of_speech": "det",
+    "english_meaning": "exact, full, complete",
+    "turkish_sentence": "İkinci oyuncu da desteyi tam ortadan ikiye bölemez.",
+    "english_translation": "The second player also could not split the deck of cards exactly in the middle.",
+    "word_audio": "[sound:googletts-c967e111-f3b48ebb-d297563d-b4dd57df-251f89b4.mp3]",
+    "sentence_audio": "[sound:googletts-204d7d63-7261a8ea-7fc0e79d-c141dee4-cdacac0d.mp3]"
+  },
+  {
+    "popularity": "207",
+    "turkish_word": "hareket",
+    "part_of_speech": "n",
+    "english_meaning": "movement, motion",
+    "turkish_sentence": "Ortak özellikleri, hareket organlarımız olan kasları zayıf düşürmeleri.",
+    "english_translation": "Their common effect is to reduce the power of muscles that are our organs of movement.",
+    "word_audio": "[sound:googletts-60c0d7bd-05fd823a-37d42c53-36cd93fc-fb780b28.mp3]",
+    "sentence_audio": "[sound:googletts-317c05c4-66e60fd4-222dcfbb-f09b2ace-b23c20ae.mp3]"
+  },
+  {
+    "popularity": "208",
+    "turkish_word": "halk",
+    "part_of_speech": "n",
+    "english_meaning": "people; nation",
+    "turkish_sentence": "Güçlerini halktan alıyorlar.",
+    "english_translation": "They take power from the people.",
+    "word_audio": "[sound:googletts-43ff7d7e-dd6aa62f-f6f8f68c-1e6b3f4b-be1a8aba.mp3]",
+    "sentence_audio": "[sound:googletts-671c4550-8d65e5a6-62764809-de24cef2-d07c37a8.mp3]"
+  },
+  {
+    "popularity": "209",
+    "turkish_word": "taşı",
+    "part_of_speech": "v",
+    "english_meaning": "to carry",
+    "turkish_sentence": "Ustalardan biri yaralı genci sırtına alarak içeri taşıdı.",
+    "english_translation": "One of the masters carried the wounded young boy inside.",
+    "word_audio": "[sound:googletts-0b355b7c-7a9271cc-342d8c8f-4e4eefed-331d3005.mp3]",
+    "sentence_audio": "[sound:googletts-a94d120c-c5b30076-dd286998-e0807cb0-3ff9beef.mp3]"
+  },
+  {
+    "popularity": "210",
+    "turkish_word": "anlam",
+    "part_of_speech": "n",
+    "english_meaning": "meaning; sense",
+    "turkish_sentence": "Anlam taşıyan ifadelerin başında önermeler gelir.",
+    "english_translation": "The propositions express meaning.",
+    "word_audio": "[sound:googletts-ed841b62-3436d8bd-e743446d-5f13e664-da665d5c.mp3]",
+    "sentence_audio": "[sound:googletts-69ece457-73448352-0bc70261-f70f575e-692e4c64.mp3]"
+  },
+  {
+    "popularity": "211",
+    "turkish_word": "yük",
+    "part_of_speech": "n",
+    "english_meaning": "load; burden",
+    "turkish_sentence": "Küçücük bir yük bile robotların bütün denge sistemlerini bozmaya yetebiliyor.",
+    "english_translation": "Even the slightest load is enough to disturb the entire balancing systems of robots.",
+    "word_audio": "[sound:googletts-f421afe5-fa623431-74dce381-b7abb659-b7b79425.mp3]",
+    "sentence_audio": "[sound:googletts-1021042d-4f07ff8c-a995f78b-112cdd61-926b58be.mp3]"
+  },
+  {
+    "popularity": "212",
+    "turkish_word": "birbiri",
+    "part_of_speech": "pron",
+    "english_meaning": "each other",
+    "turkish_sentence": "Akrabalar, çocuklar birbiri ile konuşabilmeli.",
+    "english_translation": "They are relatives, so the kids should be able to talk to each other.",
+    "word_audio": "[sound:googletts-ee334f93-159f6ed2-f0ccba8a-a006a272-e8efd3c4.mp3]",
+    "sentence_audio": "[sound:googletts-c38dd725-a65b007e-5d46b7e6-f77ee02e-abb3a1c3.mp3]"
+  },
+  {
+    "popularity": "213",
+    "turkish_word": "değer",
+    "part_of_speech": "n",
+    "english_meaning": "value; worth",
+    "turkish_sentence": "Bu değer Türkiye’nin ortalaması olarak da kabul edilebilir.",
+    "english_translation": "This value could be taken as the mean value for Turkey.",
+    "word_audio": "[sound:googletts-01151d41-f5625eff-870b4d9d-10d53b32-74d74c6c.mp3]",
+    "sentence_audio": "[sound:googletts-200dece2-4cdcf533-2472799e-d3514c38-cd4e19b9.mp3]"
+  },
+  {
+    "popularity": "214",
+    "turkish_word": "say",
+    "part_of_speech": "v",
+    "english_meaning": "to count",
+    "turkish_sentence": "Yelda gözleriyle çocukları saydı.",
+    "english_translation": "Yelda counted the kids with her eyes.",
+    "word_audio": "[sound:googletts-c8fcce0c-2acf972a-52f7afce-3a505b81-fa5bec4a.mp3]",
+    "sentence_audio": "[sound:googletts-eb1df376-69eca105-af787880-782ef5c6-7b39ba44.mp3]"
+  },
+  {
+    "popularity": "215",
+    "turkish_word": "bit",
+    "part_of_speech": "v",
+    "english_meaning": "to finish, to end",
+    "turkish_sentence": "Aynı yıl, Kore savaşı bitti ve Kuzey Kore sınırları oluştu.",
+    "english_translation": "The same year, the Korean war ended and the borders of North Korea emerged.",
+    "word_audio": "[sound:googletts-0223193c-4e15c3ec-818ee395-51cfb196-3db3b1b7.mp3]",
+    "sentence_audio": "[sound:googletts-cdc49a26-daa394d7-ff81f097-ce5f9e86-ffa8e0ef.mp3]"
+  },
+  {
+    "popularity": "216",
+    "turkish_word": "nere",
+    "part_of_speech": "n",
+    "english_meaning": "where",
+    "turkish_sentence": "İki sene öncesine kadar Almaata’nın nere olduğunu sorsak Türkiye’de kaç kişi bilirdi?",
+    "english_translation": "Until two years ago, how many people in Turkey would even know where Almaata is, if they were asked?",
+    "word_audio": "[sound:googletts-5f6bad9e-27a0b28e-04d58ae6-82b1c9f5-a250990f.mp3]",
+    "sentence_audio": "[sound:googletts-a31c7b92-2a8110f6-974447dd-c0ddd7d1-de976269.mp3]"
+  },
+  {
+    "popularity": "217",
+    "turkish_word": "yaşam",
+    "part_of_speech": "n",
+    "english_meaning": "life",
+    "turkish_sentence": "Toprak bizim en önemli yaşam destek sistemimizdir.",
+    "english_translation": "Soil is the most important life support of our system.",
+    "word_audio": "[sound:googletts-dc396a5f-436b70b1-6f09d59c-0a9436ba-847211b6.mp3]",
+    "sentence_audio": "[sound:googletts-0fa1b04d-60d44908-ce79c6ea-db5da19f-cd430a57.mp3]"
+  },
+  {
+    "popularity": "218",
+    "turkish_word": "açıkla",
+    "part_of_speech": "v",
+    "english_meaning": "to explain; to disclose",
+    "turkish_sentence": "O akşam Yücel, sorguya katılan dedektiflere yöntemini açıkladı.",
+    "english_translation": "That night Yücel explained his method to detectives leading the interrogation.",
+    "word_audio": "[sound:googletts-55b617a7-5c1f2138-3cc18ae6-103d35f8-2892c607.mp3]",
+    "sentence_audio": "[sound:googletts-02537708-bc404c46-dfd977c6-e230cfb3-0abfbf04.mp3]"
+  },
+  {
+    "popularity": "219",
+    "turkish_word": "hiçbir",
+    "part_of_speech": "det",
+    "english_meaning": "none; no",
+    "turkish_sentence": "Dolayısıyla hiçbir öpücük göründüğü kadar masum değildir.",
+    "english_translation": "Thus, no kiss is as innocent as it seems.",
+    "word_audio": "[sound:googletts-a5bcfe20-1f33ba9a-27b2c6e4-ac6563f6-63c4991c.mp3]",
+    "sentence_audio": "[sound:googletts-d8298038-b45c5936-0109972b-4110842e-9e8d91ef.mp3]"
+  },
+  {
+    "popularity": "220",
+    "turkish_word": "yapı",
+    "part_of_speech": "n",
+    "english_meaning": "building; structure",
+    "turkish_sentence": "Bu kubbeli yapı Hıristiyanlara ait bir şapelmiş.",
+    "english_translation": "This dome-shaped building was once a Christian chapel.",
+    "word_audio": "[sound:googletts-5d342abc-4b180139-09e32a19-6296049b-ab47234f.mp3]",
+    "sentence_audio": "[sound:googletts-d54217f1-9abb3093-eef59ba9-42cfd8dc-fc3441c0.mp3]"
+  },
+  {
+    "popularity": "221",
+    "turkish_word": "yaş",
+    "part_of_speech": "n",
+    "english_meaning": "age",
+    "turkish_sentence": "Ortodontik tedavilerde yaş sınırı var mıdır?",
+    "english_translation": "Is there any age limit in orthodontic treatment?",
+    "word_audio": "[sound:googletts-35fb678d-c555e1af-4c49fcd2-7f46a477-ade0abe4.mp3]",
+    "sentence_audio": "[sound:googletts-aac03aad-23f2bc9d-323c5baa-ef60da97-8afca72a.mp3]"
+  },
+  {
+    "popularity": "222",
+    "turkish_word": "kabul",
+    "part_of_speech": "n",
+    "english_meaning": "acceptance",
+    "turkish_sentence": "Ve halkın kabulü nükleer endüstrinin en önem verdiği konu.",
+    "english_translation": "And the people’s acceptance is what is valued most by the nuclear industry.",
+    "word_audio": "[sound:googletts-91679644-67fda9d3-f6f9b094-444e9bfa-30cda4dc.mp3]",
+    "sentence_audio": "[sound:googletts-3e3a81ab-ee06f01f-eb87ef6e-18cf6f49-4f25ea75.mp3]"
+  },
+  {
+    "popularity": "223",
+    "turkish_word": "az",
+    "part_of_speech": "det",
+    "english_meaning": "few, a little",
+    "turkish_sentence": "Çok az insan %100 memnun veya %100 memnun değildir.",
+    "english_translation": "Very few people are either 100% happy or 100% unhappy.",
+    "word_audio": "[sound:googletts-ea952f55-2ee91606-74190c51-a0e6441a-f678824e.mp3]",
+    "sentence_audio": "[sound:googletts-26992d5e-e98cdd65-17c44126-3d8d9d62-7e428985.mp3]"
+  },
+  {
+    "popularity": "224",
+    "turkish_word": "farklı",
+    "part_of_speech": "adj",
+    "english_meaning": "different",
+    "turkish_sentence": "Günümüzde farklı metotlar uygulanmaktadır.",
+    "english_translation": "Today, different methods are applied.",
+    "word_audio": "[sound:googletts-18a82fa3-989b43b5-484a1946-6e0d4f80-812d2c70.mp3]",
+    "sentence_audio": "[sound:googletts-df8781af-ff90e7c4-71491f91-4fef2432-5773da64.mp3]"
+  },
+  {
+    "popularity": "225",
+    "turkish_word": "geri",
+    "part_of_speech": "n",
+    "english_meaning": "back",
+    "turkish_sentence": "Yitirdiğimiz anahtarları geri getirdiler.",
+    "english_translation": "They have brought back our lost keys.",
+    "word_audio": "[sound:googletts-24bea6ba-16b279db-1e6a3df3-5f82dbf0-33593651.mp3]",
+    "sentence_audio": "[sound:googletts-177c7c15-b094ca03-e9b57d85-8e4fa637-9b320a96.mp3]"
+  },
+  {
+    "popularity": "226",
+    "turkish_word": "devam",
+    "part_of_speech": "n",
+    "english_meaning": "continuation",
+    "turkish_sentence": "Sistemin devamı onun çıkarlarının da karşılanması anlamına gelir.",
+    "english_translation": "The continuation of the system means that its interests are also met.",
+    "word_audio": "[sound:googletts-7e728157-8d825dfa-063644b6-de475a7a-3b4e3675.mp3]",
+    "sentence_audio": "[sound:googletts-720eb685-cd319dae-f621c925-aa330757-b2ba3ebf.mp3]"
+  },
+  {
+    "popularity": "227",
+    "turkish_word": "bölge",
+    "part_of_speech": "n",
+    "english_meaning": "region",
+    "turkish_sentence": "Kurak bölge toprakları kalsiyumca zengindir.",
+    "english_translation": "Soils in arid regions are rich in calcium.",
+    "word_audio": "[sound:googletts-51a82c49-f3b7cee3-8e54d1f7-a3a92578-f91f0e88.mp3]",
+    "sentence_audio": "[sound:googletts-74598a66-bbdf8691-5515d79e-1e8e2ed1-e37af9f3.mp3]"
+  },
+  {
+    "popularity": "228",
+    "turkish_word": "aile",
+    "part_of_speech": "n",
+    "english_meaning": "family",
+    "turkish_sentence": "Sofrada bütün aile efradı oturur.",
+    "english_translation": "All members of the family sit at the table.",
+    "word_audio": "[sound:googletts-4f03fe9d-122d3d2d-3ccfe857-39a2bcf3-97c2c175.mp3]",
+    "sentence_audio": "[sound:googletts-7b6b5bcd-c9b6a3bf-237791fd-05911078-8ffdd3db.mp3]"
+  },
+  {
+    "popularity": "229",
+    "turkish_word": "karşıla",
+    "part_of_speech": "v",
+    "english_meaning": "to meet",
+    "turkish_sentence": "Paris’te büyükelçimiz kendisini karşılar.",
+    "english_translation": "Our ambassador meets him in Paris.",
+    "word_audio": "[sound:googletts-efc40db8-98320472-ab16461b-8c409ce9-c2fe659d.mp3]",
+    "sentence_audio": "[sound:googletts-800f799a-90e51319-a59e77ed-edb8bf10-3a490bf3.mp3]"
+  },
+  {
+    "popularity": "230",
+    "turkish_word": "genç",
+    "part_of_speech": "adj",
+    "english_meaning": "young",
+    "turkish_sentence": "Tartışma büyüdü ve iki genç birbirini düelloya davet etti.",
+    "english_translation": "The argument grew and the two young men challenged each other to a duel.",
+    "word_audio": "[sound:googletts-e1c5c3b0-ea1e00a8-ad15c99d-8f5c2777-1e8781ce.mp3]",
+    "sentence_audio": "[sound:googletts-1f9bfcb8-9fa30d1f-1259d915-a618a3f4-a6e53cdd.mp3]"
+  },
+  {
+    "popularity": "231",
+    "turkish_word": "biçim",
+    "part_of_speech": "n",
+    "english_meaning": "form, shape",
+    "turkish_sentence": "Öz ve biçim bu bütünün ancak birer parçalarıdır, yani onun oluşmasını sağlayan ögelerdir.",
+    "english_translation": "Substance and form are simply parts of the whole, in other words, they are the components of which it is composed.",
+    "word_audio": "[sound:googletts-6fae5a40-6e1adc62-4bf93d25-bdfed913-b5442f1d.mp3]",
+    "sentence_audio": "[sound:googletts-d113792c-ac844035-79c5763e-e7432a3d-bdc07bc0.mp3]"
+  },
+  {
+    "popularity": "232",
+    "turkish_word": "sayı",
+    "part_of_speech": "n",
+    "english_meaning": "number",
+    "turkish_sentence": "Şimdi her kareye bir sayı koyacağız.",
+    "english_translation": "Now we will put a number in each box.",
+    "word_audio": "[sound:googletts-2d637899-b3788338-227e9a3d-8ec755d2-13d09c85.mp3]",
+    "sentence_audio": "[sound:googletts-1385f3f6-a75277bb-71afcf42-8aff0b9c-306dccf6.mp3]"
+  },
+  {
+    "popularity": "233",
+    "turkish_word": "okul",
+    "part_of_speech": "n",
+    "english_meaning": "school",
+    "turkish_sentence": "Gelenek yeni yazarlar yetiştiren bir okul olmalıdır.",
+    "english_translation": "The tradition should be a school that recruits new writers.",
+    "word_audio": "[sound:googletts-3c418a41-55f7f4cb-6cd51820-6f4420f7-f320a068.mp3]",
+    "sentence_audio": "[sound:googletts-d57da45c-69b157ee-9a196a1c-7fb5ef55-6eae8a22.mp3]"
+  },
+  {
+    "popularity": "234",
+    "turkish_word": "herkes",
+    "part_of_speech": "pron",
+    "english_meaning": "everybody, everyone",
+    "turkish_sentence": "Herkes görüşlerini açıklama şansına sahip olmalıdır.",
+    "english_translation": "Everybody should be given a chance to express their views.",
+    "word_audio": "[sound:googletts-46b1bb55-5674469a-f67268d8-e9f1e7f3-d60f1395.mp3]",
+    "sentence_audio": "[sound:googletts-3b591dae-c7543991-f0925421-a6b4f773-eb86f288.mp3]"
+  },
+  {
+    "popularity": "235",
+    "turkish_word": "kat",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to add (n) floor",
+    "turkish_sentence": "Ve bunları yaşamak hayatıma zenginlik kattı.",
+    "english_translation": "And experiencing all these added richness to my life.",
+    "word_audio": "[sound:googletts-941019d6-888b196d-4dae6b23-3910e606-43c16c8d.mp3]",
+    "sentence_audio": "[sound:googletts-c82dac29-c6ce7681-814d7753-8f92fe49-0bff8bf0.mp3]"
+  },
+  {
+    "popularity": "236",
+    "turkish_word": "yüksek",
+    "part_of_speech": "adj",
+    "english_meaning": "high",
+    "turkish_sentence": "Oysa buharlaşma miktarının bu alçak mıntıkalarda yüksek olduğu bir gerçektir.",
+    "english_translation": "However, it is a fact that evaporation levels are high in these lowlands.",
+    "word_audio": "[sound:googletts-1bca9c93-c5dfb272-cb57b21a-d81b09fe-e7e50cef.mp3]",
+    "sentence_audio": "[sound:googletts-f49753c3-8696fb7a-ad860172-a2d2e973-ef609e6c.mp3]"
+  },
+  {
+    "popularity": "237",
+    "turkish_word": "gece",
+    "part_of_speech": "n",
+    "english_meaning": "night",
+    "turkish_sentence": "Bir gece bir bara gider.",
+    "english_translation": "One night he walks into a bar.",
+    "word_audio": "[sound:googletts-e96dfb08-fd8510d7-3a253428-fb431097-6f73441a.mp3]",
+    "sentence_audio": "[sound:googletts-04460bca-5643cca2-0eb1c4c2-5a0f8622-f082f81c.mp3]"
+  },
+  {
+    "popularity": "238",
+    "turkish_word": "kes",
+    "part_of_speech": "v",
+    "english_meaning": "to cut",
+    "turkish_sentence": "Gerek kalmadığında “bağlantıyı kes” seçeneğini de aktif hale getirebilirsiniz.",
+    "english_translation": "When not required, you may also activate the option “cut the connection.”",
+    "word_audio": "[sound:googletts-822bc979-7620edc1-129bc890-c8df936d-add4260b.mp3]",
+    "sentence_audio": "[sound:googletts-b9be6c18-75e92c8f-9873a31a-6fabccc3-26b8eecc.mp3]"
+  },
+  {
+    "popularity": "239",
+    "turkish_word": "gül",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to laugh (n) rose",
+    "turkish_sentence": "Hem ağladı, hem güldü.",
+    "english_translation": "He both cried and laughed.",
+    "word_audio": "[sound:googletts-3c6db8a7-fc231a61-b8e5dae6-dec0c2ec-127f173a.mp3]",
+    "sentence_audio": "[sound:googletts-63b547db-858cc2b4-c5da532a-0ae14a70-21cbb41f.mp3]"
+  },
+  {
+    "popularity": "240",
+    "turkish_word": "açı",
+    "part_of_speech": "n",
+    "english_meaning": "angle",
+    "turkish_sentence": "Çünkü geniş açı, detaylardaki hataları gizler.",
+    "english_translation": "Because a wide angle covers the mistakes in detail.",
+    "word_audio": "[sound:googletts-45095518-64b17a01-0cb20fa5-c7a85d8d-b4adafdb.mp3]",
+    "sentence_audio": "[sound:googletts-a2f02d53-1872519e-426f93d2-97f83b15-4494f196.mp3]"
+  },
+  {
+    "popularity": "241",
+    "turkish_word": "amaç",
+    "part_of_speech": "n",
+    "english_meaning": "aim, goal, purpose",
+    "turkish_sentence": "Altyapı yatırımlarının yapılmasında asıl amaç, diğer yatırımların gerçekleştirilmesini sağlamaktır.",
+    "english_translation": "The main goal in infrastructure investments is to bring in other investment.",
+    "word_audio": "[sound:googletts-c126b525-e7766830-99fa0155-5d44abbd-cd3f83af.mp3]",
+    "sentence_audio": "[sound:googletts-19d8988b-d3226450-48119e7b-9df22333-851fe87c.mp3]"
+  },
+  {
+    "popularity": "242",
+    "turkish_word": "belki",
+    "part_of_speech": "adv",
+    "english_meaning": "perhaps, maybe",
+    "turkish_sentence": "Çoğu insan güneşi bu kadar özlediğini belki de ilk defa fark ediyor.",
+    "english_translation": "Many people, perhaps for the first time, realized how much they missed the sun.",
+    "word_audio": "[sound:googletts-ba92d3f0-a8c93790-a2a5d286-6db40862-fcfe78b9.mp3]",
+    "sentence_audio": "[sound:googletts-5421e061-8919928c-eb90767e-8799a699-24dd28f7.mp3]"
+  },
+  {
+    "popularity": "243",
+    "turkish_word": "temel",
+    "part_of_speech": "n",
+    "english_meaning": "foundation",
+    "turkish_sentence": "Eğer sığ temel artık güvenilir ve yeterli çözüm değil ise, derin temel çözümüne gidilmelidir.",
+    "english_translation": "If a shallow foundation is not a reliable and sufficient solution, then a deeper foundation should be the answer.",
+    "word_audio": "[sound:googletts-de7336b9-f86e7edd-0c50405d-0e6e3129-5af17c4b.mp3]",
+    "sentence_audio": "[sound:googletts-79d46dc7-fcf9b2f2-25436755-a4c74854-8010787f.mp3]"
+  },
+  {
+    "popularity": "244",
+    "turkish_word": "gerçekleş",
+    "part_of_speech": "v",
+    "english_meaning": "to materialize; to happen",
+    "turkish_sentence": "Her şey dünyanın gözleri önünde gerçekleşti.",
+    "english_translation": "Everything happened in front of the eyes of the whole world.",
+    "word_audio": "[sound:googletts-9830950e-18aaa49f-6694bff2-bfcdeb41-f6c5c4ef.mp3]",
+    "sentence_audio": "[sound:googletts-b71b0dba-103f2afd-e3868d60-be4ea3f7-2c439b7c.mp3]"
+  },
+  {
+    "popularity": "245",
+    "turkish_word": "ulaş",
+    "part_of_speech": "v",
+    "english_meaning": "to reach",
+    "turkish_sentence": "Bir furya olarak başlayan özel radyoların sayısı İstanbul’da 350’ye ulaştı.",
+    "english_translation": "Starting as a new trend, the number of private radio stations has reached 350 in İstanbul.",
+    "word_audio": "[sound:googletts-246752ab-e3cb649b-a7d8fd7d-09ca7821-8f2df758.mp3]",
+    "sentence_audio": "[sound:googletts-2afc3079-16fbd471-6fc5aa7b-bdfe3880-b3736d0f.mp3]"
+  },
+  {
+    "popularity": "246",
+    "turkish_word": "hep",
+    "part_of_speech": "adv",
+    "english_meaning": "always",
+    "turkish_sentence": "Hava hep ağır.",
+    "english_translation": "The air is always heavy.",
+    "word_audio": "[sound:googletts-7557ac47-ab0ad82c-1af048c7-cd50dd97-e3f4096f.mp3]",
+    "sentence_audio": "[sound:googletts-fa64b092-00cc7fde-e9608d72-516e9d17-d3c91f19.mp3]"
+  },
+  {
+    "popularity": "247",
+    "turkish_word": "işle",
+    "part_of_speech": "v",
+    "english_meaning": "to commit, to work",
+    "turkish_sentence": "Bir noktaya kadar bu sistem işledi, ama orada tıkandı.",
+    "english_translation": "Up to a certain point, this system worked but then it stopped.",
+    "word_audio": "[sound:googletts-6fe58c17-db7fcfdb-ae40a8f9-8438e57e-4c805171.mp3]",
+    "sentence_audio": "[sound:googletts-860b9c0a-b3b83c5f-ec0c5a8b-97efbb43-117dcc02.mp3]"
+  },
+  {
+    "popularity": "248",
+    "turkish_word": "ifade",
+    "part_of_speech": "n",
+    "english_meaning": "expression; testimony",
+    "turkish_sentence": "Acı gerçekle karşılaşmış gibi bir ifade var yüzünde.",
+    "english_translation": "There is an expression on his face as if he has faced the bitter truth.",
+    "word_audio": "[sound:googletts-0d142258-4b263636-d947dee9-70a32336-92f13fcb.mp3]",
+    "sentence_audio": "[sound:googletts-e08e1152-c6aa6d80-26279a6c-00047c3c-94675ddf.mp3]"
+  },
+  {
+    "popularity": "249",
+    "turkish_word": "çevre",
+    "part_of_speech": "n",
+    "english_meaning": "environs; surroundings",
+    "turkish_sentence": "Kent ve çevresini işgal eder İngilizler.",
+    "english_translation": "The British invaded the city and its environs.",
+    "word_audio": "[sound:googletts-ea8bdd25-62e3c881-d80b43ef-4a254468-822c5813.mp3]",
+    "sentence_audio": "[sound:googletts-cf41f6ab-58735da9-da1dc4a8-8e81e491-79a0a112.mp3]"
+  },
+  {
+    "popularity": "250",
+    "turkish_word": "yak",
+    "part_of_speech": "v",
+    "english_meaning": "to ignite; to light",
+    "turkish_sentence": "Koridorda davanın başlamasını beklerken, bir sigara yaktı.",
+    "english_translation": "While waiting in the corridor for the court to begin, he lit up a cigarette.",
+    "word_audio": "[sound:googletts-64704a69-65ea307e-5964c496-c0567d9c-6bd1ca3b.mp3]",
+    "sentence_audio": "[sound:googletts-4e5c6e74-ae87357f-d7eadecc-7c6364e3-25e7efed.mp3]"
+  },
+  {
+    "popularity": "251",
+    "turkish_word": "evet",
+    "part_of_speech": "n",
+    "english_meaning": "yes",
+    "turkish_sentence": "Kafkaslar’da işbirliğine evet.",
+    "english_translation": "Yes, to cooperation in the Caucasus.",
+    "word_audio": "[sound:googletts-f8b95cd7-fad3603c-bdbacd71-6ccb3155-7173cbef.mp3]",
+    "sentence_audio": "[sound:googletts-bf393040-4f311b71-57c206a6-94b56644-458e8fc9.mp3]"
+  },
+  {
+    "popularity": "252",
+    "turkish_word": "özel",
+    "part_of_speech": "adj",
+    "english_meaning": "special; personal, private",
+    "turkish_sentence": "Ancak çok özel bitkiler ve hayvanlar buraları yurt edinmişlerdir.",
+    "english_translation": "Only very special plants and animals inhabited this place.",
+    "word_audio": "[sound:googletts-e7fc2a1d-54b7e2bc-b7e89518-4e5ce176-7715b231.mp3]",
+    "sentence_audio": "[sound:googletts-92ed73f4-92156a87-458a0b2e-9f3b189b-26aed9c4.mp3]"
+  },
+  {
+    "popularity": "253",
+    "turkish_word": "dil",
+    "part_of_speech": "n",
+    "english_meaning": "language; tongue",
+    "turkish_sentence": "Aklı başında hiç kimse yabancı dil öğrenilmesine karşı çıkmıyor.",
+    "english_translation": "Nobody in his right mind objects to learning a foreign language.",
+    "word_audio": "[sound:googletts-251f914c-c245b462-02abec77-b1c79f71-a9311a0b.mp3]",
+    "sentence_audio": "[sound:googletts-a580ab2e-36168181-a2e19db4-f2745687-d30e8c41.mp3]"
+  },
+  {
+    "popularity": "254",
+    "turkish_word": "içeri",
+    "part_of_speech": "n",
+    "english_meaning": "inside",
+    "turkish_sentence": "Dileyen içeri girip gezebiliyor, malları inceleyebiliyordu.",
+    "english_translation": "Anyone who wished to visit could go inside and inspect the goods.",
+    "word_audio": "[sound:googletts-f68884d2-531dd693-ff4bc832-3026aa94-9673b385.mp3]",
+    "sentence_audio": "[sound:googletts-92bb3fd5-0434eb90-f227d243-e2bd6c72-c1d23792.mp3]"
+  },
+  {
+    "popularity": "255",
+    "turkish_word": "tür",
+    "part_of_speech": "n",
+    "english_meaning": "kind, type",
+    "turkish_sentence": "Eğitimde bu tür oyunlara ve bilmecelere önem vermeli midir?",
+    "english_translation": "Should we consider such kinds of games and riddles in education significant?",
+    "word_audio": "[sound:googletts-e54829d0-644a1c86-83f6d502-a986b6a6-793572d8.mp3]",
+    "sentence_audio": "[sound:googletts-4bc1a4dd-8899032d-ddf912bb-f1b34b43-8e01abf3.mp3]"
+  },
+  {
+    "popularity": "256",
+    "turkish_word": "yürü",
+    "part_of_speech": "v",
+    "english_meaning": "to walk",
+    "turkish_sentence": "İndikten sonra yine yavaşça eve yürü.",
+    "english_translation": "After you get off, walk home slowly.",
+    "word_audio": "[sound:googletts-167d0c3a-74f1739d-4c0b6fe8-274ca8f5-7cd6b496.mp3]",
+    "sentence_audio": "[sound:googletts-4c4813f6-1bcb81c7-a225b158-22ef369f-36f12a5a.mp3]"
+  },
+  {
+    "popularity": "257",
+    "turkish_word": "özellikle",
+    "part_of_speech": "adv",
+    "english_meaning": "especially",
+    "turkish_sentence": "Özellikle gıda sanayii atıklarının arıtılmasında bu yola başvurulur.",
+    "english_translation": "This method is employed especially in disposal of waste from the food industry.",
+    "word_audio": "[sound:googletts-41c4a06b-af35420e-0127f0d9-4816404b-148eb21d.mp3]",
+    "sentence_audio": "[sound:googletts-e0380def-47b20577-88a41243-fe212cac-4853d6b1.mp3]"
+  },
+  {
+    "popularity": "258",
+    "turkish_word": "erkek",
+    "part_of_speech": "n",
+    "english_meaning": "man, male",
+    "turkish_sentence": "Bu kamaları her erkek özel bir kemerle göbeğinin üstünde taşımaktadır.",
+    "english_translation": "Every man carries a dagger in a belt over his belly.",
+    "word_audio": "[sound:googletts-749ea7a8-a649c9f8-0e530102-ad1e1be4-c34a421b.mp3]",
+    "sentence_audio": "[sound:googletts-f4c9de08-6cd7b88b-259a4327-15662450-a4715742.mp3]"
+  },
+  {
+    "popularity": "259",
+    "turkish_word": "pek",
+    "part_of_speech": "adv",
+    "english_meaning": "quite",
+    "turkish_sentence": "Pek çok grip hastası tat alma duyusunu yitirdiğinden yakınır.",
+    "english_translation": "Quite a lot of flu patients complain of loss of the sense of taste.",
+    "word_audio": "[sound:googletts-f031829a-a6cf6b3c-8c5df46e-8187887d-537c743d.mp3]",
+    "sentence_audio": "[sound:googletts-661cf605-ad1bb903-43ccde38-3623861c-10a60b32.mp3]"
+  },
+  {
+    "popularity": "260",
+    "turkish_word": "kez",
+    "part_of_speech": "n",
+    "english_meaning": "(x) times",
+    "turkish_sentence": "Pek çok insan bu ilacı ay içinde bir iki kez alıyor.",
+    "english_translation": "Many people take this pill once or twice a month.",
+    "word_audio": "[sound:googletts-61a82556-42e517ab-b73f29a5-e609d9fb-ac803b06.mp3]",
+    "sentence_audio": "[sound:googletts-e3a2cd8a-ef3ed95d-8e559aca-ffcfc2bf-87f7ed69.mp3]"
+  },
+  {
+    "popularity": "261",
+    "turkish_word": "kim",
+    "part_of_speech": "pron",
+    "english_meaning": "who",
+    "turkish_sentence": "Peki bu insanlara kim bakacak?",
+    "english_translation": "Then who will take care of these people?",
+    "word_audio": "[sound:googletts-a2a98292-8ca7630d-73a21d61-ce7c89cd-a0267483.mp3]",
+    "sentence_audio": "[sound:googletts-d1eb9996-0a28e64e-43623599-898f17b6-fa6d8611.mp3]"
+  },
+  {
+    "popularity": "262",
+    "turkish_word": "süreç",
+    "part_of_speech": "n",
+    "english_meaning": "process",
+    "turkish_sentence": "Sonuçta söz konusu süreç kimyasal yapıyı değişime uğratmaktadır.",
+    "english_translation": "In the end, the process in question causes a change in the chemical structure.",
+    "word_audio": "[sound:googletts-303aebb3-ef51faae-e5e1a5e1-dfbf57f9-9866b7d6.mp3]",
+    "sentence_audio": "[sound:googletts-4a6384ac-e0ae564d-24e61cb4-a75f8b4b-ad77e207.mp3]"
+  },
+  {
+    "popularity": "263",
+    "turkish_word": "kalk",
+    "part_of_speech": "v",
+    "english_meaning": "to stand up",
+    "turkish_sentence": "Gitmeliyiz, çabuk kalk.",
+    "english_translation": "We should go, stand up quickly.",
+    "word_audio": "[sound:googletts-f4b340b9-bbbc88af-98df111e-015798af-d31bf3df.mp3]",
+    "sentence_audio": "[sound:googletts-0c4bb75f-5c863e85-adbf9d7a-3aacc8be-f171c380.mp3]"
+  },
+  {
+    "popularity": "264",
+    "turkish_word": "kimse",
+    "part_of_speech": "pron",
+    "english_meaning": "someone, no one",
+    "turkish_sentence": "Bunun nedenini kimse bilmiyor.",
+    "english_translation": "No one knows the reason for this.",
+    "word_audio": "[sound:googletts-56e05d4b-e24024cc-9f174c32-6b407015-8d8a4caf.mp3]",
+    "sentence_audio": "[sound:googletts-4b56387f-f72b5a5f-1b59543f-52968d3c-0fe513f3.mp3]"
+  },
+  {
+    "popularity": "265",
+    "turkish_word": "öğren",
+    "part_of_speech": "v",
+    "english_meaning": "to learn",
+    "turkish_sentence": "Gülmeyi öğren önce, neşeli ol!",
+    "english_translation": "Learn how to smile first, be joyous!",
+    "word_audio": "[sound:googletts-c576611f-1bf48e51-afdf3862-245c5327-57c18445.mp3]",
+    "sentence_audio": "[sound:googletts-28fecd5b-4b61c924-1ab66289-24f00047-3cb09297.mp3]"
+  },
+  {
+    "popularity": "266",
+    "turkish_word": "kapı",
+    "part_of_speech": "n",
+    "english_meaning": "door",
+    "turkish_sentence": "Kapı yukarıdan aşağıya doğru çekilerek kapanıyor.",
+    "english_translation": "The door is closed by pulling it down from top to bottom.",
+    "word_audio": "[sound:googletts-11230c7c-7b026e53-45633b56-558c2cfe-4e7e4a8a.mp3]",
+    "sentence_audio": "[sound:googletts-dd24e73b-d08f5d2e-7a7d3f93-31f4aca3-0d6937cc.mp3]"
+  },
+  {
+    "popularity": "267",
+    "turkish_word": "nokta",
+    "part_of_speech": "n",
+    "english_meaning": "point",
+    "turkish_sentence": "Bir diğer nokta da gözlemlerin homojen bir veri olup olmadığıdır.",
+    "english_translation": "Another point is whether the observations are homogeneous data or not.",
+    "word_audio": "[sound:googletts-4ec933d2-1113740d-fe5d0158-9a548ae0-9a384a7e.mp3]",
+    "sentence_audio": "[sound:googletts-0e7380f8-a7e08422-6c7953a9-20237afe-9b812d86.mp3]"
+  },
+  {
+    "popularity": "268",
+    "turkish_word": "etki",
+    "part_of_speech": "n",
+    "english_meaning": "effect",
+    "turkish_sentence": "En uzaktaki varlığın dahi Dünya üzerinde bir çekim etkisi vardır.",
+    "english_translation": "Even the most remote body has a gravitational effect on Earth.",
+    "word_audio": "[sound:googletts-ade9cad4-b4eaac8a-6da6a929-876ffdae-f3f42ec1.mp3]",
+    "sentence_audio": "[sound:googletts-3d5d3e37-a4981a39-b6ed6df6-0bd45b5d-e048a121.mp3]"
+  },
+  {
+    "popularity": "269",
+    "turkish_word": "hepsi",
+    "part_of_speech": "pron",
+    "english_meaning": "all",
+    "turkish_sentence": "Kadınların hepsi sahanlıkta toplanmışlardı.",
+    "english_translation": "All the women gathered in the yard.",
+    "word_audio": "[sound:googletts-983583eb-beb98645-750dbdde-2aa93e06-191e8b7f.mp3]",
+    "sentence_audio": "[sound:googletts-acf55a13-ddb349d7-ca0804c0-f5b93d2b-3f9919ab.mp3]"
+  },
+  {
+    "popularity": "270",
+    "turkish_word": "dikkat",
+    "part_of_speech": "n",
+    "english_meaning": "attention",
+    "turkish_sentence": "Okul öncesi dönem çocuklarının dikkat süreleri kısadır.",
+    "english_translation": "The attention span of preschoolers is short.",
+    "word_audio": "[sound:googletts-98128368-ff5ea56c-6e8dbdc3-363b7756-153acef3.mp3]",
+    "sentence_audio": "[sound:googletts-3f500146-30f74c56-2e23d56d-12f16414-e3d6bbf3.mp3]"
+  },
+  {
+    "popularity": "271",
+    "turkish_word": "ikinci",
+    "part_of_speech": "adj",
+    "english_meaning": "second",
+    "turkish_sentence": "Alınacak ikinci önlem enerjiyi en az kayıpla üretmektir.",
+    "english_translation": "The second measure to be implemented is to produce energy with minimum loss.",
+    "word_audio": "[sound:googletts-64073d46-90ff60d7-f7d63cef-e70aa8e4-64d0304e.mp3]",
+    "sentence_audio": "[sound:googletts-9ad25dd9-0197caa5-e83a5e06-ac4b130d-a9549981.mp3]"
+  },
+  {
+    "popularity": "272",
+    "turkish_word": "zaten",
+    "part_of_speech": "adv",
+    "english_meaning": "anyway, anyhow",
+    "turkish_sentence": "Bahçe nedir ki zaten, bir kaçış ve sığınma yeri değil mi?",
+    "english_translation": "Anyway, what is a garden if not a sanctuary, a place to escape to?",
+    "word_audio": "[sound:googletts-31095ad7-b837b3e1-cd07c64d-a72ae23e-4f747183.mp3]",
+    "sentence_audio": "[sound:googletts-bf63bee2-ebaba670-11054616-f3c844fd-2cc391b2.mp3]"
+  },
+  {
+    "popularity": "273",
+    "turkish_word": "üzere",
+    "part_of_speech": "posp",
+    "english_meaning": "is about to",
+    "turkish_sentence": "Mart’ın ilk günü bitmek üzere.",
+    "english_translation": "The first day of March is about to end.",
+    "word_audio": "[sound:googletts-86be81f3-8db3544d-08ffe32b-5d4c4616-fba4ae64.mp3]",
+    "sentence_audio": "[sound:googletts-58c74c27-c084d37d-2f06b44e-f31fb537-7e6d9af1.mp3]"
+  },
+  {
+    "popularity": "274",
+    "turkish_word": "düzenle",
+    "part_of_speech": "v",
+    "english_meaning": "to arrange; to organize",
+    "turkish_sentence": "İki başbakan, görüşmelerin ardından ortak bir basın toplantısı düzenledi.",
+    "english_translation": "The two prime ministers organized a press conference after negotiations.",
+    "word_audio": "[sound:googletts-ae88fe16-59939955-534ce286-081fa333-6354b6dc.mp3]",
+    "sentence_audio": "[sound:googletts-710f70bf-4314f11c-c439f7a8-34fbfe0c-8ad47bd8.mp3]"
+  },
+  {
+    "popularity": "275",
+    "turkish_word": "bin",
+    "part_of_speech": "v",
+    "english_meaning": "to ride; to get on",
+    "turkish_sentence": "Cebinden çıkardığı adresi şoföre uzatarak taksiye bindi.",
+    "english_translation": "He handed over the address that he took out from his pocket and got in the taxi.",
+    "word_audio": "[sound:googletts-a1bdf208-89492755-ed57fb91-9749fbd5-038bcd71.mp3]",
+    "sentence_audio": "[sound:googletts-c493bb99-6c95215b-e5982225-c11869f7-0b1d30e7.mp3]"
+  },
+  {
+    "popularity": "276",
+    "turkish_word": "fark",
+    "part_of_speech": "n",
+    "english_meaning": "difference",
+    "turkish_sentence": "Laboratuvar deneyleri ile bilgisayar arasında sadece süre bakımından fark vardır.",
+    "english_translation": "The only difference between lab experiments and computers is duration.",
+    "word_audio": "[sound:googletts-732e6a79-01c0dc9c-9aaf57fa-2b5d7159-9d5758ed.mp3]",
+    "sentence_audio": "[sound:googletts-93105b97-422a796c-513c7979-cac7209e-af0d93d9.mp3]"
+  },
+  {
+    "popularity": "277",
+    "turkish_word": "yarat",
+    "part_of_speech": "v",
+    "english_meaning": "to create",
+    "turkish_sentence": "Hareketin dondurulması, fotoğrafçılıkta bir devrim yarattı.",
+    "english_translation": "Freezing movement has created a revolution in photography.",
+    "word_audio": "[sound:googletts-472ca347-f4549871-f7fbe44c-40706ed0-5d763f0e.mp3]",
+    "sentence_audio": "[sound:googletts-722cd0d4-c84c70da-8d9ce33c-f1ce200c-5b677df1.mp3]"
+  },
+  {
+    "popularity": "278",
+    "turkish_word": "yönetim",
+    "part_of_speech": "n",
+    "english_meaning": "administration",
+    "turkish_sentence": "Sorunlar genelde yönetim hatasından kaynaklanıyor.",
+    "english_translation": "The problems generally arise from mistakes of administration.",
+    "word_audio": "[sound:googletts-620f4cd9-6a9949a8-edfabb0f-af26395d-4e3b152a.mp3]",
+    "sentence_audio": "[sound:googletts-8a648769-4a139732-df98133a-8e4377e8-aa884669.mp3]"
+  },
+  {
+    "popularity": "279",
+    "turkish_word": "düşünce",
+    "part_of_speech": "n",
+    "english_meaning": "thought, idea",
+    "turkish_sentence": "Öte yandan her yeni düşünce, doğal olarak kurucuya mal ediliyordu.",
+    "english_translation": "On the other hand, each new idea is attributed to its founder.",
+    "word_audio": "[sound:googletts-ffefbafa-93645e47-840ea335-0ab55eb8-03c7ce4e.mp3]",
+    "sentence_audio": "[sound:googletts-0902bd0d-6a937e38-0cf5da17-e66767ff-f89cd8b1.mp3]"
+  },
+  {
+    "popularity": "280",
+    "turkish_word": "yakın",
+    "part_of_speech": "adj, v",
+    "english_meaning": "(adj) near, recent (v) to complain",
+    "turkish_sentence": "Ülkemiz tarihinin yakın geçmişi, bu türlü olaylarla doludur.",
+    "english_translation": "The history of the recent past of our country is full of such incidents.",
+    "word_audio": "[sound:googletts-6f0bf057-ffcb58db-6838d9d0-b378501c-23cc6783.mp3]",
+    "sentence_audio": "[sound:googletts-5f7de70d-494d115b-41d02980-84444552-80121a4e.mp3]"
+  },
+  {
+    "popularity": "281",
+    "turkish_word": "izle",
+    "part_of_speech": "v",
+    "english_meaning": "to follow; to watch",
+    "turkish_sentence": "Halkla birlikte açık salonlarda, sinema izledi.",
+    "english_translation": "He watched a movie with the people in an open hall.",
+    "word_audio": "[sound:googletts-4f11af32-35d17698-dd302b5c-3867a05d-8d9db08c.mp3]",
+    "sentence_audio": "[sound:googletts-2a07432a-f256bf60-07d20a8b-a9c3c658-f969ce07.mp3]"
+  },
+  {
+    "popularity": "282",
+    "turkish_word": "oyna",
+    "part_of_speech": "v",
+    "english_meaning": "to play",
+    "turkish_sentence": "Fenerbahçe bu sezon ilk kez bir lig maçını Aziz Yıldırım’sız oynadı.",
+    "english_translation": "For the first time this season, Fenerbahçe played a match in the absence of Aziz Yıldırım.",
+    "word_audio": "[sound:googletts-4dd1a2fc-2097e6b3-286d48cd-e7e31867-e72039a5.mp3]",
+    "sentence_audio": "[sound:googletts-aa720a9d-a2243473-ad405f79-3bf74be6-9fda13bc.mp3]"
+  },
+  {
+    "popularity": "283",
+    "turkish_word": "sık",
+    "part_of_speech": "v, adv",
+    "english_meaning": "(v) to squeeze (adv) frequent",
+    "turkish_sentence": "Zaman zaman görülmez bir el sıkıyordu yüreğini.",
+    "english_translation": "From time to time, an invisible hand squeezes her heart.",
+    "word_audio": "[sound:googletts-c999852d-66436852-184dff6a-782f241c-21ddfcbe.mp3]",
+    "sentence_audio": "[sound:googletts-be688468-9e82195d-a0f09a02-032cef91-bb975ffe.mp3]"
+  },
+  {
+    "popularity": "284",
+    "turkish_word": "koru",
+    "part_of_speech": "v, n",
+    "english_meaning": "(v) to protect (n) grove, small wood",
+    "turkish_sentence": "Soğuklardan kendini koru.",
+    "english_translation": "Protect yourself from the cold.",
+    "word_audio": "[sound:googletts-9dc94597-a4da7697-4c0e756a-9b0b56ce-ab02cb30.mp3]",
+    "sentence_audio": "[sound:googletts-6ba7b531-13d14ebb-90ab8d30-fadc1e9e-3576a705.mp3]"
+  },
+  {
+    "popularity": "285",
+    "turkish_word": "görev",
+    "part_of_speech": "n",
+    "english_meaning": "duty, assignment",
+    "turkish_sentence": "Bu görev, Einstein’in bilimsel aletlerin yapılmasıyla ilgili merakını artırdı.",
+    "english_translation": "This assignment caused an increase in Einstein’s interest in manufacturing scientific devices.",
+    "word_audio": "[sound:googletts-a49c8267-7fd68dc2-d2e8d7e5-88cdf9a9-37bb2e5a.mp3]",
+    "sentence_audio": "[sound:googletts-da8d3020-3963b59d-5b51bb51-ac39a4c1-e3abe53d.mp3]"
+  },
+  {
+    "popularity": "286",
+    "turkish_word": "savaş",
+    "part_of_speech": "n, v",
+    "english_meaning": "(n) war (v) to fight, to battle",
+    "turkish_sentence": "Resmi kayıtlara göre Türkiye ile San Marino hala savaş halinde gözükmektedir.",
+    "english_translation": "According to official records, Turkey and San Marino are still at war.",
+    "word_audio": "[sound:googletts-0ee9bb06-d0057989-37b5b18a-a6b0293c-571ef19d.mp3]",
+    "sentence_audio": "[sound:googletts-80fc1675-bcfee4b4-bf32602a-0f9a31db-15c6e0c7.mp3]"
+  },
+  {
+    "popularity": "287",
+    "turkish_word": "madde",
+    "part_of_speech": "n",
+    "english_meaning": "matter, substance",
+    "turkish_sentence": "Birçok inorganik madde mikroorganizmaların gelişimi için gereklidir.",
+    "english_translation": "Various inorganic substances are required for the development of microorganisms.",
+    "word_audio": "[sound:googletts-1ada9e87-b34ce6ed-8a103fda-631dbe30-7f6f17b4.mp3]",
+    "sentence_audio": "[sound:googletts-8bca6de9-63edd75b-15dd88bd-a5e6837f-aebc197b.mp3]"
+  },
+  {
+    "popularity": "288",
+    "turkish_word": "kısa",
+    "part_of_speech": "adj",
+    "english_meaning": "short",
+    "turkish_sentence": "Kısa bir duraklamadan sonra denize doğru harekete başlıyorlar.",
+    "english_translation": "After a short period of stagnation, they started to move towards the sea.",
+    "word_audio": "[sound:googletts-ea9e534f-d823f04d-a7a61798-49e55979-72838425.mp3]",
+    "sentence_audio": "[sound:googletts-928811dd-866ebb25-86fb36eb-22cfc84a-857ee6a4.mp3]"
+  },
+  {
+    "popularity": "289",
+    "turkish_word": "kaynak",
+    "part_of_speech": "n",
+    "english_meaning": "source",
+    "turkish_sentence": "Bu arayış içinde en önemli kaynak şu an için hidrojen gibi görünmektedir.",
+    "english_translation": "In this search, hydrogen seems to be the most important source.",
+    "word_audio": "[sound:googletts-8f634a8e-42d9ac8c-29d3a251-554ad66a-3adc31b2.mp3]",
+    "sentence_audio": "[sound:googletts-ee3e1a9d-6b7b58bc-b1c512b0-1dbdcf4d-70979777.mp3]"
+  },
+  {
+    "popularity": "290",
+    "turkish_word": "gelir",
+    "part_of_speech": "n",
+    "english_meaning": "income",
+    "turkish_sentence": "İşte bu görülmeyen masraflar milli gelir kaybına yol açmaktadır.",
+    "english_translation": "These unforeseen expenses cause a loss in national income.",
+    "word_audio": "[sound:googletts-6559aaed-d42e1778-871d0f86-76328ef8-e5eb5501.mp3]",
+    "sentence_audio": "[sound:googletts-ff9a33a8-d66b2a01-2cf7a5c2-6eaeaff9-5dbed7cf.mp3]"
+  },
+  {
+    "popularity": "291",
+    "turkish_word": "yeniden",
+    "part_of_speech": "adv",
+    "english_meaning": "once again",
+    "turkish_sentence": "Bu konuya daha sonra yeniden değineceğiz.",
+    "english_translation": "Later, we will refer to this point once again.",
+    "word_audio": "[sound:googletts-579b8aa4-2ea9cfa7-fbe08d6e-7b6f45b9-46aea3ba.mp3]",
+    "sentence_audio": "[sound:googletts-b4767f3d-db6885eb-3edf027f-1d73d2c8-28e26017.mp3]"
+  },
+  {
+    "popularity": "292",
+    "turkish_word": "parti",
+    "part_of_speech": "n",
+    "english_meaning": "party",
+    "turkish_sentence": "Lakin, son dönemde iki parti üzerindeki baskı giderek artıyor.",
+    "english_translation": "However, the pressure on the two parties has been increasing recently.",
+    "word_audio": "[sound:googletts-ed3e2d49-b25381e7-ceb4e084-78af62ed-7ae32e2f.mp3]",
+    "sentence_audio": "[sound:googletts-565a0421-9829e7af-fb46c4b1-a06ae70c-fcd1c1aa.mp3]"
+  },
+  {
+    "popularity": "293",
+    "turkish_word": "merkez",
+    "part_of_speech": "n",
+    "english_meaning": "center",
+    "turkish_sentence": "Depremin merkez üssünün yerin 10 kilometre altında olduğu kaydedildi.",
+    "english_translation": "The center of the earthquake is recorded to be 10 kilometers below the surface.",
+    "word_audio": "[sound:googletts-7bef9e2c-ccc706f9-ebc8daae-6199d4b8-61f5f827.mp3]",
+    "sentence_audio": "[sound:googletts-27c77ca5-fd126d80-85e857a6-38b19345-7fe8a95c.mp3]"
+  },
+  {
+    "popularity": "294",
+    "turkish_word": "hazırla",
+    "part_of_speech": "v",
+    "english_meaning": "to prepare",
+    "turkish_sentence": "Her üç bilim adamı da birer rapor hazırladı.",
+    "english_translation": "The three scientists each prepared a report.",
+    "word_audio": "[sound:googletts-30a377b6-5196908e-f7aa373e-e4c1e6ee-de8f83b5.mp3]",
+    "sentence_audio": "[sound:googletts-3d445e65-5568e18c-df32982f-acacc6ce-7a0b2e17.mp3]"
+  },
+  {
+    "popularity": "295",
+    "turkish_word": "şöyle",
+    "part_of_speech": "adv",
+    "english_meaning": "thus",
+    "turkish_sentence": "Bunu bir Alman atasözü şöyle anlatmaktadır.",
+    "english_translation": "A German proverb expresses this thus.",
+    "word_audio": "[sound:googletts-020ddddc-9846b743-3b25bf43-e59a2961-b7e36f98.mp3]",
+    "sentence_audio": "[sound:googletts-1b977283-a3de2b78-055e4d17-165da633-95d54b58-3def548d7273281ba14ef44eab80ab5050653ad4.mp3]"
+  },
+  {
+    "popularity": "296",
+    "turkish_word": "yazı",
+    "part_of_speech": "n",
+    "english_meaning": "writing",
+    "turkish_sentence": "Bu yazı akademik mükemmellik iddiasından uzak ve bir politik çalışma.",
+    "english_translation": "This piece of writing is a political study which is far from academic excellence.",
+    "word_audio": "[sound:googletts-f50ec59c-95502f2b-685dcb3c-cb699f95-a41f2770.mp3]",
+    "sentence_audio": "[sound:googletts-6ca562f9-915e2abc-e4b9a626-6f52f307-c5230e79.mp3]"
+  },
+  {
+    "popularity": "297",
+    "turkish_word": "hizmet",
+    "part_of_speech": "n",
+    "english_meaning": "service",
+    "turkish_sentence": "Teknik hizmet merkezleri “proje ekibi” esasına dayanır.",
+    "english_translation": "The technical service centers work on a “project team” principle.",
+    "word_audio": "[sound:googletts-152e8ede-f2064509-886317fb-57ae876e-9185f950.mp3]",
+    "sentence_audio": "[sound:googletts-b5a3eb86-4ff36c1d-a25d41a0-21d1f369-653dec58.mp3]"
+  },
+  {
+    "popularity": "298",
+    "turkish_word": "akıl",
+    "part_of_speech": "n",
+    "english_meaning": "mind, reason; wisdom",
+    "turkish_sentence": "Eksiği kapatmak için pratik akıl devreye girmektedir.",
+    "english_translation": "Practical minds come into force to compensate for what is lacking.",
+    "word_audio": "[sound:googletts-e894956a-76204514-ad024f32-eb08507f-8f889e7c.mp3]",
+    "sentence_audio": "[sound:googletts-f78a3765-5dd7dfbe-c1799901-addfe9c8-4b608ea4.mp3]"
+  },
+  {
+    "popularity": "299",
+    "turkish_word": "başkan",
+    "part_of_speech": "n",
+    "english_meaning": "president",
+    "turkish_sentence": "Fotoğraf çekilmesi ise, ancak, başkan yasaklamazsa mümkündür.",
+    "english_translation": "Taking pictures is only possible if not prohibited by the president.",
+    "word_audio": "[sound:googletts-071019b0-582636f7-c9058685-22ef5337-5b3774b3.mp3]",
+    "sentence_audio": "[sound:googletts-b5251562-d825b79b-c42ddfdd-a17cca4d-4eafd9c6.mp3]"
+  },
+  {
+    "popularity": "300",
+    "turkish_word": "bölüm",
+    "part_of_speech": "n",
+    "english_meaning": "part, portion, section",
+    "turkish_sentence": "Mozart ve Kanuni Süleyman’a özel bir bölüm ayrılmış.",
+    "english_translation": "A special section is reserved for Mozart and Süleyman the Magnificent.",
+    "word_audio": "[sound:googletts-39d47574-08160fc2-d2c8468b-aa12a56d-afdc3563.mp3]",
+    "sentence_audio": "[sound:googletts-91cb6381-360a0620-472a5db8-f1cd314a-cfe17384.mp3]"
+  },
+  {
+    "popularity": "301",
+    "turkish_word": "fakat",
+    "part_of_speech": "conj",
+    "english_meaning": "but, however, yet",
+    "turkish_sentence": "Bu mektup bana bir hafta önce geldi, fakat ben ne yapacağımı bilemedim.",
+    "english_translation": "This letter arrived a week ago, but I couldn’t figure out what to do.",
+    "word_audio": "[sound:googletts-51c4d467-6f1f3990-30797f47-3b1b9fdd-9ef99749.mp3]",
+    "sentence_audio": "[sound:googletts-cbce63a9-0dbac880-af13c9ba-45a000c5-37a60821.mp3]"
+  },
+  {
+    "popularity": "302",
+    "turkish_word": "gerçek",
+    "part_of_speech": "adj",
+    "english_meaning": "real, true, genuine",
+    "turkish_sentence": "Örneğin, retoriksel bir soru, gerçek bir konuşma başlatmayacaktır.",
+    "english_translation": "For example, a rhetorical question will not initiate a real conversation.",
+    "word_audio": "[sound:googletts-d3e91da8-23105553-d7647c12-91481a70-00cd2314.mp3]",
+    "sentence_audio": "[sound:googletts-fa72f8f1-796e43a8-8609de05-414c7d23-86267be6.mp3]"
+  },
+  {
+    "popularity": "303",
+    "turkish_word": "örnek",
+    "part_of_speech": "n",
+    "english_meaning": "example, sample",
+    "turkish_sentence": "Ortada somut örnek varken uzun uzadıya anlatmak yersiz olacak.",
+    "english_translation": "As long as there is a concrete example, it is unnecessary to explain in detail.",
+    "word_audio": "[sound:googletts-beca5174-adaecb2a-6aed21ba-d9044a16-5eb2a6a9.mp3]",
+    "sentence_audio": "[sound:googletts-6abd77d2-a7ae8aec-53148457-4943886d-cdecf00c.mp3]"
+  },
+  {
+    "popularity": "304",
+    "turkish_word": "haber",
+    "part_of_speech": "n",
+    "english_meaning": "news",
+    "turkish_sentence": "Fransa, günde 24 saat yayın yapacak bir haber kanalı kuruyor.",
+    "english_translation": "France is establishing a news channel that will broadcast 24 hours a day.",
+    "word_audio": "[sound:googletts-9cbb5b6a-d85d314d-9c1e69ad-f02c5e05-ed23817a.mp3]",
+    "sentence_audio": "[sound:googletts-41426201-1d06f524-5669c791-0bc1ea76-5cefa238.mp3]"
+  },
+  {
+    "popularity": "305",
+    "turkish_word": "belirle",
+    "part_of_speech": "v",
+    "english_meaning": "to determine",
+    "turkish_sentence": "Pusulaya baktı gideceği yönü belirledi.",
+    "english_translation": "He looked at the compass and determined the direction to go.",
+    "word_audio": "[sound:googletts-9a052e9e-31c969b1-0d132bee-56adbbb6-905c05b5.mp3]",
+    "sentence_audio": "[sound:googletts-0a04d6fe-8a95d8c1-2842011c-67341f97-3ccdcbad.mp3]"
+  }
+]
